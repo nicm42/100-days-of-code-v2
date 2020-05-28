@@ -31,3 +31,6 @@ Done the header part of my portfolio - at least for mobiles of 375px width. I ne
 
 **27th May 2020**
 Did the skill section and set up the projects section on my portfolio. What took the most time was adding in screenshots and information, which is the boring part.
+
+**28th May 2020**
+Did the contacts section and some desktop layout bits. Got stuck on sizing something, so I am hoping it will become obvious tomorrow.
