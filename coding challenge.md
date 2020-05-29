@@ -34,3 +34,6 @@ Did the skill section and set up the projects section on my portfolio. What took
 
 **28th May 2020**
 Did the contacts section and some desktop layout bits. Got stuck on sizing something, so I am hoping it will become obvious tomorrow.
+
+**29th May 2020**
+Spent some time adding effects and changing my mind a lot. Looking at examples on codepen was really helpful for deciding what I wanted to do.
