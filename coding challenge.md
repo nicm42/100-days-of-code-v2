@@ -1,25 +1,27 @@
 # To learn
-- Alpine JS
-- TypeScript
-- Unit testing
-- React
-- Redux
+- [ ] Alpine JS
+- [ ] TypeScript
+- [ ] Unit testing
+- [ ] React
+- [ ] Redux
 
 
 # To practise
-- CSS Animations/transitions
-- APIs
-- CoffeeScript
+- [ ] CSS Animations/transitions
+- [ ] APIs
+- [ ] CoffeeScript
 
 
 # Goals
-- Launch v2 of portfolio
-- Finish Scrimba UI course
-- Sort out readmes in Github
-- Reach 4kyu for JavaScript on codewars
+- &#10004; Launch v2 of portfolio
+- [ ] Go through GitHub to update readmes
+- [ ] Go through GitHub repositories for archiving/deleting etc
+- [ ] Finish Scrimba UI course
+- [ ] Sort out readmes in Github
+- [ ] Reach 4kyu for JavaScript on codewars
 
 
-# Achieved
+# Learned
 
 
 # Done todayl
@@ -37,3 +39,6 @@ Did the contacts section and some desktop layout bits. Got stuck on sizing somet
 
 **29th May 2020**
 Spent some time adding effects and changing my mind a lot. Looking at examples on codepen was really helpful for deciding what I wanted to do.
+
+**30th May 2020**
+Finished my portfolio! Spent ages wondering why transform-origin wasn't working when I added it in a mixin. I eventually established that it was happy if both it and the transform were outside of the mixin. So I left it like that. But otherwise it works well on everything I tested it on and looks so much better than the old version.
