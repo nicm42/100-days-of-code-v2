@@ -14,17 +14,16 @@
 
 # Goals
 - &#10004; Launch v2 of portfolio
-- [ ] Go through GitHub to update readmes
-- [ ] Go through GitHub repositories for archiving/deleting etc
+- &#10004; Go through GitHub to update readmes
+- &#10004; Go through GitHub repositories for archiving/deleting etc
 - [ ] Finish Scrimba UI course
-- [ ] Sort out readmes in Github
 - [ ] Reach 4kyu for JavaScript on codewars
 
 
 # Learned
 
 
-# Done todayl
+# Done today
 **25th May 2020**
 Set up this file. Set up v2 of my portfolio in GitHub.
 
@@ -42,3 +41,6 @@ Spent some time adding effects and changing my mind a lot. Looking at examples o
 
 **30th May 2020**
 Finished my portfolio! Spent ages wondering why transform-origin wasn't working when I added it in a mixin. I eventually established that it was happy if both it and the transform were outside of the mixin. So I left it like that. But otherwise it works well on everything I tested it on and looks so much better than the old version.
+
+**31st May 2020**
+Went through my GitHub repositories, updating the readmes where they needed updating, archiving old ones and deleting all my forked copies of the Hacktoberfest ones. Then Scrimba emailed about a 7 day JavaScript course with challenges a bit like codewars. So I did the first one - I find out tomorrow if I did it right. It included Jasmine tests in the JS file, so that was interesting to see. I should take note and use it to learn Jasmine and find uses of it to practise it.
