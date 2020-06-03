@@ -1,7 +1,7 @@
 # To learn
 - [ ] Alpine JS
 - [ ] TypeScript
-- [ ] Unit testing
+- [ ] JS testing
 - [ ] React
 - [ ] Redux
 
@@ -47,3 +47,6 @@ Went through my GitHub repositories, updating the readmes where they needed upda
 
 **2nd June 2020**
 I think the Scrimba JS course is too easy, but it's good to have something to keep me doing some JS every day. I started looking at testing with FreeCodeCamp. But after four challenges I gave up because I was just pasting things without understanding why - and there's no explanation. There are a few video tutorials I've found, so I will go through those and see if any are useful.
+
+**3rd June 2020**
+I found some video tutorials on testing and watched a couple on unit testing - one on Jasmine and one on Jest. They are pretty similar, just some different syntax, but it was the principle and general usage I really needed to understand.
