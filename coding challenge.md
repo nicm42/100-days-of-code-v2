@@ -1,4 +1,5 @@
 # To learn
+- [ ] Infinite scrolling
 - [ ] Alpine JS
 - [ ] TypeScript
 - [ ] JS testing
@@ -50,3 +51,6 @@ I think the Scrimba JS course is too easy, but it's good to have something to ke
 
 **3rd June 2020**
 I found some video tutorials on testing and watched a couple on unit testing - one on Jasmine and one on Jest. They are pretty similar, just some different syntax, but it was the principle and general usage I really needed to understand.
+
+**4th June 2020**
+I continued with the Jest testing video, with the integration part. I just need to finish it with the user testing and then try some testing for myself. I realised I didn't get an email about yesterday's Scrimba JS challenge. So then I did yesterday's and it took me a while to get my head around how to do it, but I got there in the end. Today's I wasn't sure about until I remembered I'd done it in FreeCodeCamp.
