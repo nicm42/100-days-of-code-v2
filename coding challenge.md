@@ -54,3 +54,6 @@ I found some video tutorials on testing and watched a couple on unit testing - o
 
 **4th June 2020**
 I continued with the Jest testing video, with the integration part. I just need to finish it with the user testing and then try some testing for myself. I realised I didn't get an email about yesterday's Scrimba JS challenge. So then I did yesterday's and it took me a while to get my head around how to do it, but I got there in the end. Today's I wasn't sure about until I remembered I'd done it in FreeCodeCamp.
+
+**8th June 2020**
+I've spent the past couple of days on JavaScript unit (and integeration and user testing). Starting with the easiest one, unit testing, I took some 8kyu (and a 7kyu) kata in codewars and put in a project to do the testing myself. I'm glad I choe easy katas because the testing took me a while. But I am getting the hang of it now. So next I need to find some harder katas where I can split things into multiple functions and do more testing.
