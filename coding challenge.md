@@ -57,3 +57,6 @@ I continued with the Jest testing video, with the integration part. I just need 
 
 **8th June 2020**
 I've spent the past couple of days on JavaScript unit (and integeration and user testing). Starting with the easiest one, unit testing, I took some 8kyu (and a 7kyu) kata in codewars and put in a project to do the testing myself. I'm glad I choe easy katas because the testing took me a while. But I am getting the hang of it now. So next I need to find some harder katas where I can split things into multiple functions and do more testing.
+
+**9th June 2020**
+Did two 6kyu katas. The testing came in useful because I could test stages to check it was ok, whereas I'd usually just do a console log.
