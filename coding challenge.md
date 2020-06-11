@@ -1,3 +1,8 @@
+# To do
+- [ ] Sort out ES Linter
+- [ ] Update the name and set up of this - different files
+
+
 # To learn
 - [ ] Infinite scrolling
 - [ ] Alpine JS
@@ -60,3 +65,9 @@ I've spent the past couple of days on JavaScript unit (and integeration and user
 
 **9th June 2020**
 Did two 6kyu katas. The testing came in useful because I could test stages to check it was ok, whereas I'd usually just do a console log.
+
+**10th June 2020**
+Did a 5kyu kata. It took me longer than I thought it would, and didn't help that I did more than the kata was asking for, as I found when one of codewars tests found. But I can really see why you'd put small bits in functions so you can test those bits are working.
+
+**11th June 2020**
+I went through three videos of a series on testing, so now I understand it a bit better. I need to do the rest of the videos to see how better to apply it. I did the first day of Scrimba's email CSS challenges. It was really easy, but they did say it would get harder.
