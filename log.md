@@ -40,3 +40,6 @@ Did a 5kyu kata. It took me longer than I thought it would, and didn't help that
 
 **11th June 2020**
 I went through three videos of a series on testing, so now I understand it a bit better. I need to do the rest of the videos to see how better to apply it. I did the first day of Scrimba's email CSS challenges. It was really easy, but they did say it would get harder.
+
+**15th June 2020**
+Caught up on Scrimba's CSS email challenges. I definitely need to look into CSS animations (rather than just transitions) some more. But so far it's all been pretty easy. But the past few days have all been things I only learnt recently, so it's good that I spent a lot of time in 100 days round 2 on CSS.
