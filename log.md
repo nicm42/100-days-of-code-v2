@@ -43,3 +43,6 @@ I went through three videos of a series on testing, so now I understand it a bit
 
 **15th June 2020**
 Caught up on Scrimba's CSS email challenges. I definitely need to look into CSS animations (rather than just transitions) some more. But so far it's all been pretty easy. But the past few days have all been things I only learnt recently, so it's good that I spent a lot of time in 100 days round 2 on CSS.
+
+**16th June 2020**
+Did the second in the series of the 5kyu kata I did last week. It was hard, even though it built on the code I'd written for the first part. But I am starting to get more of an idea of what tests to write and what order to write them/the code.
