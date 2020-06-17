@@ -1,5 +1,6 @@
 # To learn
-- [ ] Infinite scrolling
+- [ ] Parcel
+- [ ] Infinite scrolling/lazy loading
 - [ ] Alpine JS
 - [ ] TypeScript
 - [ ] JS testing
