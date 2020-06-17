@@ -46,3 +46,6 @@ Caught up on Scrimba's CSS email challenges. I definitely need to look into CSS 
 
 **16th June 2020**
 Did the second in the series of the 5kyu kata I did last week. It was hard, even though it built on the code I'd written for the first part. But I am starting to get more of an idea of what tests to write and what order to write them/the code.
+
+**17th June 2020**
+Finished off the Scrimba CSS series. Which never got hard, just had more animations in. I definitely need to play with animations a bit more. I watched another testing video. it was about mocking APIs and I really need to revise APIs and use them some more, but I remember enough to follow along, and it was very helpful in explaining unit testing generally.
