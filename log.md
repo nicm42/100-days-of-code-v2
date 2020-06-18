@@ -49,3 +49,6 @@ Did the second in the series of the 5kyu kata I did last week. It was hard, even
 
 **17th June 2020**
 Finished off the Scrimba CSS series. Which never got hard, just had more animations in. I definitely need to play with animations a bit more. I watched another testing video. it was about mocking APIs and I really need to revise APIs and use them some more, but I remember enough to follow along, and it was very helpful in explaining unit testing generally.
+
+**18th June 2020**
+Watched some more unit testing videos. Then, because it was short and I didn't have much time, watched one on Parcel.
