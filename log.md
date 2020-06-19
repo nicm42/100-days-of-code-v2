@@ -52,3 +52,6 @@ Finished off the Scrimba CSS series. Which never got hard, just had more animati
 
 **18th June 2020**
 Watched some more unit testing videos. Then, because it was short and I didn't have much time, watched one on Parcel.
+
+**19th June 2020**
+I did a couple of 7kyu katas for some light relief and then found a couple series that start at 7kyu and get harder. And then took ages on the 7kyus refactoring them to have fewer lines of code.
