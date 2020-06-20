@@ -55,3 +55,6 @@ Watched some more unit testing videos. Then, because it was short and I didn't h
 
 **19th June 2020**
 I did a couple of 7kyu katas for some light relief and then found a couple series that start at 7kyu and get harder. And then took ages on the 7kyus refactoring them to have fewer lines of code.
+
+**20th June 2020**
+I set up a project with Parcel, which took a while. It turns out it doesn't like it if there's nothing in the body apart from the js file. And then Jest complained about the js importing the scss, although it turns out you can just add the scss into the html's head. I think I set up ESLint, but I'm not sure if it's working yet. And then I set up ome tests. Next I need to work out properly what I'm doing in JS and design something in Figma.
