@@ -58,3 +58,6 @@ I did a couple of 7kyu katas for some light relief and then found a couple serie
 
 **20th June 2020**
 I set up a project with Parcel, which took a while. It turns out it doesn't like it if there's nothing in the body apart from the js file. And then Jest complained about the js importing the scss, although it turns out you can just add the scss into the html's head. I think I set up ESLint, but I'm not sure if it's working yet. And then I set up ome tests. Next I need to work out properly what I'm doing in JS and design something in Figma.
+
+**21st June 2020**
+I did a couple of 6kyus that were in the series I did on the 19th. One wasn't too hard, but the other took a long time - the discussions did say people thought it was closer to a 5kyu than a 6kyu. I started my project layout in Figma, but I need to think about how to make it more interesting/have the relevant bits stand out.
