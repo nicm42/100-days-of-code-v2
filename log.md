@@ -61,3 +61,6 @@ I set up a project with Parcel, which took a while. It turns out it doesn't like
 
 **21st June 2020**
 I did a couple of 6kyus that were in the series I did on the 19th. One wasn't too hard, but the other took a long time - the discussions did say people thought it was closer to a 5kyu than a 6kyu. I started my project layout in Figma, but I need to think about how to make it more interesting/have the relevant bits stand out.
+
+**22nd June 2020**
+Finished most of the testing challenges on FreeCodeCamp. Although they're a different language I understand now much better what they were trying to teach me. I then did a few katas on codewars - I found another couple of series that have n easy and a hard, which make the hard ones much easier to do.
