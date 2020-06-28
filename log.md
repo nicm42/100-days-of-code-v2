@@ -64,3 +64,10 @@ I did a couple of 6kyus that were in the series I did on the 19th. One wasn't to
 
 **22nd June 2020**
 Finished most of the testing challenges on FreeCodeCamp. Although they're a different language I understand now much better what they were trying to teach me. I then did a few katas on codewars - I found another couple of series that have n easy and a hard, which make the hard ones much easier to do.
+
+**27th June 2020**
+Took some time off to watch tennis and be too hot to turn on a computer. It meant I was looking forward to getting back into coding. I decided to ease myself in with some codewars katas. There was a 6kyu one in this week's email that looked interesting and was based on another kata. So I did that kata, and when I looked at the solutions I discovered I'd forgotten replace was a thing (again). I was close to 4kyu, so I did a 7kyu one. And then although I was then at 4kyu it was overall, I was still at 5kyu for JavaScript. So I have to do some more to achieve that goal.
+
+
+**27th June 2020**
+Goal achieved! I got 4kyu in JavaScript. I did the 6kyu kata that went with the one I did yesterday. Using the best practise solution made it much easier. But since I am 4kyu overall, that got me a lot less close to 4kyu in JavaScript than I thought it would. I found an interesting 5kyu kata that people said was much easier, so I did that and it didn't take long. So now I am 4kyu in JavaScript! Now I've achieved that, I need to get back to projects so I can tick off some more of my learning goals.
