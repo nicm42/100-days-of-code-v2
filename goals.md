@@ -3,4 +3,4 @@
 - &#10004; Go through GitHub to update readmes
 - &#10004; Go through GitHub repositories for archiving/deleting etc
 - [ ] Finish Scrimba UI course
-- [ ] Reach 4kyu for JavaScript on codewars
+- &#10004; Reach 4kyu for JavaScript on codewars
