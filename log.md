@@ -68,6 +68,8 @@ Finished most of the testing challenges on FreeCodeCamp. Although they're a diff
 **27th June 2020**
 Took some time off to watch tennis and be too hot to turn on a computer. It meant I was looking forward to getting back into coding. I decided to ease myself in with some codewars katas. There was a 6kyu one in this week's email that looked interesting and was based on another kata. So I did that kata, and when I looked at the solutions I discovered I'd forgotten replace was a thing (again). I was close to 4kyu, so I did a 7kyu one. And then although I was then at 4kyu it was overall, I was still at 5kyu for JavaScript. So I have to do some more to achieve that goal.
 
-
-**27th June 2020**
+**28th June 2020**
 Goal achieved! I got 4kyu in JavaScript. I did the 6kyu kata that went with the one I did yesterday. Using the best practise solution made it much easier. But since I am 4kyu overall, that got me a lot less close to 4kyu in JavaScript than I thought it would. I found an interesting 5kyu kata that people said was much easier, so I did that and it didn't take long. So now I am 4kyu in JavaScript! Now I've achieved that, I need to get back to projects so I can tick off some more of my learning goals.
+
+**29th June 2020**
+I got an email from Kevin Powell (on his email list) that talked about how he learned and one of the things he mentioned was that once he understood something new he'd make a video on it. I've seen lots of things about explaining what you know to help you remember it. Having gone "Oh, yes, replace() is a thing, I must remember that" at the weekend, I thought I'd write a blog post about it. Which turned out to take a lot longer than I thought it would. Not to mention fiddling with the blog: I thought going with wordpress.com, where you can't change much, would mean I wouldn't spend ages fiddling with it. I was wrong. I am no linking to it yet because a blog with one post isn't much. Plus I still have the example stuff up and need to sort out the about and contact pages.
