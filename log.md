@@ -79,3 +79,6 @@ Work wiped me out, so I watched some videos. One on focus styles was really inte
 
 **Day 27: 3rd July 2020**
 I caught up with Coder Coder's series on coding a Frontend Mentor layout. I think I want to try another, now that I've seen her way of doing it. I caught up with Scrimba's JS challenges, but they are still really easy. Then I watched Ania's video on making the Chrome dinosaur game. The code is surprisingly easy, it's knowing what sort of things to do to get it to do what you want that's hard, I think. I will try and work on adding to it. I thought I'd start creating infinite kittens, then discovered it uses IntersectionObserver, and although I've used MutationObserver I'm not sure about IntersectionObserver. Kevin has a YouTube series on it, so I will go through that at some point.
+
+**Day 28: 4th July 2020**
+I worked on the dinosaur game, adding things to do it. And a long to do list! After playing it a lot I had to add an option to turn the background off because it was making me dizzy. But it's been fun and interesting and I've learnt more about how what we did in the tutorial works.
