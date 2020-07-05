@@ -82,3 +82,6 @@ I caught up with Coder Coder's series on coding a Frontend Mentor layout. I thin
 
 **Day 28: 4th July 2020**
 I worked on the dinosaur game, adding things to do it. And a long to do list! After playing it a lot I had to add an option to turn the background off because it was making me dizzy. But it's been fun and interesting and I've learnt more about how what we did in the tutorial works.
+
+**Day 29: 5th July 2020**
+I worked more on the dinosaur game. It took me ages to understand what was going on with the cacti when you click play after having died. Now I really understand what removeChild does. And then I spent ages trying to work out a formula to get the background and cacti to move at the same speed no matter what size your browser window is. And then I updated my blog talking about learning and realised the about page wasn't that useful.
