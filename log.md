@@ -85,3 +85,6 @@ I worked on the dinosaur game, adding things to do it. And a long to do list! Af
 
 **Day 29: 5th July 2020**
 I worked more on the dinosaur game. It took me ages to understand what was going on with the cacti when you click play after having died. Now I really understand what removeChild does. And then I spent ages trying to work out a formula to get the background and cacti to move at the same speed no matter what size your browser window is. And then I updated my blog talking about learning and realised the about page wasn't that useful.
+
+**Day 30: 6th July 2020**
+I worked more on the dinosaur game. Not as much time today, but I did get the background speed sorted and did a couple of small changes. I've almost done all the JS on the to do list!
