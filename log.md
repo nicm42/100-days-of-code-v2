@@ -91,3 +91,6 @@ I worked more on the dinosaur game. Not as much time today, but I did get the ba
 
 **Day 31: 8th July 2020**
 I worked on the dinosaur game. Getting it work in lower gravity was not quite how I expected, but I worked it out in the end.
+
+**Day 32: 10th July 2020**
+I worked on the dinosaur game. I sored out the high scores for Earth and the moon and made it work if you tap the screen. I also added some animation to the end to have the dinosaur fall over and the obstacles fade out.
