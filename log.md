@@ -94,3 +94,6 @@ I worked on the dinosaur game. Getting it work in lower gravity was not quite ho
 
 **Day 32: 10th July 2020**
 I worked on the dinosaur game. I sored out the high scores for Earth and the moon and made it work if you tap the screen. I also added some animation to the end to have the dinosaur fall over and the obstacles fade out.
+
+**Day 33: 11th July 2020**
+I did quite a bit of CSS on the dinosaur game. It doesn't look like much but the toggle took a while as it needed to be a checkbox rather than a button. Then when I first did it I discovered it wasn't accessible, so then I needed to re-do it and then re-work out how to add the on and off text.
