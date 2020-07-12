@@ -97,3 +97,6 @@ I worked on the dinosaur game. I sored out the high scores for Earth and the moo
 
 **Day 33: 11th July 2020**
 I did quite a bit of CSS on the dinosaur game. It doesn't look like much but the toggle took a while as it needed to be a checkbox rather than a button. Then when I first did it I discovered it wasn't accessible, so then I needed to re-do it and then re-work out how to add the on and off text.
+
+**Day 34: 12th July 2020**
+Did some work on the CSS on the dinosaur game, sorting out the layout. It looks so much better with a decent font and with everything laid out, rather than next to each other.
