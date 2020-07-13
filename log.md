@@ -100,3 +100,6 @@ I did quite a bit of CSS on the dinosaur game. It doesn't look like much but the
 
 **Day 34: 12th July 2020**
 Did some work on the CSS on the dinosaur game, sorting out the layout. It looks so much better with a decent font and with everything laid out, rather than next to each other.
+
+**Day 35: 13th July 2020**
+Played about with some images, so the game now involves a dragon jumping over curling rocks. Since they could be said to have been thrown at him, it means we no longer need the background. So all that time I spent getting it moving at the same speed as the cacti was useless... But I can use the background toggle as a sound toggle, so all that work is not completely lost.
