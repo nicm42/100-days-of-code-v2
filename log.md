@@ -103,3 +103,6 @@ Did some work on the CSS on the dinosaur game, sorting out the layout. It looks 
 
 **Day 35: 13th July 2020**
 Played about with some images, so the game now involves a dragon jumping over curling rocks. Since they could be said to have been thrown at him, it means we no longer need the background. So all that time I spent getting it moving at the same speed as the cacti was useless... But I can use the background toggle as a sound toggle, so all that work is not completely lost.
+
+**Day 36: 13th July 2020**
+Finished the dinosaur game - which is now the dragon jupming game. And then when I tried it on mobile I found some things to change, so I will do that tomorrow. The sounds turned out to be a pain because I did the game over one first. When I press Play Again the page then reloads and the browser doesn't think I've pressed anything, if I haven't jumped. That was fixed by jumping before dying. I could put a lot of work in to fix that, but it's not going to be the end of the world if there's no sound on game over. Plus I've spent a lot of time on this game and have other things I want to get to, so it's time to stop adding in features.
