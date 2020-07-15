@@ -106,3 +106,6 @@ Played about with some images, so the game now involves a dragon jumping over cu
 
 **Day 36: 13th July 2020**
 Finished the dinosaur game - which is now the dragon jupming game. And then when I tried it on mobile I found some things to change, so I will do that tomorrow. The sounds turned out to be a pain because I did the game over one first. When I press Play Again the page then reloads and the browser doesn't think I've pressed anything, if I haven't jumped. That was fixed by jumping before dying. I could put a lot of work in to fix that, but it's not going to be the end of the world if there's no sound on game over. Plus I've spent a lot of time on this game and have other things I want to get to, so it's time to stop adding in features.
+
+**Day 37: 14th July 2020**
+Finished off the dragon jupming game - sorting out a few bits that didn't work on mobile. As useful as VS Code's live server is, using Gulp is better because then I can use it to check the page on mobile without having to upload it to somewhere. I also sorted out the focus states on my portfolio and added the Dragon Jumping Game to it. I also finished off the Pirate Island Conquer series on Codewars.
