@@ -104,8 +104,14 @@ Did some work on the CSS on the dinosaur game, sorting out the layout. It looks 
 **Day 35: 13th July 2020**
 Played about with some images, so the game now involves a dragon jumping over curling rocks. Since they could be said to have been thrown at him, it means we no longer need the background. So all that time I spent getting it moving at the same speed as the cacti was useless... But I can use the background toggle as a sound toggle, so all that work is not completely lost.
 
-**Day 36: 13th July 2020**
+**Day 36: 14th July 2020**
 Finished the dinosaur game - which is now the dragon jupming game. And then when I tried it on mobile I found some things to change, so I will do that tomorrow. The sounds turned out to be a pain because I did the game over one first. When I press Play Again the page then reloads and the browser doesn't think I've pressed anything, if I haven't jumped. That was fixed by jumping before dying. I could put a lot of work in to fix that, but it's not going to be the end of the world if there's no sound on game over. Plus I've spent a lot of time on this game and have other things I want to get to, so it's time to stop adding in features.
 
-**Day 37: 14th July 2020**
+**Day 37: 15th July 2020**
 Finished off the dragon jupming game - sorting out a few bits that didn't work on mobile. As useful as VS Code's live server is, using Gulp is better because then I can use it to check the page on mobile without having to upload it to somewhere. I also sorted out the focus states on my portfolio and added the Dragon Jumping Game to it. I also finished off the Pirate Island Conquer series on Codewars.
+
+**Day 38: 17th July 2020**
+Watched the last part of Coder Coder's video on the Frontend Mentor site. It was so useful - I am looking forward to working on another site and using teh tips and tricks I've picked up from those videos.
+
+**Day 39: 19th July 2020**
+Finished the section of the UI course I was on. I am excied to do the next sections about shadows and animation because those are the ones I'm less sure about what is good UI. I did a couple of katas on codewars that were in my email because they looked interesting. One a 6kyu and one a 7kyu that's part of a gaming series. I am looking forward to doing the 6kyu and 5kyus in that series. I also wrote a couple of blog posts about the things I actually remembered to use for once!
