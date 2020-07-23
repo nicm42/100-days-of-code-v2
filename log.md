@@ -116,5 +116,8 @@ Watched the last part of Coder Coder's video on the Frontend Mentor site. It was
 **Day 39: 19th July 2020**
 Finished the section of the UI course I was on. I am excied to do the next sections about shadows and animation because those are the ones I'm less sure about what is good UI. I did a couple of katas on codewars that were in my email because they looked interesting. One a 6kyu and one a 7kyu that's part of a gaming series. I am looking forward to doing the 6kyu and 5kyus in that series. I also wrote a couple of blog posts about the things I actually remembered to use for once!
 
-**Day 40: 21st July 2020**
+**Day 40: 22nd July 2020**
 Finally got back to Guess the Number. I've got the browser doing what the unit tests are doing. I learnt more about tests, when I had some code not in a function make the tests unhappy.
+
+**Day 41: 23rd July 2020**
+I got to the point where I needed to do some user testing, so went to use Pupeeteer, as I've done in a tutorial. But then spent ages fighting with it and trying to understand the documentation. I think I might have got in a mess with installing it, so I might have to start again with a new folder and see if that fixes it.
