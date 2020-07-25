@@ -120,4 +120,7 @@ Finished the section of the UI course I was on. I am excied to do the next secti
 Finally got back to Guess the Number. I've got the browser doing what the unit tests are doing. I learnt more about tests, when I had some code not in a function make the tests unhappy.
 
 **Day 41: 23rd July 2020**
-I got to the point where I needed to do some user testing, so went to use Pupeeteer, as I've done in a tutorial. But then spent ages fighting with it and trying to understand the documentation. I think I might have got in a mess with installing it, so I might have to start again with a new folder and see if that fixes it.
+I got to the point where I needed to do some user testing, so went to use Puppeteer, as I've done in a tutorial. But then spent ages fighting with it and trying to understand the documentation. I think I might have got in a mess with installing it, so I might have to start again with a new folder and see if that fixes it.
+
+**Day 42: 25rd July 2020**
+Turns out Parcel and Puppeteer don't play well together and can't both be running at once. But I still have a problem with Puppeteer leaking that I can't work out how to fix.
