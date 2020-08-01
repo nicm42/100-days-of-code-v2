@@ -124,3 +124,6 @@ I got to the point where I needed to do some user testing, so went to use Puppet
 
 **Day 42: 25rd July 2020**
 Turns out Parcel and Puppeteer don't play well together and can't both be running at once. But I still have a problem with Puppeteer leaking that I can't work out how to fix.
+
+**Day 43: 1st August 2020**
+Took a break and I'm none the wiser. But it seems that Jest will do DOM manipulation. So I will try that when I have more of a brain. Meanwhile I changed some of the functionality to get it how I want, so then I can just get the tests working and not have to change them.
