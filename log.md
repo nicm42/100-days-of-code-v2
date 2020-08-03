@@ -130,3 +130,6 @@ Took a break and I'm none the wiser. But it seems that Jest will do DOM manipula
 
 **Day 44: 2nd August 2020**
 Took a break from Guess the Number to revise asynchronous code to see if anything then jumped out at me with my data leak. It didn't, but I now understand what everything in the test function is doing, which is a start.
+
+**Day 45: 3rd August 2020**
+I understand why my second Puppeteer test failed, although not yet how to fix it. I tried to do some DOM manipulation in Jest and got confused. I found a simple example, which mine was similar to, but that just didn't work. When searching for the answer I came across Cypress, which looks like it will do the same thing only simpler. I only had time to install it and read a bit of the docs, but I am looking forward to trying it out tomorrow.
