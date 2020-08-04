@@ -133,3 +133,6 @@ Took a break from Guess the Number to revise asynchronous code to see if anythin
 
 **Day 45: 3rd August 2020**
 I understand why my second Puppeteer test failed, although not yet how to fix it. I tried to do some DOM manipulation in Jest and got confused. I found a simple example, which mine was similar to, but that just didn't work. When searching for the answer I came across Cypress, which looks like it will do the same thing only simpler. I only had time to install it and read a bit of the docs, but I am looking forward to trying it out tomorrow.
+
+**Day 46: 4th August 2020**
+Cypress is so easy! Well, there's lots of stuff about it I still need to learn, but I've done all the tests I've been struggling to do with Cypress for a while.
