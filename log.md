@@ -136,3 +136,6 @@ I understand why my second Puppeteer test failed, although not yet how to fix it
 
 **Day 46: 4th August 2020**
 Cypress is so easy! Well, there's lots of stuff about it I still need to learn, but I've done all the tests I've been struggling to do with Cypress for a while.
+
+**Day 47: 5th August 2020**
+Did some more Cypress testing. It's a bit different to unit testing where you test little things at a time. This one you test everything at once, because it will stop at the first failure and show you it. I think I am done with the JavaScript for Guess the Number, so next I need to do the CSS.
