@@ -139,3 +139,9 @@ Cypress is so easy! Well, there's lots of stuff about it I still need to learn, 
 
 **Day 47: 5th August 2020**
 Did some more Cypress testing. It's a bit different to unit testing where you test little things at a time. This one you test everything at once, because it will stop at the first failure and show you it. I think I am done with the JavaScript for Guess the Number, so next I need to do the CSS.
+
+**Day 48: 19th August 2020**
+Took a break for the heatwave and working a lot of overtime. I decided to ease myself in gradually and finished off the Quality Assurance and Testing with Chai section on FreeCodeCamp now that I've revised async. It was easy, except that somehow the brackets got in a mess - I ended up putting the whole thing in VSCode and beautifying it before I could see what was wrong. I then did the Managing Packages with NPM module, which told me more about what was going on with the package.json.
+
+**Day 49: 20th August 2020**
+I started Data Visualization with D3 on FreeCodeCamp to see what it was like. It's just like JavaScript really, just with some different syntax. At least so far - I've only just started and haven't got to anything complicated yet.
