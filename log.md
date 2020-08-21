@@ -145,3 +145,6 @@ Took a break for the heatwave and working a lot of overtime. I decided to ease m
 
 **Day 49: 20th August 2020**
 I started Data Visualization with D3 on FreeCodeCamp to see what it was like. It's just like JavaScript really, just with some different syntax. At least so far - I've only just started and haven't got to anything complicated yet.
+
+**Day 50: 21st August 2020**
+I did some more of D3 on FreeCodeCamp. It's useful having already done a lot of JS and worked with some SVGs, so that's keeping it simple. I'm not sure I'm keen on it though. But, of course, that could be because I haven't got to the interesting bits yet.
