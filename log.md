@@ -148,3 +148,6 @@ I started Data Visualization with D3 on FreeCodeCamp to see what it was like. It
 
 **Day 50: 21st August 2020**
 I did some more of D3 on FreeCodeCamp. It's useful having already done a lot of JS and worked with some SVGs, so that's keeping it simple. I'm not sure I'm keen on it though. But, of course, that could be because I haven't got to the interesting bits yet.
+
+**Day 51: 22nd August 2020**
+I finished the D3 challenges. I have concluded I'm not as interested in it as I am creating websites and games. But the certification might be useful to do because it is pretty much JS and would make me practise SVGs and arrow functions. And also it involves using APIs to get the data, which I also need to practise.
