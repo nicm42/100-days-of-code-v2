@@ -151,3 +151,6 @@ I did some more of D3 on FreeCodeCamp. It's useful having already done a lot of 
 
 **Day 51: 22nd August 2020**
 I finished the D3 challenges. I have concluded I'm not as interested in it as I am creating websites and games. But the certification might be useful to do because it is pretty much JS and would make me practise SVGs and arrow functions. And also it involves using APIs to get the data, which I also need to practise.
+
+**Day 52: 23rd August 2020**
+I did the shadows module of the UI Design Bootcamp. I had been looking forward to it and it was really good - I now understand a lot more about how to do use box shadows and how to make them look good.
