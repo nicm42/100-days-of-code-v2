@@ -154,3 +154,6 @@ I finished the D3 challenges. I have concluded I'm not as interested in it as I 
 
 **Day 52: 23rd August 2020**
 I did the shadows module of the UI Design Bootcamp. I had been looking forward to it and it was really good - I now understand a lot more about how to do use box shadows and how to make them look good.
+
+**Day 53: 24th August 2020**
+I did the gradients module of the UI Design Bootcamp. I've used gradiants quite a bit, but this was really useful for understanding how to use them to make things look good, which I wasn't so good on before.
