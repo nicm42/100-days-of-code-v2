@@ -157,3 +157,6 @@ I did the shadows module of the UI Design Bootcamp. I had been looking forward t
 
 **Day 53: 24th August 2020**
 I did the gradients module of the UI Design Bootcamp. I've used gradiants quite a bit, but this was really useful for understanding how to use them to make things look good, which I wasn't so good on before.
+
+**Day 54: 25th August 2020**
+I did the forms module of the UI Design Bootcamp. I struggled with this, not because it was hard and I didn't know what to do, but because I spend so much time looking at forms, effectively, that I have a lot of opinons on it and didn't always agree with the designs he came up with. But I think this is an area where I know too much, as forms aren't going to be quite as involved as a survey.
