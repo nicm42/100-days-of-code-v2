@@ -160,3 +160,9 @@ I did the gradients module of the UI Design Bootcamp. I've used gradiants quite 
 
 **Day 54: 25th August 2020**
 I did the forms module of the UI Design Bootcamp. I struggled with this, not because it was hard and I didn't know what to do, but because I spend so much time looking at forms, effectively, that I have a lot of opinons on it and didn't always agree with the designs he came up with. But I think this is an area where I know too much, as forms aren't going to be quite as involved as a survey.
+
+**Day 55: 26th August 2020**
+Started a challenge on Codingame. It took me a while to remember how it all worked. Then the one I picked was actually quite tricky, so I didn't finish it.
+
+**Day 56: 27th August 2020**
+Finished the Codingame challenge. I wish when you submitted it showed you other people's solutions, like on codewars, so I can see how I might have done it better/more simply.
