@@ -166,3 +166,6 @@ Started a challenge on Codingame. It took me a while to remember how it all work
 
 **Day 56: 27th August 2020**
 Finished the Codingame challenge. I wish when you submitted it showed you other people's solutions, like on codewars, so I can see how I might have done it better/more simply.
+
+**Day 57: 29th August 2020**
+Went back to the UI Design Bootcamp and did two-thirds of the animation module. I struggled with this, partly because I twice thought I was deleting something in the CSS and it actually took me a back a page, thus losing what I'd done. And also because I struggled with the design and what it was supposed to look like, because I didn't think it looked that good at any point.
