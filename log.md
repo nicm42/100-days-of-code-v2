@@ -169,3 +169,6 @@ Finished the Codingame challenge. I wish when you submitted it showed you other 
 
 **Day 57: 29th August 2020**
 Went back to the UI Design Bootcamp and did two-thirds of the animation module. I struggled with this, partly because I twice thought I was deleting something in the CSS and it actually took me a back a page, thus losing what I'd done. And also because I struggled with the design and what it was supposed to look like, because I didn't think it looked that good at any point.
+
+**Day 58: 31st August 2020**
+Finished the animation module of the UI Design Bootcamp. Although the Greensock lesson was hard to work out what was going on because there was nothing to see. I started the final project, but so far it's just been watching the HTML set up.
