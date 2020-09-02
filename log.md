@@ -172,3 +172,6 @@ Went back to the UI Design Bootcamp and did two-thirds of the animation module. 
 
 **Day 58: 31st August 2020**
 Finished the animation module of the UI Design Bootcamp. Although the Greensock lesson was hard to work out what was going on because there was nothing to see. I started the final project, but so far it's just been watching the HTML set up.
+
+**Day 59: 2nd September 2020**
+Finished the UI Design Bootcamp! I did learn a lot, but I found it hard to follow sometimes because the cursor wouldn't point to the same place I was seeing as he was. And anything he did at the bottom never scrolled down far enough. I struggled a bit with his markup too - I knew what I wanted to do, but if I was doing it I'd have done the HTML differently. Not to mention that some of the contrast in the live browser was hard to see on a sunny day or not in natural light. So it's been good and useful, but a bit frustrating.
