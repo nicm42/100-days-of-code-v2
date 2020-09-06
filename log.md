@@ -178,3 +178,9 @@ Finished the UI Design Bootcamp! I did learn a lot, but I found it hard to follo
 
 **Day 60: 4th September 2020**
 Added in accessibility testing with Cypress to Guess the Number. Although I found that running axe in the browser gave me more useful error messages. All the testing was still useful, as it threw up something that I broke when I fixed the accessibility.
+
+**Day 61: 5th September 2020**
+Payed with the form in Guess the Number. It's got a bit complicated about where to do validation and whether the form submits.
+
+**Day 62: 6th September 2020**
+Finally sorted out the submit problems in Guess the Number. Which meant I could then start on the CSS.
