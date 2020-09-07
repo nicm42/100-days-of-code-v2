@@ -184,3 +184,6 @@ Payed with the form in Guess the Number. It's got a bit complicated about where 
 
 **Day 62: 6th September 2020**
 Finally sorted out the submit problems in Guess the Number. Which meant I could then start on the CSS.
+
+**Day 63: 7th September 2020**
+Finished off Guess the Number! It's looking so much better now. But I need to test it on my phone and Parcel's localhost doesn't allow that. So I'll have to upload it in order to test it. It also means that I think I'll go back to Gulp - I do have it set up and sorted now, which is what takes the most amount of time. And at least it involves fewer files.
