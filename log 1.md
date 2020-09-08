@@ -187,3 +187,6 @@ Finally sorted out the submit problems in Guess the Number. Which meant I could 
 
 **Day 63: 7th September 2020**
 Finished off Guess the Number! It's looking so much better now. But I need to test it on my phone and Parcel's localhost doesn't allow that. So I'll have to upload it in order to test it. It also means that I think I'll go back to Gulp - I do have it set up and sorted now, which is what takes the most amount of time. And at least it involves fewer files.
+
+**Day 64: 8th September 2020**
+Tested Guess the Number on different devices, made a few changes and now it's all done! I feel like I've been working on it for so long that I'm excited to do something different. And play with Jest and Cypress some more on a new project.
