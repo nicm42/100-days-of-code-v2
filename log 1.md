@@ -190,3 +190,6 @@ Finished off Guess the Number! It's looking so much better now. But I need to te
 
 **Day 64: 8th September 2020**
 Tested Guess the Number on different devices, made a few changes and now it's all done! I feel like I've been working on it for so long that I'm excited to do something different. And play with Jest and Cypress some more on a new project.
+
+**Day 65: 9th September 2020**
+Set up the Red Dwarf XII animation. Just installing all the Gulp files takes a while! But now it's all ready to start.
