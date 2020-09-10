@@ -193,3 +193,6 @@ Tested Guess the Number on different devices, made a few changes and now it's al
 
 **Day 65: 9th September 2020**
 Set up the Red Dwarf XII animation. Just installing all the Gulp files takes a while! But now it's all ready to start.
+
+**Day 66: 10th September 2020**
+I'm so glad you can adjust properties in the dev tools because getting the ellipse looking right and positioned right depended on changing multiple properties at the same time. And was a total pain.
