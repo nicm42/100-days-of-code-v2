@@ -196,3 +196,6 @@ Set up the Red Dwarf XII animation. Just installing all the Gulp files takes a w
 
 **Day 66: 10th September 2020**
 I'm so glad you can adjust properties in the dev tools because getting the ellipse looking right and positioned right depended on changing multiple properties at the same time. And was a total pain.
+
+**Day 67: 11th September 2020**
+Did some more stuff on the logo. Gettings the red of the ellipse behind the gaps in the R and D was a bit of a pain, but that was all about size and positioning again. I couldn't get the W and A behind the red of the ellipse without them also being behind the black of the ellipse, which has to be on top of the red by definition. So I used before and after to recreate the red section. And then discovered on the animation that the ellipse is behind all the letters, it's only on the non-moving logo that it's in front. Oh, well, at least I was confident in using before and after, which I never would have been able to do six months ago.
