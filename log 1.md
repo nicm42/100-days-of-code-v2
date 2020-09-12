@@ -199,3 +199,6 @@ I'm so glad you can adjust properties in the dev tools because getting the ellip
 
 **Day 67: 11th September 2020**
 Did some more stuff on the logo. Gettings the red of the ellipse behind the gaps in the R and D was a bit of a pain, but that was all about size and positioning again. I couldn't get the W and A behind the red of the ellipse without them also being behind the black of the ellipse, which has to be on top of the red by definition. So I used before and after to recreate the red section. And then discovered on the animation that the ellipse is behind all the letters, it's only on the non-moving logo that it's in front. Oh, well, at least I was confident in using before and after, which I never would have been able to do six months ago.
+
+**Day 68: 12th September 2020**
+Added the starfield and most of the animations on the logo. THe starfield turned out to be more complicated than I thought because it needed to be on top of the black ellipse but below the red ellipse, even though the black ellipse needs to be on top of the red ellipse. I ended up doing a separate starfield for that. Then the animations turned out to be a bit more complicated. I feel like coming back to it will make crossing the two Is to make an X easier.
