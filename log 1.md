@@ -202,3 +202,6 @@ Did some more stuff on the logo. Gettings the red of the ellipse behind the gaps
 
 **Day 68: 12th September 2020**
 Added the starfield and most of the animations on the logo. THe starfield turned out to be more complicated than I thought because it needed to be on top of the black ellipse but below the red ellipse, even though the black ellipse needs to be on top of the red ellipse. I ended up doing a separate starfield for that. Then the animations turned out to be a bit more complicated. I feel like coming back to it will make crossing the two Is to make an X easier.
+
+**Day 69: 13th September 2020**
+Animated the two Is to make an X. Which was easier after a break. Although what took the most time was trying different methods to get them to animate at all, and then finding it was because I'd spelt deg as eg...
