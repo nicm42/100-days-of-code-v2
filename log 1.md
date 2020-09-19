@@ -205,3 +205,6 @@ Added the starfield and most of the animations on the logo. THe starfield turned
 
 **Day 69: 13th September 2020**
 Animated the two Is to make an X. Which was easier after a break. Although what took the most time was trying different methods to get them to animate at all, and then finding it was because I'd spelt deg as eg...
+
+**Day 70: 19th September 2020**
+Watched two of Kevin's recent videos about margin auto (which was mind-blowing - positioning is much easier than I thought it was) and about the space under images, which I don't think I've ever had a problem with, but it's useful to know about. Mostly sorted out the triangles on the bottom of the Xs, so they have a flat bottom. It needs a bit more sorting, but it's mostly there.
