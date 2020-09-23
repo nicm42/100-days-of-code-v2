@@ -211,3 +211,6 @@ Watched two of Kevin's recent videos about margin auto (which was mind-blowing -
 
 **Day 71: 20th September 2020**
 Finally got the numeral animation sorted out. Lots of fun with triangles...
+
+**Day 72: 24th September 2020**
+Started on making everything proportional. Which turns out to be really hard - it took me ages to work out the exact positionings of everything and now I have to re-work it out (made especially difficult by needing to change the text size depending on the purple circle's size).
