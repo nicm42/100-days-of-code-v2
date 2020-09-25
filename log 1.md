@@ -214,3 +214,9 @@ Finally got the numeral animation sorted out. Lots of fun with triangles...
 
 **Day 72: 24th September 2020**
 Started on making everything proportional. Which turns out to be really hard - it took me ages to work out the exact positionings of everything and now I have to re-work it out (made especially difficult by needing to change the text size depending on the purple circle's size).
+
+**Day 73: 25th September 2020**
+Didn't really achieve much. I tried using various fit text js things to sort out the text size, but they didn't work. I tried using an SVG instead and that didn't really work plus added in complications with letter colouring and the before and afters I needed.
+
+**Day 74: 25th September 2020**
+Finally got the text sizing sorted by working out a system in px and doing it in JS. Mostly I'm just amazed it works! I then fixed the ellipse, which was just as much of a pain to position in percent as it was in px.
