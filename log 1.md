@@ -220,3 +220,6 @@ Didn't really achieve much. I tried using various fit text js things to sort out
 
 **Day 74: 25th September 2020**
 Finally got the text sizing sorted by working out a system in px and doing it in JS. Mostly I'm just amazed it works! I then fixed the ellipse, which was just as much of a pain to position in percent as it was in px.
+
+**Day 75: 26th September 2020**
+Managed to sort out the numeral sizes, which was a complete pain. It's just not as easily relatable to the font size as I thought it was going to be.
