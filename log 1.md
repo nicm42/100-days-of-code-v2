@@ -223,3 +223,6 @@ Finally got the text sizing sorted by working out a system in px and doing it in
 
 **Day 75: 26th September 2020**
 Managed to sort out the numeral sizes, which was a complete pain. It's just not as easily relatable to the font size as I thought it was going to be.
+
+**Day 76: 27th September 2020**
+Found the triangles on the Xs weren't quite right. It feels like every time I fix something, I come back the next day and find something wrong with it. I've now got it all sorted - I hope! - except for the canvas on window resize.
