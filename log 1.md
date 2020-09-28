@@ -226,3 +226,6 @@ Managed to sort out the numeral sizes, which was a complete pain. It's just not 
 
 **Day 76: 27th September 2020**
 Found the triangles on the Xs weren't quite right. It feels like every time I fix something, I come back the next day and find something wrong with it. I've now got it all sorted - I hope! - except for the canvas on window resize.
+
+**Day 77: 28th September 2020**
+I realised I didn't need to use the canvas to add the stars, they could just be divs. They made it much easier to redraw them all when the window was resized. I also found a simple way to only run the animations when everything is loaded, so it doesn't all run twice any more.
