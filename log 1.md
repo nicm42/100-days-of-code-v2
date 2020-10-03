@@ -229,3 +229,6 @@ Found the triangles on the Xs weren't quite right. It feels like every time I fi
 
 **Day 77: 28th September 2020**
 I realised I didn't need to use the canvas to add the stars, they could just be divs. They made it much easier to redraw them all when the window was resized. I also found a simple way to only run the animations when everything is loaded, so it doesn't all run twice any more.
+
+**Day 78: 3rd October 2020**
+I added the sun, which took a while. I thought I was done, but then opened it in Chrome and it's a complete mess. I have no idea why, but I think I checked it when everything was a specific size and it was fine then. It's obviously interpreting something differently to Firefox, but finding out what is a job for another day.
