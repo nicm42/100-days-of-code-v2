@@ -232,3 +232,6 @@ I realised I didn't need to use the canvas to add the stars, they could just be 
 
 **Day 78: 3rd October 2020**
 I added the sun, which took a while. I thought I was done, but then opened it in Chrome and it's a complete mess. I have no idea why, but I think I checked it when everything was a specific size and it was fine then. It's obviously interpreting something differently to Firefox, but finding out what is a job for another day.
+
+**Day 79: 4th October 2020**
+The Red Dwarf XII animation is done! I just need to check it everywhere now I've pushed it all to master and uploaded it, but that can wait for another day. I'm just glad it's done now - it's been fun, but it's taken a while and I'm looking forward to doing something else.
