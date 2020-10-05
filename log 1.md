@@ -235,3 +235,6 @@ I added the sun, which took a while. I thought I was done, but then opened it in
 
 **Day 79: 4th October 2020**
 The Red Dwarf XII animation is done! I just need to check it everywhere now I've pushed it all to master and uploaded it, but that can wait for another day. I'm just glad it's done now - it's been fun, but it's taken a while and I'm looking forward to doing something else.
+
+**Day 80: 5th October 2020**
+The Red Dwarf XII animation was fine, so I've declared it done. I started on a StyleStage layout. I had an idea for a rainbow layout, so I've been having fun adding rainbow colours all over the place. Not yet worrying about whether it's readable or laid out well. But I have learnt more about nth-child and grids.
