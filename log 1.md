@@ -238,3 +238,6 @@ The Red Dwarf XII animation is done! I just need to check it everywhere now I've
 
 **Day 80: 5th October 2020**
 The Red Dwarf XII animation was fine, so I've declared it done. I started on a StyleStage layout. I had an idea for a rainbow layout, so I've been having fun adding rainbow colours all over the place. Not yet worrying about whether it's readable or laid out well. But I have learnt more about nth-child and grids.
+
+**Day 81: 11th October 2020**
+Did some more of the rainbow layout. I don't really have a plan, I just keep adding rainbows to things and seeing how it looks! It's fun, though.
