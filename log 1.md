@@ -241,3 +241,9 @@ The Red Dwarf XII animation was fine, so I've declared it done. I started on a S
 
 **Day 81: 11th October 2020**
 Did some more of the rainbow layout. I don't really have a plan, I just keep adding rainbows to things and seeing how it looks! It's fun, though.
+
+**Day 82: 12th October 2020**
+Did some more of the rainbow layout. It's getting frustrating deciding what to change,
+
+**Day 83: 13th October 2020**
+Did a load more work on the rainbow layout. I sat down and made a plan, and although I changed a few things after that, it made everything so much easier. It is all sorted in Firefox. I opened it in Chrome and noticed a few things that aren't working, but that's something for another day.
