@@ -247,3 +247,6 @@ Did some more of the rainbow layout. It's getting frustrating deciding what to c
 
 **Day 83: 13th October 2020**
 Did a load more work on the rainbow layout. I sat down and made a plan, and although I changed a few things after that, it made everything so much easier. It is all sorted in Firefox. I opened it in Chrome and noticed a few things that aren't working, but that's something for another day.
+
+**Day 84: 14th October 2020**
+I did Scrimba's web dev weekly thing. And submitted it for the contest. I feel like other people will go really fancy with amazing designs, but I went simple, with just shades of one colour (plus black). I didn't have time to get to the stretch goals - I could go back and do them, but I want to get the style stage layout done.
