@@ -250,3 +250,6 @@ Did a load more work on the rainbow layout. I sat down and made a plan, and alth
 
 **Day 84: 14th October 2020**
 I did Scrimba's web dev weekly thing. And submitted it for the contest. I feel like other people will go really fancy with amazing designs, but I went simple, with just shades of one colour (plus black). I didn't have time to get to the stretch goals - I could go back and do them, but I want to get the style stage layout done.
+
+**Day 85: 15th October 2020**
+Got the Style Stage rainbow layout working in Chrome and on mobile. I spent some time finding things that don't work the same in both browsers (eg Firefox splits words at the slash but Chrome doesn't, also mobiles don't do fixed backgrounds - but it looks pretty cool unfixed too). I just need to test it on Windows tomorrow, and hopefully I'll be able to submit it soon.
