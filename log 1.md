@@ -253,3 +253,6 @@ I did Scrimba's web dev weekly thing. And submitted it for the contest. I feel l
 
 **Day 85: 15th October 2020**
 Got the Style Stage rainbow layout working in Chrome and on mobile. I spent some time finding things that don't work the same in both browsers (eg Firefox splits words at the slash but Chrome doesn't, also mobiles don't do fixed backgrounds - but it looks pretty cool unfixed too). I just need to test it on Windows tomorrow, and hopefully I'll be able to submit it soon.
+
+**Day 86: 16th October 2020**
+I submitted my Style Stage CSS. The process is much less scary than it was this time last year when I've never done a PR. I do them often, since I found that doing them on GitHub is much easier than in SmartGit (in SmartGit I always get confused about which branch I should be on to start with). I'm still a bit nervous about feedback and possible changes, but I can see that other people had them and fixed them and no one was horrible about it, so it will be fine..
