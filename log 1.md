@@ -256,3 +256,6 @@ Got the Style Stage rainbow layout working in Chrome and on mobile. I spent some
 
 **Day 86: 16th October 2020**
 I submitted my Style Stage CSS. The process is much less scary than it was this time last year when I've never done a PR. I do them often, since I found that doing them on GitHub is much easier than in SmartGit (in SmartGit I always get confused about which branch I should be on to start with). I'm still a bit nervous about feedback and possible changes, but I can see that other people had them and fixed them and no one was horrible about it, so it will be fine..
+
+**Day 87: 17th October 2020**
+I had a small changed to make to my style stage submission, then it was all accepted. There it is on the site - how exciting! I started working on a HTML Canvas challenge. I had a few ideas, which I then dismissed because it's just so much easier to draw shapes in CSS than on the canvas. I ended up taking the fireworks I did and modifying them. They look cooler now. But I want to add other elements - there's already fireworks in there (which are completely different from mine) but to further differentiate it I want to make it Bonfire Night. So more things to add tomorrow.
