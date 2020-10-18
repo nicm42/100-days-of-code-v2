@@ -259,3 +259,6 @@ I submitted my Style Stage CSS. The process is much less scary than it was this 
 
 **Day 87: 17th October 2020**
 I had a small changed to make to my style stage submission, then it was all accepted. There it is on the site - how exciting! I started working on a HTML Canvas challenge. I had a few ideas, which I then dismissed because it's just so much easier to draw shapes in CSS than on the canvas. I ended up taking the fireworks I did and modifying them. They look cooler now. But I want to add other elements - there's already fireworks in there (which are completely different from mine) but to further differentiate it I want to make it Bonfire Night. So more things to add tomorrow.
+
+**Day 88: 18th October 2020**
+Worked on the canvas challenge some more. Finding out that you can have multiple canvases has made adding backgrounds a lot easier. Although I faded the Catherine Wheels out they don't look as good as the fireworks. I will have to think about making them better or taking them out before I submit it. Although I'm not sure the fire is going to look as good as the fireworks either, but so fire I've only done the base part which won't be animated.
