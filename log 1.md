@@ -262,3 +262,6 @@ I had a small changed to make to my style stage submission, then it was all acce
 
 **Day 88: 18th October 2020**
 Worked on the canvas challenge some more. Finding out that you can have multiple canvases has made adding backgrounds a lot easier. Although I faded the Catherine Wheels out they don't look as good as the fireworks. I will have to think about making them better or taking them out before I submit it. Although I'm not sure the fire is going to look as good as the fireworks either, but so fire I've only done the base part which won't be animated.
+
+**Day 89: 19th October 2020**
+The canvas thing was keeping me awake, and it felt like eveyrthing I added to it looked terrible in comparison to the fireworks. So I've taken everything else out and just kept the fireworks (and the stars). I got myself into a mess with my default branch in Github, so that made everything take a bit longer. Adding it to the repo takes a few more steps, so I'll save that for tomorrow when I'm (hopefully) feeling more awake.
