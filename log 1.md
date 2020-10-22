@@ -265,3 +265,12 @@ Worked on the canvas challenge some more. Finding out that you can have multiple
 
 **Day 89: 19th October 2020**
 The canvas thing was keeping me awake, and it felt like eveyrthing I added to it looked terrible in comparison to the fireworks. So I've taken everything else out and just kept the fireworks (and the stars). I got myself into a mess with my default branch in Github, so that made everything take a bit longer. Adding it to the repo takes a few more steps, so I'll save that for tomorrow when I'm (hopefully) feeling more awake.
+
+**Day 90: 20th October 2020**
+I submitted the canvas. I'm glad I'm left it a day, because I was slightly more awake and still got confused. That took long enough that I decided that was enough for one night.
+
+**Day 91: 21st October 2020**
+In another Hacktober repo I found you have to do a simple task of just adding some information to a file. Then you can do the CSS for a calculator, then you can work with others on fixing/improving an app. So I did the first task. And still got confused about what was going on with Git and where I was pushing to. I think I've got the simple stuff, but I need to go back and learn the more complex bits that I don't use so much day-to-day.
+
+**Day 92: 22nd October 2020**
+I started on the CSS calculator. There were a few odd grid bits and input bits, but I think it's done - it was pretty simple, and all the scripting to make it work was already done. I am going to leave it and come back to it tomorrow to see if there's anything else I think it needs, and test it on other devices.
