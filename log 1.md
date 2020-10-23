@@ -274,3 +274,6 @@ In another Hacktober repo I found you have to do a simple task of just adding so
 
 **Day 92: 22nd October 2020**
 I started on the CSS calculator. There were a few odd grid bits and input bits, but I think it's done - it was pretty simple, and all the scripting to make it work was already done. I am going to leave it and come back to it tomorrow to see if there's anything else I think it needs, and test it on other devices.
+
+**Day 93: 23rd October 2020**
+The calculator turned out to be a massive pain on iOS. I eventually found out it added its own styling for form inputs and buttons, so I had to explicity tell it not to do that. I eventually managed to get it to the state where I could submit a PR. Although I fetched the upstream and it didn't actually seem to do anything, which is a bit odd.
