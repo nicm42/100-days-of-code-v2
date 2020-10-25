@@ -277,3 +277,6 @@ I started on the CSS calculator. There were a few odd grid bits and input bits, 
 
 **Day 93: 23rd October 2020**
 The calculator turned out to be a massive pain on iOS. I eventually found out it added its own styling for form inputs and buttons, so I had to explicity tell it not to do that. I eventually managed to get it to the state where I could submit a PR. Although I fetched the upstream and it didn't actually seem to do anything, which is a bit odd.
+
+**Day 94: 25th October 2020**
+Spent a while looking through a couple of Hacktober repositories for things that needed doing. I ended up with Task 3 on the one I did Task 1 and 2 on most recently. There are a few issues to improve bits of the app. I had a look at it, and it's really simple. I managed to do one of them, so I just need to wait and see if me being assigned to it has been okayed, then check it on other browsers/devices tomorrow.
