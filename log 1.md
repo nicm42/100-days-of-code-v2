@@ -280,3 +280,6 @@ The calculator turned out to be a massive pain on iOS. I eventually found out it
 
 **Day 94: 25th October 2020**
 Spent a while looking through a couple of Hacktober repositories for things that needed doing. I ended up with Task 3 on the one I did Task 1 and 2 on most recently. There are a few issues to improve bits of the app. I had a look at it, and it's really simple. I managed to do one of them, so I just need to wait and see if me being assigned to it has been okayed, then check it on other browsers/devices tomorrow.
+
+**Day 95: 26th October 2020**
+It's a good thing I gave it a day to check because I found a couple of things wrong. It's done now, and just requires the maintainer to check if what I did was right. I had more fun with Git because I realised I gave my branch the wrong name. It's interesting how many of these things are easier to fix in the terminal. The quesstion is: is that because typing commands in the terminal is inherently easier or because SmartGit isn't actually that easy to use?
