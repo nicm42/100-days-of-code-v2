@@ -283,3 +283,6 @@ Spent a while looking through a couple of Hacktober repositories for things that
 
 **Day 95: 26th October 2020**
 It's a good thing I gave it a day to check because I found a couple of things wrong. It's done now, and just requires the maintainer to check if what I did was right. I had more fun with Git because I realised I gave my branch the wrong name. It's interesting how many of these things are easier to fix in the terminal. The quesstion is: is that because typing commands in the terminal is inherently easier or because SmartGit isn't actually that easy to use?
+
+**Day 96: 31st October 2020**
+I need to get back into blogging, so I set up a blog with hasnode. Much easier than wordpress.com because there's almost nothing to customise, so I can't waste time on that! I also spent some time looking at Git. I understand now what happened on one of my Hacktoberfest repos due to the difference between fetch and pull. After looking at some more Git GUIs I've decided to give GitKraken a try. I'll see how easy it is ot use when I add this change! Although I do have to zoom into it at 120% because the text is so tiny!
