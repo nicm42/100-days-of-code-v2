@@ -286,3 +286,6 @@ It's a good thing I gave it a day to check because I found a couple of things wr
 
 **Day 96: 31st October 2020**
 I need to get back into blogging, so I set up a blog with hasnode. Much easier than wordpress.com because there's almost nothing to customise, so I can't waste time on that! I also spent some time looking at Git. I understand now what happened on one of my Hacktoberfest repos due to the difference between fetch and pull. After looking at some more Git GUIs I've decided to give GitKraken a try. I'll see how easy it is ot use when I add this change! Although I do have to zoom into it at 120% because the text is so tiny!
+
+**Day 97: 1st November 2020**
+Wrote a block post. I just need to keep doing that weekly. I also did the latest two Scrimba Weekly Web Dev challenges. The JS logo changing one was fine, but the card flip one was something I've never done. Even looking at W3C's version I still got confused and took a long time doing it. Now I understand it, but I definitely wouldn't have been able to do it without an example to copy and change. Now I know how to do it I need to find places to use it!
