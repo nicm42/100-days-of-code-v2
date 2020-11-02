@@ -289,3 +289,6 @@ I need to get back into blogging, so I set up a blog with hasnode. Much easier t
 
 **Day 97: 1st November 2020**
 Wrote a block post. I just need to keep doing that weekly. I also did the latest two Scrimba Weekly Web Dev challenges. The JS logo changing one was fine, but the card flip one was something I've never done. Even looking at W3C's version I still got confused and took a long time doing it. Now I understand it, but I definitely wouldn't have been able to do it without an example to copy and change. Now I know how to do it I need to find places to use it!
+
+**Day 98: 2nd November 2020**
+I feel like I should do something special - or complete something for day 100. But I will probably be in the middle of something, as I've discovered the No'Div'ember challenge. The idea is to create some CSS art using no divs. I've watched a tutorial and looked at a few and decided to pick a theme from much later in the month on the basis it might be possible to get it done by then. I've found an image and got as far as creating a little block - which took long enough! I am using CodePen, mainly because I haven't used it much at all and quite fancied not having to create all the extra stuff that goes along with doing it offline.
