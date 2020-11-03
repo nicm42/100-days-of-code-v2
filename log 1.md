@@ -292,3 +292,6 @@ Wrote a block post. I just need to keep doing that weekly. I also did the latest
 
 **Day 98: 2nd November 2020**
 I feel like I should do something special - or complete something for day 100. But I will probably be in the middle of something, as I've discovered the No'Div'ember challenge. The idea is to create some CSS art using no divs. I've watched a tutorial and looked at a few and decided to pick a theme from much later in the month on the basis it might be possible to get it done by then. I've found an image and got as far as creating a little block - which took long enough! I am using CodePen, mainly because I haven't used it much at all and quite fancied not having to create all the extra stuff that goes along with doing it offline.
+
+**Day 99: 3rd November 2020**
+I tried to make the cake more exciting, by not having it 'flat' and giving the sponge some more colouring, but couldn't seem to get it right. So I decided to just work on getting all of the cake elements in there and worrying about making it look good later. So it now has two bits of sponge and some icing. And then the top and side of the cake gets more complicated, so I will leave that for another day.
