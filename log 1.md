@@ -295,3 +295,6 @@ I feel like I should do something special - or complete something for day 100. B
 
 **Day 99: 3rd November 2020**
 I tried to make the cake more exciting, by not having it 'flat' and giving the sponge some more colouring, but couldn't seem to get it right. So I decided to just work on getting all of the cake elements in there and worrying about making it look good later. So it now has two bits of sponge and some icing. And then the top and side of the cake gets more complicated, so I will leave that for another day.
+
+**Day 100: 7th November 2020**
+I did SCrimba's weekly dev challenge, which was an intermediate CSS thing using grid and it was really easy. I then worked on the cake some more. I've found a great tutorial, which is definitely worth following, so I will do that another day. For now, though, I managed to get a vaguely triangular icing and a cherry that's sunk into it a little. It's still not amazing, but it's definitely getting there and hopefully it won't be too hard to finesse once I have all the elements in.
