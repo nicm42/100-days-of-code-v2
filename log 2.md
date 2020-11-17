@@ -7,3 +7,6 @@ I have up on that, at least for now, and did the Scrimba weekly dev challenge. W
 
 **Day 3: 15th November 2020**
 Spent some more time on the Frontend Mentor accordion. I'd forgotten how much time it takes to postion everything to match the design. But for now I've just gone for getting everything in because it'll only move once the accordion answers are visible. I looked up CSS only accordion and it uses a hidden input checkbox, which I've used before, so it should definitely be possible.
+
+**Day 4: 17th November 2020**
+I discovered there are HTML tags to make the accordion work. I've added that in and it all just works! Very useful. I then finessed bits of the design. I hate the part where you've trying to position everyting and get it all matching up. It's naerly there, just need to work out the sizing (which will affect some of the positioning).
