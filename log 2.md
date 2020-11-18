@@ -10,3 +10,6 @@ Spent some more time on the Frontend Mentor accordion. I'd forgotten how much ti
 
 **Day 4: 17th November 2020**
 I discovered there are HTML tags to make the accordion work. I've added that in and it all just works! Very useful. I then finessed bits of the design. I hate the part where you've trying to position everyting and get it all matching up. It's naerly there, just need to work out the sizing (which will affect some of the positioning).
+
+**Day 5: 18th November 2020**
+I did today's Scrimba Weekly Web Dev challenge. I'm really liking these for getting me practising some JS and CSS, however far I want to go with it. This one took me a little while to get my head round, but once I did it was fun.
