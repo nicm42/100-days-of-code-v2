@@ -13,3 +13,6 @@ I discovered there are HTML tags to make the accordion work. I've added that in 
 
 **Day 5: 18th November 2020**
 I did today's Scrimba Weekly Web Dev challenge. I'm really liking these for getting me practising some JS and CSS, however far I want to go with it. This one took me a little while to get my head round, but once I did it was fun.
+
+**Day 6: 19th November 2020**
+I cauvght up with a few of the videos on my watch list. I learnt about big O notation, which I've seen and vaguely read about but didn't get. I do now! And also watched one with a designer improving one section of a website. It's amazing how he makes it look so amazing. I'm hoping if I watch enough of those I'll remember some of the techniques and work out for myself how to make things go from looking good to looking amazing.
