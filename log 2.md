@@ -16,3 +16,6 @@ I did today's Scrimba Weekly Web Dev challenge. I'm really liking these for gett
 
 **Day 6: 19th November 2020**
 I cauvght up with a few of the videos on my watch list. I learnt about big O notation, which I've seen and vaguely read about but didn't get. I do now! And also watched one with a designer improving one section of a website. It's amazing how he makes it look so amazing. I'm hoping if I watch enough of those I'll remember some of the techniques and work out for myself how to make things go from looking good to looking amazing.
+
+**Day 7: 20th November 2020**
+I started working on getting the accordion positioning and sizing to match up with the design. Mobile didn't take very long, but desktop is more of a pain and I'm not sure why. So I'm leaving it to come back to and hopefully it'll be obvious.
