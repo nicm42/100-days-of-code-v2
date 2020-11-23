@@ -19,3 +19,6 @@ I cauvght up with a few of the videos on my watch list. I learnt about big O not
 
 **Day 7: 20th November 2020**
 I started working on getting the accordion positioning and sizing to match up with the design. Mobile didn't take very long, but desktop is more of a pain and I'm not sure why. So I'm leaving it to come back to and hopefully it'll be obvious.
+
+**Day 8: 23rd November 2020**
+It is slightly more obvious - slightly being the operative word. I have got all the wording part sorted out, for the size the desktop design is at. The images are more tricky and something to come back to another day. I had them sorted for that size, but the minute you change the size slightly it all goes awry.
