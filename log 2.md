@@ -22,3 +22,6 @@ I started working on getting the accordion positioning and sizing to match up wi
 
 **Day 8: 23rd November 2020**
 It is slightly more obvious - slightly being the operative word. I have got all the wording part sorted out, for the size the desktop design is at. The images are more tricky and something to come back to another day. I had them sorted for that size, but the minute you change the size slightly it all goes awry.
+
+**Day 9: 25th November 2020**
+Finally finished the accordion and submitted it! It took forever for a newbie challenge. I can definitely see how the Figma files would be a help, but I'm not sure I can justify a subscription at the moment. Maybe if I did a bigger challenge that was all about the looks.
