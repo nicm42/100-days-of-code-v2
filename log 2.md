@@ -25,4 +25,3 @@ It is slightly more obvious - slightly being the operative word. I have got all 
 
 **Day 9: 25th November 2020**
 Finally finished the accordion and submitted it! It took forever for a newbie challenge. I can definitely see how the Figma files would be a help, but I'm not sure I can justify a subscription at the moment. Maybe if I did a bigger challenge that was all about the looks.
-And then I discovered GitHub isn't picking up anything I pushed from GitKraken...
