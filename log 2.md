@@ -29,3 +29,6 @@ Finally finished the accordion and submitted it! It took forever for a newbie ch
 **Day 10: 27th November 2020**
 I spent some time, after I committed this, playing about with my email address in GitKraken. It wasn't working and now it is and I'm not sure ahy but I'm not going to touch it.
 I made a small change on the accordion, based on feedback, and then look at some others to see how other people did it. I found one person to give some feedback to, but it's hard because unless they ask specific questions, it's hard to tell what level people are at.
+
+**Day 11: 28th November 2020**
+I caught up on some of the (many) videos on my YouTube watch list. I have more ideas of some cool things to include on a website I will make at some point soon.
