@@ -32,3 +32,6 @@ I made a small change on the accordion, based on feedback, and then look at some
 
 **Day 11: 28th November 2020**
 I caught up on some of the (many) videos on my YouTube watch list. I have more ideas of some cool things to include on a website I will make at some point soon.
+
+**Day 12: 29th November 2020**
+I did this week's Scrimba Weekly Web Dev Challenge, which was to make a flex gallery where an image expands when you click it. Which is something I've been thinking of adding into a website, so it was useful to try out.
