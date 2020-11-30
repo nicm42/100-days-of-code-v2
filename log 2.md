@@ -35,3 +35,6 @@ I caught up on some of the (many) videos on my YouTube watch list. I have more i
 
 **Day 12: 29th November 2020**
 I did this week's Scrimba Weekly Web Dev Challenge, which was to make a flex gallery where an image expands when you click it. Which is something I've been thinking of adding into a website, so it was useful to try out.
+
+**Day 13: 30th November 2020**
+I watched some more videos from my YouTube watch list. It's finally down to 30 videos! Some of them are just to skim through, some of them I'm saving for when I'm going to use the thing in it. But some of them I can definitely watch sooner and get that list more under control.
