@@ -38,3 +38,12 @@ I did this week's Scrimba Weekly Web Dev Challenge, which was to make a flex gal
 
 **Day 13: 30th November 2020**
 I watched some more videos from my YouTube watch list. It's finally down to 30 videos! Some of them are just to skim through, some of them I'm saving for when I'm going to use the thing in it. But some of them I can definitely watch sooner and get that list more under control.
+
+**Day 14: 1st December 2020**
+I discovered Scrimba are doing a JavaScriptmas challenge, so I did that. It was very easy, but they say it gets harder. I also did day 1 of Advent of Code, which wasn't easy and says it'll get harder...
+
+**Day 15: 2nd December 2020**
+I did today's JavaScriptmas challenge and Advent of Code challenge.
+
+**Day 16: 3rd December 2020**
+I did today's JavaScriptmas challenge and Advent of Code challenge.
