@@ -47,3 +47,6 @@ I did today's JavaScriptmas challenge and Advent of Code challenge.
 
 **Day 16: 3rd December 2020**
 I did today's JavaScriptmas challenge and Advent of Code challenge.
+
+**Day 17: 4th December 2020**
+I did today's JavaScriptmas challenge and part 1 of today's Advent of Code challenge. I tried part 2 but then realised I was spending a lot of time on it when there other things I want to do. So I gave up and set up a FrontEnd Mentor challenge that involves APIs, as that's definitely something I need to practise.
