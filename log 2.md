@@ -50,3 +50,6 @@ I did today's JavaScriptmas challenge and Advent of Code challenge.
 
 **Day 17: 4th December 2020**
 I did today's JavaScriptmas challenge and part 1 of today's Advent of Code challenge. I tried part 2 but then realised I was spending a lot of time on it when there other things I want to do. So I gave up and set up a FrontEnd Mentor challenge that involves APIs, as that's definitely something I need to practise.
+
+**Day 18: 5th December 2020**
+Spent most of the day working through a video on Webpack by Colt Steel, via FreeCodeCamp. It was v4 rather than v5 so I had to make a few changes, based on comments. And then added Babel and autoprefixer, which took a little while for me to work out myself. But now I understand what's going on with it. The proof will be tomorrow when I try and apply it on the project I started yesterday.
