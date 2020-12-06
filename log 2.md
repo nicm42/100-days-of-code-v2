@@ -53,3 +53,6 @@ I did today's JavaScriptmas challenge and part 1 of today's Advent of Code chall
 
 **Day 18: 5th December 2020**
 Spent most of the day working through a video on Webpack by Colt Steel, via FreeCodeCamp. It was v4 rather than v5 so I had to make a few changes, based on comments. And then added Babel and autoprefixer, which took a little while for me to work out myself. But now I understand what's going on with it. The proof will be tomorrow when I try and apply it on the project I started yesterday.
+
+**Day 19: 6th December 2020**
+I installed webpack into the Frontend Mentor IP address challenge, then tested out the API. I then went installed Jest and learnt about mocking asynch code in Jest, but established there's nothing to test yet because all I'm doing is getting some data from the API. I then installed Leaflet JS, but tomorrow I need to sort out a map service for it to use.
