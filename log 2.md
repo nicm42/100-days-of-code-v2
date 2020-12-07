@@ -56,3 +56,7 @@ Spent most of the day working through a video on Webpack by Colt Steel, via Free
 
 **Day 19: 6th December 2020**
 I installed webpack into the Frontend Mentor IP address challenge, then tested out the API. I then went installed Jest and learnt about mocking asynch code in Jest, but established there's nothing to test yet because all I'm doing is getting some data from the API. I then installed Leaflet JS, but tomorrow I need to sort out a map service for it to use.
+
+**Day 20: 7th December 2020**
+I forgot to log that I've been keeping on with Scrimba's JavaScriptmas every day.
+I sorted out the map service for the map. And then sorted out the HTML and set up the CSS. I'm still not 100% sure how I'm going to do everything, but at least now I have an input and some outputs, so I can do the JS (and JS testing) for those.
