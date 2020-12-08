@@ -60,3 +60,6 @@ I installed webpack into the Frontend Mentor IP address challenge, then tested o
 **Day 20: 7th December 2020**
 I forgot to log that I've been keeping on with Scrimba's JavaScriptmas every day.
 I sorted out the map service for the map. And then sorted out the HTML and set up the CSS. I'm still not 100% sure how I'm going to do everything, but at least now I have an input and some outputs, so I can do the JS (and JS testing) for those.
+
+**Day 21: 8th December 2020**
+I did today's JavaScript challenge, which was a bit more involved, but it was fun. I didn't have time to get into the IP address project, so I watched a video on Scrimba with a mock React interview. I don't know React (yet) but it was interesting to see how to think through a problem.
