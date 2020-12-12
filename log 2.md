@@ -63,3 +63,6 @@ I sorted out the map service for the map. And then sorted out the HTML and set u
 
 **Day 21: 8th December 2020**
 I did today's JavaScript challenge, which was a bit more involved, but it was fun. I didn't have time to get into the IP address project, so I watched a video on Scrimba with a mock React interview. I don't know React (yet) but it was interesting to see how to think through a problem.
+
+**Day 22: 12th December 2020**
+It feels like JavaScript suddenly got easier! I thought I had loads to do on the IP address project, but it didn't take long to get it looking roughly the same as the design and all the data appearing where it should. It still needs a lot of refinements, but it's feeling a lot closer to being finished now.
