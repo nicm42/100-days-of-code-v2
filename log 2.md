@@ -66,3 +66,6 @@ I did today's JavaScript challenge, which was a bit more involved, but it was fu
 
 **Day 22: 12th December 2020**
 It feels like JavaScript suddenly got easier! I thought I had loads to do on the IP address project, but it didn't take long to get it looking roughly the same as the design and all the data appearing where it should. It still needs a lot of refinements, but it's feeling a lot closer to being finished now.
+
+**Day 23: 12th December 2020**
+Yesterday I couldn't get the API to pick up the correct IP address, but that turned out to be a quick fix this morning. I'm hoping that tomorrow it'll be q quick fix to get the map to change when you type in an IP address. I realised that you need to be able to searcg by domain, as well as IP address, so I will need to make some changes to handle that.
