@@ -72,3 +72,9 @@ Yesterday I couldn't get the API to pick up the correct IP address, but that tur
 
 **Day 24: 14th December 2020**
 Yesterday's problem was a quick fix - I was trying to get the map to use lat & long 0, 0, which it couldn't do. As soon as I gave it numbers that existed, it was fine. I then looked at error handling, which I thought was complicated and then turned out to be simple. I just need to work out where to put the errors on the page. Of course I've realised the map zoom doesn't work, for no reason I can find, so I am hoping that will be a quick fix tomorrow...
+
+**Day 25: 15th December 2020**
+And yesterday's problem was also a quick fix. I would say I wasn't surprised, but one of these days it'll be something complicated. The JavaScript is pretty much done, so I worked on getting the layout closer to the design images, at least at the sizes they provided. I am down to the small fixes now, but cumulatively that's still quite a bit of work.
+
+**Day 26: 16th December 2020**
+I was feeling like writing, so I created four blog posts - they just need some additions nearer the time, then posting at weekends. I worked on the IP address thing, sorting out the error messages and the CSS at other screen sizes.
