@@ -78,3 +78,6 @@ And yesterday's problem was also a quick fix. I would say I wasn't surprised, bu
 
 **Day 26: 16th December 2020**
 I was feeling like writing, so I created four blog posts - they just need some additions nearer the time, then posting at weekends. I worked on the IP address thing, sorting out the error messages and the CSS at other screen sizes.
+
+**Day 27: 17th December 2020**
+In a change to the usual, yeterday's problem took me a while to fix. Although it was still simple, once I figured it out. I fixed some SASS to make it better/more readable/easier to change. And tried it on my phone, then found a few things to fix. All I need to do now is Cypress testing, test on Edge and then re-test how everything looks on all the browsers at all the sizes.
