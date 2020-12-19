@@ -84,3 +84,6 @@ In a change to the usual, yeterday's problem took me a while to fix. Although it
 
 **Day 28: 18th December 2020**
 I spent today going mad. First I couldn't get Cypress to work with Webpack. It's a known thing that it doesn't pay well with Webpack 5, but the fix I found didn't help - it just gave me a different error. Then when I tried to deploy to Vercel it failed the npm rum build command for no reason I can find. I ended up including the dist folder on Github and then Vercel picked up index.js from the src folder to use as the html. I ended up deplying on Netlify, which seems happy. And then when I submited my solution it has an error in the HTML validation, except the HTML excerpt isn't in there - something has added it somewhere. I'm chalking today up to experience and maybe it'll all be something that makes sense later when I've learned more.
+
+**Day 29: 19th December 2020**
+I did of tidying on GitHub then decided to look into GitHub profile readme. It's pretty cool what you can do. I've bunged some things in there, but I need to think about what I actually want to do with it.
