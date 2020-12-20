@@ -87,3 +87,6 @@ I spent today going mad. First I couldn't get Cypress to work with Webpack. It's
 
 **Day 29: 19th December 2020**
 I did of tidying on GitHub then decided to look into GitHub profile readme. It's pretty cool what you can do. I've bunged some things in there, but I need to think about what I actually want to do with it.
+
+**Day 30: 20th December 2020**
+After having watched a couple of videos of people doing CSS Battle, I decided to give it a go. It started easy, but then ramped up! But I have used clip-path, having watched a video on it this week, so I am excited about that. It's not the sort of code you'd write for something you were releasing and I'm not bothering too much about making it short (but I might come back and do that later), but I'm having fun with it. I also finished off my GitHub readme, with a bit of text and a few tweaks to the layout.
