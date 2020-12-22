@@ -91,5 +91,8 @@ I did of tidying on GitHub then decided to look into GitHub profile readme. It's
 **Day 30: 20th December 2020**
 After having watched a couple of videos of people doing CSS Battle, I decided to give it a go. It started easy, but then ramped up! But I have used clip-path, having watched a video on it this week, so I am excited about that. It's not the sort of code you'd write for something you were releasing and I'm not bothering too much about making it short (but I might come back and do that later), but I'm having fun with it. I also finished off my GitHub readme, with a bit of text and a few tweaks to the layout.
 
-**Day 31: 20th December 2020**
+**Day 31: 21st December 2020**
 I got distracted on CSS Battle and spent more time on it than intended. It's like playing a game, you just want to play the next level. I then watched Kevin Powell's video on Intersetion Observer intro. I've used the MutationObserver and mostly understood it, so I thought I'd understand Intersection Observer, since it's similar. And then I tried to use it and found I didn't. Now I get it. I am going to watch the rest of the videos in his series on the exciting things you can do with it, and then try it out for myself.
+
+**Day 32: 22nd December 2020**
+I finished off Kevin's series on te IntersectionObserver. I have another on my watch list about lazy loading, so I'm interested to see if it's any different to the last one of the IntersectionObserver series, which was lazy loading. And then I have no excuse not to go back to Infinite Kittens and try it all out for myself.
