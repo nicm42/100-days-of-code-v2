@@ -96,3 +96,6 @@ I got distracted on CSS Battle and spent more time on it than intended. It's lik
 
 **Day 32: 22nd December 2020**
 I finished off Kevin's series on te IntersectionObserver. I have another on my watch list about lazy loading, so I'm interested to see if it's any different to the last one of the IntersectionObserver series, which was lazy loading. And then I have no excuse not to go back to Infinite Kittens and try it all out for myself.
+
+**Day 33: 23rd December 2020**
+It was definitely worth watching Kevin's more recent video on lazy loading because you can do it without using IntersectionObserver. When he showed it I realised I had seen it before, but at the time I hadn't really realised what lazy loading was. I also spent a whole lot of time on today's JavaScriptmas because it involved some CSS and you can endlessly make changes if you're not careful.
