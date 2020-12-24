@@ -99,3 +99,6 @@ I finished off Kevin's series on te IntersectionObserver. I have another on my w
 
 **Day 33: 23rd December 2020**
 It was definitely worth watching Kevin's more recent video on lazy loading because you can do it without using IntersectionObserver. When he showed it I realised I had seen it before, but at the time I hadn't really realised what lazy loading was. I also spent a whole lot of time on today's JavaScriptmas because it involved some CSS and you can endlessly make changes if you're not careful.
+
+**Day 34: 24th December 2020**
+I started setting up Infinite Kittens. I thought I understand APIs now, I'll just set up the API quickly. And no, that keeps giving me CORS problems, even though they say in the forum that it shouldn't happen. And I set this up with Parcel, which gave me Regenerator Runtime problems and gitignore problems. All of which are something to fix tomorrow, when I have more time to find fixes to all of them.
