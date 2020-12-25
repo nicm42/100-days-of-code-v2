@@ -102,3 +102,6 @@ It was definitely worth watching Kevin's more recent video on lazy loading becau
 
 **Day 34: 24th December 2020**
 I started setting up Infinite Kittens. I thought I understand APIs now, I'll just set up the API quickly. And no, that keeps giving me CORS problems, even though they say in the forum that it shouldn't happen. And I set this up with Parcel, which gave me Regenerator Runtime problems and gitignore problems. All of which are something to fix tomorrow, when I have more time to find fixes to all of them.
+
+**Day 35: 25th December 2020**
+The CORS problems turned out to be a 404 error, which Parcel makes look like a CORS error. And the reason for the 404 error was that I was using the wrong API link. Once I put the right one in, it worked and I got cat data. After that the rest was easy and I've added some images to the page. I just need to think about whether I'm going to do any formatting on them, and also add the Intersection Observer for infinite scroll. It's just annoying that the API doesn't have many images classified as kittens - Infinite Cats just doesn't sound as good as Infinite Kittens.
