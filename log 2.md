@@ -15,7 +15,7 @@ I discovered there are HTML tags to make the accordion work. I've added that in 
 I did today's Scrimba Weekly Web Dev challenge. I'm really liking these for getting me practising some JS and CSS, however far I want to go with it. This one took me a little while to get my head round, but once I did it was fun.
 
 **Day 6: 19th November 2020**
-I cauvght up with a few of the videos on my watch list. I learnt about big O notation, which I've seen and vaguely read about but didn't get. I do now! And also watched one with a designer improving one section of a website. It's amazing how he makes it look so amazing. I'm hoping if I watch enough of those I'll remember some of the techniques and work out for myself how to make things go from looking good to looking amazing.
+I caught up with a few of the videos on my watch list. I learnt about big O notation, which I've seen and vaguely read about but didn't get. I do now! And also watched one with a designer improving one section of a website. It's amazing how he makes it look so amazing. I'm hoping if I watch enough of those I'll remember some of the techniques and work out for myself how to make things go from looking good to looking amazing.
 
 **Day 7: 20th November 2020**
 I started working on getting the accordion positioning and sizing to match up with the design. Mobile didn't take very long, but desktop is more of a pain and I'm not sure why. So I'm leaving it to come back to and hopefully it'll be obvious.
@@ -105,3 +105,6 @@ I started setting up Infinite Kittens. I thought I understand APIs now, I'll jus
 
 **Day 35: 25th December 2020**
 The CORS problems turned out to be a 404 error, which Parcel makes look like a CORS error. And the reason for the 404 error was that I was using the wrong API link. Once I put the right one in, it worked and I got cat data. After that the rest was easy and I've added some images to the page. I just need to think about whether I'm going to do any formatting on them, and also add the Intersection Observer for infinite scroll. It's just annoying that the API doesn't have many images classified as kittens - Infinite Cats just doesn't sound as good as Infinite Kittens.
+
+**Day 36: 28th December 2020**
+Spent a couple of days playing with new Linux distros. Came back to this and discovered I don't even had node installed, neer mind npm or parcel. So I had to install all that. Added the Intersection Observer, realised I couldn't do it the way I had been, since I'd need to pass the data to the Intersection Observer (or save it globally). And then discovered that infinite scroll is a bit more complicated because you need to work out what is interacting and whether they're going up or down, so I will need to look into that some more.
