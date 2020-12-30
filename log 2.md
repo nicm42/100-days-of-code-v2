@@ -108,3 +108,6 @@ The CORS problems turned out to be a 404 error, which Parcel makes look like a C
 
 **Day 36: 28th December 2020**
 Spent a couple of days playing with new Linux distros. Came back to this and discovered I don't even had node installed, neer mind npm or parcel. So I had to install all that. Added the Intersection Observer, realised I couldn't do it the way I had been, since I'd need to pass the data to the Intersection Observer (or save it globally). And then discovered that infinite scroll is a bit more complicated because you need to work out what is interacting and whether they're going up or down, so I will need to look into that some more.
+
+**Day 37: 30th December 2020**
+I spent today getting ESLint and Prettier set up an working. It took two videos to get it all set up, then I still couldn't get it to work in CSS and found that uninstalling, then reinstalling, with a VSCode restart sorted it out... I then looked at Kevin's list of extensions he use from a recent video, and some of the comments, and installed some of those.
