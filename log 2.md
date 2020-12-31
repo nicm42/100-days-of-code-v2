@@ -111,3 +111,6 @@ Spent a couple of days playing with new Linux distros. Came back to this and dis
 
 **Day 37: 30th December 2020**
 I spent today getting ESLint and Prettier set up an working. It took two videos to get it all set up, then I still couldn't get it to work in CSS and found that uninstalling, then reinstalling, with a VSCode restart sorted it out... I then looked at Kevin's list of extensions he use from a recent video, and some of the comments, and installed some of those.
+
+**Day 38: 31st December 2020**
+I looked up how to do infinite scroll and realised it's simple. So in Infinite Kittens I temporarily changed the API for some random cat images. Which turned out to be a bit complicated with Parcel, so I had to put them in the HTML so it converted them and put them in the dist folder, then used their names. Then added in the IntersectionObserver and it just worked! The Cat API doesn't have a limit for calls, so I added it back in and it's all working. I just need to do more testing and make it look a bit more interesting.
