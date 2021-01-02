@@ -114,3 +114,6 @@ I spent today getting ESLint and Prettier set up an working. It took two videos 
 
 **Day 38: 31st December 2020**
 I looked up how to do infinite scroll and realised it's simple. So in Infinite Kittens I temporarily changed the API for some random cat images. Which turned out to be a bit complicated with Parcel, so I had to put them in the HTML so it converted them and put them in the dist folder, then used their names. Then added in the IntersectionObserver and it just worked! The Cat API doesn't have a limit for calls, so I added it back in and it's all working. I just need to do more testing and make it look a bit more interesting.
+
+**Day 39: 2nd January 2021**
+I did some Cypress testing, which involved a lot of googling to check how the IntersectionObserver works with it. Then added some CSS. I think it's basically done, it just needs testing on other browsers. But it doesn't look like I can open them using Parcel without uploading everything - I need to do more googling on this (Parcel is not easy to google).
