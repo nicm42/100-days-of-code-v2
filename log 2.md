@@ -117,3 +117,6 @@ I looked up how to do infinite scroll and realised it's simple. So in Infinite K
 
 **Day 39: 2nd January 2021**
 I did some Cypress testing, which involved a lot of googling to check how the IntersectionObserver works with it. Then added some CSS. I think it's basically done, it just needs testing on other browsers. But it doesn't look like I can open them using Parcel without uploading everything - I need to do more googling on this (Parcel is not easy to google).
+
+**Day 40: 4th January 2021**
+I found that it is possible to open the Parcel dev server on my mobile - it was just that my Firewall was blocking it. But then I  discovered that the IntersectionObserver isn't working on Chrome. But is in Vivaldi, which is also Chrome (it's not working on iOS either, but that could be a separate problem). I then got distracted by axe and fixing the accessibility errors it found. And Git thinking I'd updated a lot of files I haven't. the only reason I can think of is that I bookmarked my Projects folder in Nemo. We'll see if it happens again.
