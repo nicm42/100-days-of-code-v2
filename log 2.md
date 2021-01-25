@@ -120,3 +120,6 @@ I did some Cypress testing, which involved a lot of googling to check how the In
 
 **Day 40: 4th January 2021**
 I found that it is possible to open the Parcel dev server on my mobile - it was just that my Firewall was blocking it. But then I  discovered that the IntersectionObserver isn't working on Chrome. But is in Vivaldi, which is also Chrome (it's not working on iOS either, but that could be a separate problem). I then got distracted by axe and fixing the accessibility errors it found. And Git thinking I'd updated a lot of files I haven't. the only reason I can think of is that I bookmarked my Projects folder in Nemo. We'll see if it happens again.
+
+**Day 41: 25th January 2021**
+Returned to this after a short break and found that i had the rootMargin the wrong way round - it worked much better on Chrome and iOS after I fixed it. But what I spent most of my evening on was getting it open on my mobile using Parcel's dev server. I eventually discovered it was because my computer's IP address had changed. But then I worked out how to set the Firewall up to let them in, so it'll all be much easier next time.
