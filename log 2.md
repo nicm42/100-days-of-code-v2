@@ -123,3 +123,6 @@ I found that it is possible to open the Parcel dev server on my mobile - it was 
 
 **Day 41: 25th January 2021**
 Returned to this after a short break and found that i had the rootMargin the wrong way round - it worked much better on Chrome and iOS after I fixed it. But what I spent most of my evening on was getting it open on my mobile using Parcel's dev server. I eventually discovered it was because my computer's IP address had changed. But then I worked out how to set the Firewall up to let them in, so it'll all be much easier next time.
+
+**Day 42: 26th January 2021**
+Managed to get Infinite Kittens on Netlify using build. I don't think I'd quite realised before that you can build on there the same as you can on your computer. I'd previously found something on StackOverflow with some advice on the topic and it worked. It just managed to look like it didn't... I just need to test it on Windows and then it'll be done!
