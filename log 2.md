@@ -126,3 +126,7 @@ Returned to this after a short break and found that i had the rootMargin the wro
 
 **Day 42: 26th January 2021**
 Managed to get Infinite Kittens on Netlify using build. I don't think I'd quite realised before that you can build on there the same as you can on your computer. I'd previously found something on StackOverflow with some advice on the topic and it worked. It just managed to look like it didn't... I just need to test it on Windows and then it'll be done!
+
+**Day 43: 27th January 2021**
+I tested Infinite Cats in Edge and it works, so I declared it done. I went to update my GitHub Profile, discovered it was more up-to-date in GitHub than on my computer because I have a thing in it that's fetching my Hashnode posts. So I discovered how to use Git stash and resolve merge conflicts.
+I then started Wes Bos's React course. The npm installation I had to do twice because so much of it failed the first time - but worked the secod even though I hadn't changed anything. I am glad I already understand what's going on with all of that, as when I tried learning React before I was fine in FreeCodeCamp but as soon as I got outside of it all of the Create React App stuff completely confused me.
