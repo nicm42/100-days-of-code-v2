@@ -130,3 +130,6 @@ Managed to get Infinite Kittens on Netlify using build. I don't think I'd quite 
 **Day 43: 27th January 2021**
 I tested Infinite Cats in Edge and it works, so I declared it done. I went to update my GitHub Profile, discovered it was more up-to-date in GitHub than on my computer because I have a thing in it that's fetching my Hashnode posts. So I discovered how to use Git stash and resolve merge conflicts.
 I then started Wes Bos's React course. The npm installation I had to do twice because so much of it failed the first time - but worked the secod even though I hadn't changed anything. I am glad I already understand what's going on with all of that, as when I tried learning React before I was fine in FreeCodeCamp but as soon as I got outside of it all of the Create React App stuff completely confused me.
+
+**Day 44: 28th January 2021**
+I did three videos of Wes Bos's course. It all looks familiar and makes sense so far. I am going slowly on it in the hopes that doing a bit each day will help me remember it, as I'll be doing some React every day for a while.
