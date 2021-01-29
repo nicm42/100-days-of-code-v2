@@ -133,3 +133,6 @@ I then started Wes Bos's React course. The npm installation I had to do twice be
 
 **Day 44: 28th January 2021**
 I did three videos of Wes Bos's course. It all looks familiar and makes sense so far. I am going slowly on it in the hopes that doing a bit each day will help me remember it, as I'll be doing some React every day for a while.
+
+**Day 45: 29th January 2021**
+Another React video today. I might have got two in, but I realised the reason Prettier wasn't working was because I needed to install it for the project. So I did, but then it installed a more recent version of ESLint than it wanted in the package.json and threw a wobbler. I ended up having to install all the packages again. It's possible I could get Prettier working in this project, but I don't want to break anything again - I feel like I'm spending more time breaking things and installing things than I am learning React. I will sort it out when I come to do a React project that I start from scratch.
