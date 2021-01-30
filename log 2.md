@@ -136,3 +136,7 @@ I did three videos of Wes Bos's course. It all looks familiar and makes sense so
 
 **Day 45: 29th January 2021**
 Another React video today. I might have got two in, but I realised the reason Prettier wasn't working was because I needed to install it for the project. So I did, but then it installed a more recent version of ESLint than it wanted in the package.json and threw a wobbler. I ended up having to install all the packages again. It's possible I could get Prettier working in this project, but I don't want to break anything again - I feel like I'm spending more time breaking things and installing things than I am learning React. I will sort it out when I come to do a React project that I start from scratch.
+
+**Day 46: 30th January 2021**
+Another two React videos today. And (almost) accidentally managed to fix Prettier to get it working in my React project. Although then I started on my Portfolio and found it was working in there. So I'm not sure how it's going to cope with a project with JS where I want to use ESLint.
+I did quite a bit on my Portfolio, tidying it up a bit and making it look a little better. I did write some of it in the most insane way and although it all makes sense, it's a bit OTT with the mixins, I think. It's not broke, so I'll leave it as it is.
