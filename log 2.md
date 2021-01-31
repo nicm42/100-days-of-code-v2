@@ -140,3 +140,7 @@ Another React video today. I might have got two in, but I realised the reason Pr
 **Day 46: 30th January 2021**
 Another two React videos today. And (almost) accidentally managed to fix Prettier to get it working in my React project. Although then I started on my Portfolio and found it was working in there. So I'm not sure how it's going to cope with a project with JS where I want to use ESLint.
 I did quite a bit on my Portfolio, tidying it up a bit and making it look a little better. I did write some of it in the most insane way and although it all makes sense, it's a bit OTT with the mixins, I think. It's not broke, so I'll leave it as it is.
+
+**Day 47: 31st January 2021**
+Made a couple of updates to my portfolio, moving the blog link and adding an avatar image so the about section isn't so small on large screens. I think the layout changes are all done, I just need to update the projects now.
+I did one React video on React Router, which I had heard of, but knew nothing about. It's quite cool, but hard to get your head around. I wonder if this is something that Redux does - I will find out when it comes to learning it to get the relevant freeCodeCamp certification.
