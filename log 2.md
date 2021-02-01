@@ -144,3 +144,6 @@ I did quite a bit on my Portfolio, tidying it up a bit and making it look a litt
 **Day 47: 31st January 2021**
 Made a couple of updates to my portfolio, moving the blog link and adding an avatar image so the about section isn't so small on large screens. I think the layout changes are all done, I just need to update the projects now.
 I did one React video on React Router, which I had heard of, but knew nothing about. It's quite cool, but hard to get your head around. I wonder if this is something that Redux does - I will find out when it comes to learning it to get the relevant freeCodeCamp certification.
+
+**Day 48: 1st February 2021**
+Did a couple of React videos. Talking about this and using constructors was familiar - I'm not sure I quite understood why to use them. But then it turns out there's a better way anyway. It's familiar (from JS and what I learnt before) but all done in a different way, which then makes it complicated.
