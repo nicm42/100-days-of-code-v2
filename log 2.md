@@ -147,3 +147,6 @@ I did one React video on React Router, which I had heard of, but knew nothing ab
 
 **Day 48: 1st February 2021**
 Did a couple of React videos. Talking about this and using constructors was familiar - I'm not sure I quite understood why to use them. But then it turns out there's a better way anyway. It's familiar (from JS and what I learnt before) but all done in a different way, which then makes it complicated.
+
+**Day 49: 2nd February 2021**
+Learnt about State in today's video. Which I think was simpler than when I learnt it before. I think I understand it and I can see why it's important/useful. I don't feel like I could write my own React thing, but then I am less than halfway through the course, so that's not unreasonable.
