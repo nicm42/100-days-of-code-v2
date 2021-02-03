@@ -150,3 +150,6 @@ Did a couple of React videos. Talking about this and using constructors was fami
 
 **Day 49: 2nd February 2021**
 Learnt about State in today's video. Which I think was simpler than when I learnt it before. I think I understand it and I can see why it's important/useful. I don't feel like I could write my own React thing, but then I am less than halfway through the course, so that's not unreasonable.
+
+**Day 50: 3rd February 2021**
+A couple more videos today, using state. And props. Which are definitely things I'm going to need to practise some more before I get them, I think.
