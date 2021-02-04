@@ -153,3 +153,6 @@ Learnt about State in today's video. Which I think was simpler than when I learn
 
 **Day 50: 3rd February 2021**
 A couple more videos today, using state. And props. Which are definitely things I'm going to need to practise some more before I get them, I think.
+
+**Day 51: 4th February 2021**
+Two more videos with some more state. I think I'm starting to get it.
