@@ -157,5 +157,9 @@ A couple more videos today, using state. And props. Which are definitely things 
 **Day 51: 4th February 2021**
 Two more videos with some more state. I think I'm starting to get it.
 
-**Day 52: 5th February 2021**
+**Day 52: 6th February 2021**
 Worked on my portfolio today, which mostly meant updating the list of projects to match the pinned ones I have in GitHub. And a few other minor changes. And some looking at accessibility which took a while until I established that actually what I have is fine, the tool is just unhappy about background images and gradients. It's now done! Until the next time I need to update it, but then it is the sort of thing that will need updating as I create new projects that are worth adding, and no doubt add some tweaks.
+
+**Day 53: 7th February 2021**
+Two more React videos, one with Firebase which was interesting because I'd heard of it, established it's not something I need yet, but now I see a bit of what it does. And another on local storage, which I knew about, but not used with React state before.
+
