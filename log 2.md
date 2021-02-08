@@ -163,3 +163,5 @@ Worked on my portfolio today, which mostly meant updating the list of projects t
 **Day 53: 7th February 2021**
 Two more React videos, one with Firebase which was interesting because I'd heard of it, established it's not something I need yet, but now I see a bit of what it does. And another on local storage, which I knew about, but not used with React state before.
 
+**Day 54: 8th February 2021**
+Two more React videos - some more state and props. I was thinking that it was all seeming familiar but I didn't know if I could do it myself. Then Wes challenged to make a remove order option, so I did. It took me a little while to work out where everything was and it was more complicated than he made it sound, but it did the job. And then I discovered what I'd done was to make a button to take one of that particular fish from your order, whereas he meant to make a button that removed all of that particular fish from your order. Which was a lot simpler. I kept my option though (with some renaming) because I was impressed that I'd managed to do it.
