@@ -168,3 +168,6 @@ Two more React videos - some more state and props. I was thinking that it was al
 
 **Day 55: 11th February 2021**
 Today's React video was about animation, which wasn't too hard. He used Stylus for his CSS, which I've heard of, but never looked into. Now I know what it is: basically the way you write SASS, but without the colons, semi-colons, and curly brackets. Which is very strange to read when you're used to CSS with all of those things.
+
+**Day 56: 12th February 2021**
+Today's React video was about prop types. He showed a couple and then I tried doing the rest on my own and got it mostly right, I just got a bit lost. It was hard to remember what was going on when I wrote it, it feels like a long time ago. But the React dev tools is so useful - I can just look at App and it tells me all the props. It's just remembering it's there.
