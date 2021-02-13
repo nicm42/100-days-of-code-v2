@@ -171,3 +171,7 @@ Today's React video was about animation, which wasn't too hard. He used Stylus f
 
 **Day 56: 12th February 2021**
 Today's React video was about prop types. He showed a couple and then I tried doing the rest on my own and got it mostly right, I just got a bit lost. It was hard to remember what was going on when I wrote it, it feels like a long time ago. But the React dev tools is so useful - I can just look at App and it tells me all the props. It's just remembering it's there.
+
+**Day 57: 13th February 2021**
+Today's React video was a long one about authentication. And I discovered the coding part is done, there's just some other bits to go. But It's definitely got to the point where it's more complicated than I need to do for my initial projects to practise React. So I may be coming back to bits later.
+I also updated the Readmes on a couple of projects to add more detail. I will get through them all eventually.
