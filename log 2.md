@@ -175,3 +175,7 @@ Today's React video was about prop types. He showed a couple and then I tried do
 **Day 57: 13th February 2021**
 Today's React video was a long one about authentication. And I discovered the coding part is done, there's just some other bits to go. But It's definitely got to the point where it's more complicated than I need to do for my initial projects to practise React. So I may be coming back to bits later.
 I also updated the Readmes on a couple of projects to add more detail. I will get through them all eventually.
+
+**Day 58: 14th February 2021**
+I finished off the Readmes, which went quicker with the tennis in the background. Some of them are all about the animation, so I found something that would screenshot video and save to gif. Although those files get big really quickly!
+I also finished off the Wes Bos Beginner's React course. Today's videos were all about building and deploying to various places. Vercel just didn't seem to play well with Firebase, but Netlify was easy. I skipped the one about deploying to your own server, as I don't have one. And then the one about ejecting from Create-React-App was useful, as I'd heard about it but knew nothing about it except that you can't reverse it. I can see why it would be useful.
