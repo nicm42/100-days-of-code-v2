@@ -179,3 +179,9 @@ I also updated the Readmes on a couple of projects to add more detail. I will ge
 **Day 58: 14th February 2021**
 I finished off the Readmes, which went quicker with the tennis in the background. Some of them are all about the animation, so I found something that would screenshot video and save to gif. Although those files get big really quickly!
 I also finished off the Wes Bos Beginner's React course. Today's videos were all about building and deploying to various places. Vercel just didn't seem to play well with Firebase, but Netlify was easy. I skipped the one about deploying to your own server, as I don't have one. And then the one about ejecting from Create-React-App was useful, as I'd heard about it but knew nothing about it except that you can't reverse it. I can see why it would be useful.
+
+**Day 59: 15th February 2021**
+I started working on The Newport Group website in Figma. It look me a little while to remember what I was doing in Figma, as I haven't used it for a while. But I soon got the hang of it. I came up with a fairly simple homepage that looks pretty good.
+
+**Day 60: 16th February 2021**
+Some more Figma designs. Since this will be a multi-page website, I came up with three more pages. They'll all be the same layout, which makes things easier, but I still had to find some images and videos and come up with content. Then I did the dark mode version of the pages, and the mobile version (for the light version, since the mobile is just about moving things around and the dark version is just about changing the colours). Now it's all ready to start programming.
