@@ -185,3 +185,6 @@ I started working on The Newport Group website in Figma. It look me a little whi
 
 **Day 60: 16th February 2021**
 Some more Figma designs. Since this will be a multi-page website, I came up with three more pages. They'll all be the same layout, which makes things easier, but I still had to find some images and videos and come up with content. Then I did the dark mode version of the pages, and the mobile version (for the light version, since the mobile is just about moving things around and the dark version is just about changing the colours). Now it's all ready to start programming.
+
+**Day 61: 17th February 2021**
+I started on The Newport Group website. Although most of the time I spent on it was sorting out Parcel and PostCSS. And in th end I'm not sure why it worked. I looked up HTML templates and it sounds complicated, whereas React sounds easier. And a good way to practise the simplest bits of React, just putting stuff on the page without state or props or hooks. So I watched a couple of short videos introducing React and talking about JSX to remind me about those.
