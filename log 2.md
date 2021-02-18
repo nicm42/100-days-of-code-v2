@@ -188,3 +188,6 @@ Some more Figma designs. Since this will be a multi-page website, I came up with
 
 **Day 61: 17th February 2021**
 I started on The Newport Group website. Although most of the time I spent on it was sorting out Parcel and PostCSS. And in th end I'm not sure why it worked. I looked up HTML templates and it sounds complicated, whereas React sounds easier. And a good way to practise the simplest bits of React, just putting stuff on the page without state or props or hooks. So I watched a couple of short videos introducing React and talking about JSX to remind me about those.
+
+**Day 62: 18th February 2021**
+Did some more CSSing on The Newport Group website. Although I kept spending time trying to work out why Parcel wasn't updating - it turns out it's because there's an error in the CSS. It's hard to work out where it is when it just doesn't do anything. For now I'm just doing the simple CSS and will sort out the flashy bits and dark mode once I've got one page done. And then work out how I'm going to do the other pages.
