@@ -191,3 +191,6 @@ I started on The Newport Group website. Although most of the time I spent on it 
 
 **Day 62: 18th February 2021**
 Did some more CSSing on The Newport Group website. Although I kept spending time trying to work out why Parcel wasn't updating - it turns out it's because there's an error in the CSS. It's hard to work out where it is when it just doesn't do anything. For now I'm just doing the simple CSS and will sort out the flashy bits and dark mode once I've got one page done. And then work out how I'm going to do the other pages.
+
+**Day 63: 19th February 2021**
+Did the footer part of the website, and then spent ages trying to get clip-path to work so I had a bit of a diagonal on the footer. I don't know why it didn't work the first time, because it worked when I deleted it all and started again. So the basics of the CSS are done, I just need to sort out focus and hover states, transitions and animations, and also lazy loading and moving things in using IntersectionObserver. And then that's the first page done for light mode...
