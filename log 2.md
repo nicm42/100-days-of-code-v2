@@ -194,3 +194,6 @@ Did some more CSSing on The Newport Group website. Although I kept spending time
 
 **Day 63: 19th February 2021**
 Did the footer part of the website, and then spent ages trying to get clip-path to work so I had a bit of a diagonal on the footer. I don't know why it didn't work the first time, because it worked when I deleted it all and started again. So the basics of the CSS are done, I just need to sort out focus and hover states, transitions and animations, and also lazy loading and moving things in using IntersectionObserver. And then that's the first page done for light mode...
+
+**Day 64: 20th February 2021**
+Done all the sliding bits and focus and hover states. I had to re-look up the IntersectionObserver because I couldn't  remember what I was doing where to slide things in. Turns out it's really simple and it's just a class - but it has to be more specific than the original or it defaults to the original. I think the flashy things cover for the fact that it's not the most exciting design...
