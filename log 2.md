@@ -197,3 +197,8 @@ Did the footer part of the website, and then spent ages trying to get clip-path 
 
 **Day 64: 20th February 2021**
 Done all the sliding bits and focus and hover states. I had to re-look up the IntersectionObserver because I couldn't  remember what I was doing where to slide things in. Turns out it's really simple and it's just a class - but it has to be more specific than the original or it defaults to the original. I think the flashy things cover for the fact that it's not the most exciting design...
+
+**Day 65: 21st February 2021**
+I learnt a lot today. I tried to change the colour on the buttons on hover and then found that it doesn't like using CSS variables - because it does the SASS function before it does the CSS ones. So I changed over to use SASS variables and then forgot how they worked with @use and it took a while to discover why it wasn't working.
+I then played about with the list and decided to add a border and then animate it on hover and focus, which took some research to work out how to do that.
+I then added a navigation, but all I managed on that was to animate the hambuger/cross icons. I looked up some ideas and there are so many different ways to do it. I spent ages trying to get my lines to cross in the middle and eventually found I just needed to update the top and bottom, rather than fiddling around with transform-origin and translating as well as rotating.
