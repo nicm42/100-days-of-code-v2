@@ -202,3 +202,6 @@ Done all the sliding bits and focus and hover states. I had to re-look up the In
 I learnt a lot today. I tried to change the colour on the buttons on hover and then found that it doesn't like using CSS variables - because it does the SASS function before it does the CSS ones. So I changed over to use SASS variables and then forgot how they worked with @use and it took a while to discover why it wasn't working.
 I then played about with the list and decided to add a border and then animate it on hover and focus, which took some research to work out how to do that.
 I then added a navigation, but all I managed on that was to animate the hambuger/cross icons. I looked up some ideas and there are so many different ways to do it. I spent ages trying to get my lines to cross in the middle and eventually found I just needed to update the top and bottom, rather than fiddling around with transform-origin and translating as well as rotating.
+
+**Day 66: 22nd February 2021**
+I spent today sorting out the nav links. It took me a while to work out how to decide how to hide and show it and then to get it to fade out and fade in. A google search led me to a post with an explanation and now it fades in and out and I understand why.
