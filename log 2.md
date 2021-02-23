@@ -205,3 +205,6 @@ I then added a navigation, but all I managed on that was to animate the hambuger
 
 **Day 66: 22nd February 2021**
 I spent today sorting out the nav links. It took me a while to work out how to decide how to hide and show it and then to get it to fade out and fade in. A google search led me to a post with an explanation and now it fades in and out and I understand why.
+
+**Day 67: 23rd February 2021**
+I sorted out the menu for desktop, which involved re-learning about position: sticky. I then tried using dark mode if that's your preference - which first involved finding out how to change to dark mode in Cinnamon. Annoyingly, every time I changed to dark mode the menu theme stayed dark. And the website didn't change at all. I need to program the theme switcher and then I can see whether it's something wrong with my programming. Although I found out that I need to go back to the SASS/CSS variable combination, which is a job for another day...
