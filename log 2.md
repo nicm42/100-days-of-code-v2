@@ -208,3 +208,6 @@ I spent today sorting out the nav links. It took me a while to work out how to d
 
 **Day 67: 23rd February 2021**
 I sorted out the menu for desktop, which involved re-learning about position: sticky. I then tried using dark mode if that's your preference - which first involved finding out how to change to dark mode in Cinnamon. Annoyingly, every time I changed to dark mode the menu theme stayed dark. And the website didn't change at all. I need to program the theme switcher and then I can see whether it's something wrong with my programming. Although I found out that I need to go back to the SASS/CSS variable combination, which is a job for another day...
+
+**Day 68: 24th February 2021**
+I changed my variables over to CSS variables to use with dark mode. Then I upated SASS to use @forward, which made importing everything with @use a lot simpler. And then I set up dark mode, which worked, but I realised there were some bits that just don't work in dark mode. In trying to fix it I found some things going weird between the SASS and CSS variables. I've run out of time to fix it today, but hopefully it'll be a quick fix tomorrow.
