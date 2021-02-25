@@ -211,3 +211,6 @@ I sorted out the menu for desktop, which involved re-learning about position: st
 
 **Day 68: 24th February 2021**
 I changed my variables over to CSS variables to use with dark mode. Then I upated SASS to use @forward, which made importing everything with @use a lot simpler. And then I set up dark mode, which worked, but I realised there were some bits that just don't work in dark mode. In trying to fix it I found some things going weird between the SASS and CSS variables. I've run out of time to fix it today, but hopefully it'll be a quick fix tomorrow.
+
+**Day 69: 25th February 2021**
+The reason the dark mode wasn't quite working yesterday was because I got confused with my colour labelling. So I fixed it and labelled them differently so they make more sense. I then did the JS for the dark mode, which was really simple. And then the cards looked awful in dark mode, so I played around with them trying to make them look good in both light and dark modes.
