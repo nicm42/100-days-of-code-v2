@@ -214,3 +214,7 @@ I changed my variables over to CSS variables to use with dark mode. Then I upate
 
 **Day 69: 25th February 2021**
 The reason the dark mode wasn't quite working yesterday was because I got confused with my colour labelling. So I fixed it and labelled them differently so they make more sense. I then did the JS for the dark mode, which was really simple. And then the cards looked awful in dark mode, so I played around with them trying to make them look good in both light and dark modes.
+
+**Day 70: 26th February 2021**
+I made the menu and dark mode icons fixed to the top on mobile and desktop. And then I decided to try installing React, which just led to errors. I tried installing everything in a new folder and eventually discovered the error is our old friend, postcss/autoprefixer. It had magically been fixed in the original - and in the new I could fix it by saving package.json, which was a bit weird. Once I got it all working I tried some React and it worked!
+And then I found I'd upset Git by moving everything to a new folder and naming it the same name. And not having pushed my changes before renaming didn't help. I ended up going back to the original folder and giving it the original name and re-installing everything the same as I had in the new folder. And now it all works, including React and Git is happy. That just the best part of two hours to sort out...
