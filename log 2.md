@@ -226,3 +226,7 @@ The menu wasn't too bad, once I got my head round it all. And realised I'd broke
 **Day 72: 28th February 2021**
 I discovered that the way to get the nav to show which one is active is to use React Router. Which meant that all of my HTML needed to be in React. So I sorted that - and then had to split that into more bits. And spent some time learning Router. And trying to get the active class to show up - it makes a difference which order the a and lis are in.
 And then I had to get my head round IntersectionObserver. There are a few complicated-looking tutorials, but I found one that basically has the usual IntersectionObserver, run from useEffects, using useRef to work out which one it is and useState to set the class. Much simpler!
+
+**Day 73: 1st March 2021**
+A lot of looping today. I have the cards being slightly further over/up and rather than doing a lot of nth-of-types, I put them in a SASS @for loop.
+And then in React whenever I had very similar elements, I added them using a map. That took a while - it turned out it was because I was using curly brackets instead of rounded brackets. Once I used them then it was easy! My components look so much smaller and simpler now.
