@@ -230,3 +230,6 @@ And then I had to get my head round IntersectionObserver. There are a few compli
 **Day 73: 1st March 2021**
 A lot of looping today. I have the cards being slightly further over/up and rather than doing a lot of nth-of-types, I put them in a SASS @for loop.
 And then in React whenever I had very similar elements, I added them using a map. That took a while - it turned out it was because I was using curly brackets instead of rounded brackets. Once I used them then it was easy! My components look so much smaller and simpler now.
+
+**Day 74: 2nd March 2021**
+Just did a few bits today organising scripts and changing the functions to arrow functions. And then I started setting up the houses page. I've been doing things with the home page for so long that just putting in the HTML and working out the structure suddenly seems so different!
