@@ -233,3 +233,6 @@ And then in React whenever I had very similar elements, I added them using a map
 
 **Day 74: 2nd March 2021**
 Just did a few bits today organising scripts and changing the functions to arrow functions. And then I started setting up the houses page. I've been doing things with the home page for so long that just putting in the HTML and working out the structure suddenly seems so different!
+
+**Day 75: 3rd March 2021**
+I got loads done on the houses page today: CSS on the intro section, added the quotes section, then CSS on that. I remembered that on Kevin Powell's videos about before and after pseudo elements he'd done quotes and found that you just tell it you want an open-quote and a close-quote and it's all there!
