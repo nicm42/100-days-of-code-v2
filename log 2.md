@@ -236,3 +236,6 @@ Just did a few bits today organising scripts and changing the functions to arrow
 
 **Day 75: 3rd March 2021**
 I got loads done on the houses page today: CSS on the intro section, added the quotes section, then CSS on that. I remembered that on Kevin Powell's videos about before and after pseudo elements he'd done quotes and found that you just tell it you want an open-quote and a close-quote and it's all there!
+
+**Day 76: 4th March 2021**
+I added the videos and did a bit of CSS to position them. But when I added the IntersectionObserver to the reviews I realised that it's waiting for all of them to be on the page, rather than doing each one separately. This is because they're in a loop, because the same thing is happening with the cards and it wasn't when they weren't inside a loop. I found out how to update the refs, but not how to use them in the classname.
