@@ -239,3 +239,7 @@ I got loads done on the houses page today: CSS on the intro section, added the q
 
 **Day 76: 4th March 2021**
 I added the videos and did a bit of CSS to position them. But when I added the IntersectionObserver to the reviews I realised that it's waiting for all of them to be on the page, rather than doing each one separately. This is because they're in a loop, because the same thing is happening with the cards and it wasn't when they weren't inside a loop. I found out how to update the refs, but not how to use them in the classname.
+
+**Day 77: 5th March 2021**
+ I did a whole lot more googling about the problem, with no success. And then I wondered, can I use the ref in the ternary operator in the classname the same way I do with the ref. And it turns out the answer is yes. After all that, the answer was simple. I then discovered my css wasn't quite right, but that was easier to fix.
+ The header was a bit of a mess - never 100vh, so I gave the title size a separate class and added the Header separately on the Houses page, with that class.
