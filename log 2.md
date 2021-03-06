@@ -243,3 +243,6 @@ I added the videos and did a bit of CSS to position them. But when I added the I
 **Day 77: 5th March 2021**
  I did a whole lot more googling about the problem, with no success. And then I wondered, can I use the ref in the ternary operator in the classname the same way I do with the ref. And it turns out the answer is yes. After all that, the answer was simple. I then discovered my css wasn't quite right, but that was easier to fix.
  The header was a bit of a mess - never 100vh, so I gave the title size a separate class and added the Header separately on the Houses page, with that class.
+
+**Day 78: 6th March 2021**
+Spent today with the video element, making a custom control. I only did a play and pause button, but that was hard enough! After looking at lots of different variations I ended up using state and refs - it was only when I read about state with objects thtat I realised what was going on and how to fix it.
