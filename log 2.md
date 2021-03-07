@@ -246,3 +246,6 @@ I added the videos and did a bit of CSS to position them. But when I added the I
 
 **Day 78: 6th March 2021**
 Spent today with the video element, making a custom control. I only did a play and pause button, but that was hard enough! After looking at lots of different variations I ended up using state and refs - it was only when I read about state with objects thtat I realised what was going on and how to fix it.
+
+**Day 79: 7th March 2021**
+I created the two pages that are like the houses page. That was quick. I then put the video toggling script in its own script, so it's not in three places. After running aXe I fixed a few things. It's pretty much done, it's mostly testing to go, which I don't know how to do in React - and didn't know you could do with the JS things I have going on, so I need to look that all up.
