@@ -245,10 +245,13 @@ I added the videos and did a bit of CSS to position them. But when I added the I
  The header was a bit of a mess - never 100vh, so I gave the title size a separate class and added the Header separately on the Houses page, with that class.
 
 **Day 78: 6th March 2021**
-Spent today with the video element, making a custom control. I only did a play and pause button, but that was hard enough! After looking at lots of different variations I ended up using state and refs - it was only when I read about state with objects thtat I realised what was going on and how to fix it.
+Spent today with the video element, making a custom control. I only did a play and pause button, but that was hard enough! After looking at lots of different variations I ended up using state and refs - it was only when I read about state with objects that I realised what was going on and how to fix it.
 
 **Day 79: 7th March 2021**
 I created the two pages that are like the houses page. That was quick. I then put the video toggling script in its own script, so it's not in three places. After running aXe I fixed a few things. It's pretty much done, it's mostly testing to go, which I don't know how to do in React - and didn't know you could do with the JS things I have going on, so I need to look that all up.
 
 **Day 80: 12th March 2021**
 Learnt some React in the Codebar Festival this morning - I never knew you could set a state hook from a child. I went back to looking into whether the three pages I have that have the same setup could have the same components but with different content. I couldn't find anything in a search, but the things I learnt this morning gave me an idea of a way to try and it worked! So now I don't have essentially the same things in three different places.
+
+**Day 81: 13th March 2021**
+The last session yesterday evening was about accessibility testing. While the session was on I wrote notes on things I think I needed to look at and went through most of those. I thought I'd been through with a keyboard, but obviously hadn't got all that far, since the cards were confusing and the light/dark toggle wasn't even selectable. All sorted now. I just have a couple of things left to do, then I'm back to the to do list I had before the festival.
