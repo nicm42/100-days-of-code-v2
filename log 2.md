@@ -255,3 +255,6 @@ Learnt some React in the Codebar Festival this morning - I never knew you could 
 
 **Day 81: 13th March 2021**
 The last session yesterday evening was about accessibility testing. While the session was on I wrote notes on things I think I needed to look at and went through most of those. I thought I'd been through with a keyboard, but obviously hadn't got all that far, since the cards were confusing and the light/dark toggle wasn't even selectable. All sorted now. I just have a couple of things left to do, then I'm back to the to do list I had before the festival.
+
+**Day 82: 15th March 2021**
+I did a whole load of little things today, adding a skip link and then checking keyboard selecting again. And checked it all with a screenreader, which was interesting to listen to. I made the nav menu close when it loses focus and fixed some bits on mobile that weren't showing correctly. I also re-sized all the images so they're less huge and got it to show the relevant ones using srcset and size if they were images and media queries if they were background images.
