@@ -258,3 +258,6 @@ The last session yesterday evening was about accessibility testing. While the se
 
 **Day 82: 15th March 2021**
 I did a whole load of little things today, adding a skip link and then checking keyboard selecting again. And checked it all with a screenreader, which was interesting to listen to. I made the nav menu close when it loses focus and fixed some bits on mobile that weren't showing correctly. I also re-sized all the images so they're less huge and got it to show the relevant ones using srcset and size if they were images and media queries if they were background images.
+
+**Day 83: 16th March 2021**
+I spent some time reading and watching videos and coding along for React testing, using React Testing Libary, Jest and Enzyme. When I came to try doing some testing, first of all things didn't work. When I finally got them working my tests say the app isn't working, even though I know it is. I remember this from first learning testing - it's really hard work just to get anything to work. But once you've got it, then it's easy. I'm on the really hard work part at the moment.
