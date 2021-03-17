@@ -261,3 +261,6 @@ I did a whole load of little things today, adding a skip link and then checking 
 
 **Day 83: 16th March 2021**
 I spent some time reading and watching videos and coding along for React testing, using React Testing Libary, Jest and Enzyme. When I came to try doing some testing, first of all things didn't work. When I finally got them working my tests say the app isn't working, even though I know it is. I remember this from first learning testing - it's really hard work just to get anything to work. But once you've got it, then it's easy. I'm on the really hard work part at the moment.
+
+**Day 84: 17th March 2021**
+Managed to get one test to work... Turned out you had to re-find the elements and then it was happy that they'd changed. I spent most of my time trying to work out how to check the body's class and just couldn't find an answer. I'm hoping I'll be able to find something by coming back to it another day.
