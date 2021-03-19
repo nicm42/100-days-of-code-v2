@@ -264,3 +264,6 @@ I spent some time reading and watching videos and coding along for React testing
 
 **Day 84: 17th March 2021**
 Managed to get one test to work... Turned out you had to re-find the elements and then it was happy that they'd changed. I spent most of my time trying to work out how to check the body's class and just couldn't find an answer. I'm hoping I'll be able to find something by coming back to it another day.
+
+**Day 85: 19th March 2021**
+I found the answer really quickly - it turned out that Enzyme's hasClass only works with things in the wrapper - which the body isn't. Once I found another way of checking the class was there, it worked. I then went onto checking the videos, found I had to change something in the code and then Parcel complained and I spent the rest of time trying to get back to a point where the thing actually loaded properly in the browser.
