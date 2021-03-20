@@ -267,3 +267,6 @@ Managed to get one test to work... Turned out you had to re-find the elements an
 
 **Day 85: 19th March 2021**
 I found the answer really quickly - it turned out that Enzyme's hasClass only works with things in the wrapper - which the body isn't. Once I found another way of checking the class was there, it worked. I then went onto checking the videos, found I had to change something in the code and then Parcel complained and I spent the rest of time trying to get back to a point where the thing actually loaded properly in the browser.
+
+**Day 86: 20th March 2021**
+Spent a lot of the day looking things up when my tests weren't working. Not helped by the DevTools not admitting my state was updating - but console.logs said they were, as did me actually testing. But when I tested with Jest/Enzyme, the console logs said it wasn't updating and the tests only worked as long as I only clicked once and did them in a specific order. Despite my beforeAll. I got something working, but I think I'll try testing that all properly in Cypress. Hopefully that'll work better...
