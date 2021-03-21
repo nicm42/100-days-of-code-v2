@@ -270,3 +270,6 @@ I found the answer really quickly - it turned out that Enzyme's hasClass only wo
 
 **Day 86: 20th March 2021**
 Spent a lot of the day looking things up when my tests weren't working. Not helped by the DevTools not admitting my state was updating - but console.logs said they were, as did me actually testing. But when I tested with Jest/Enzyme, the console logs said it wasn't updating and the tests only worked as long as I only clicked once and did them in a specific order. Despite my beforeAll. I got something working, but I think I'll try testing that all properly in Cypress. Hopefully that'll work better...
+
+**Day 87: 21st March 2021**
+Another frustrating day today. I thought I was on to simpler tests, but it turns out that even if you don't test the intersection observer, it still wants to use it. I spent ages looking up examples to mock it - it turned out to be simple, of course. And then when I moved onto another file I got a strange error on srcset - which turned out not to be related to that but it was just not liking my template literal, even if I moved it. I just couldn't find any explanation for it. I decided to mock content instead and that took a while to understand how to do it. But eventually, it is done!
