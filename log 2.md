@@ -273,3 +273,9 @@ Spent a lot of the day looking things up when my tests weren't working. Not help
 
 **Day 87: 21st March 2021**
 Another frustrating day today. I thought I was on to simpler tests, but it turns out that even if you don't test the intersection observer, it still wants to use it. I spent ages looking up examples to mock it - it turned out to be simple, of course. And then when I moved onto another file I got a strange error on srcset - which turned out not to be related to that but it was just not liking my template literal, even if I moved it. I just couldn't find any explanation for it. I decided to mock content instead and that took a while to understand how to do it. But eventually, it is done!
+
+**Day 88: 22nd March 2021**
+I thought I'd try the Nav tests that didn't work with Enzyme, with React Testing Library. It took me a little while to get my head around - not helped by using NavLink so it complained it wasn't inside Router. But once I did those tests worked a treat! Well, until I got to the focus/blur, but hopefully I'll be able to figure those out tomorrow.
+
+**Day 89: 23rd March 2021**
+I took a day off testing to go through FrontEnd Mentor and give some feedback. I felt much freer than on previous days, being stuck in a small testing box. I reminded myself how much I enjoy helping beginners. And it's also really useful to see other people's code and how they do it and organise it.
