@@ -279,3 +279,6 @@ I thought I'd try the Nav tests that didn't work with Enzyme, with React Testing
 
 **Day 89: 23rd March 2021**
 I took a day off testing to go through FrontEnd Mentor and give some feedback. I felt much freer than on previous days, being stuck in a small testing box. I reminded myself how much I enjoy helping beginners. And it's also really useful to see other people's code and how they do it and organise it.
+
+**Day 90: 24th March 2021**
+I finally got somewhere with the testing and got all of the Nav tests I had in Enzyme working with React Testing Library. Which I think might actually be easier, now I understand it. I have such a long list of things to test and tidy - despite only having four pages, this site has a lot going on to test.
