@@ -282,3 +282,6 @@ I took a day off testing to go through FrontEnd Mentor and give some feedback. I
 
 **Day 90: 24th March 2021**
 I finally got somewhere with the testing and got all of the Nav tests I had in Enzyme working with React Testing Library. Which I think might actually be easier, now I understand it. I have such a long list of things to test and tidy - despite only having four pages, this site has a lot going on to test.
+
+**Day 91: 26th March 2021**
+Got some good testing going on today with React Testing Library. LightDark turned out to be easier to Enzyme, so I left it how it was, but I added more tests for Nav and Info. Lots of stuff being tested in all of those, which is good.
