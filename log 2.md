@@ -288,3 +288,6 @@ Got some good testing going on today with React Testing Library. LightDark turne
 
 **Day 92: 27th March 2021**
 Finally finished testing all the components (ie all the unit testing)! I had a problem with mocking a named function, but I went for a walk and solved it instantly when I got back. The code coverage report was helpful because it reminded me I needed to check that the pages worked for all the props - and for no props being passed. I just have the pages to go, which should be simple as they just contain the components (so the integration testing). And then I need to do e2e testing with Cypress.
+
+**Day 93: 28th March 2021**
+I've done all the Jest/Enzyme/React-Testing-Library testing! I don't have 100% coverage, but that's impossible to get because I have some things that they can't test (eg videos). And some of the line numbers it says aren't testing actually are! Everything that hasn't been tested with these three will get tested with Cypress.
