@@ -291,3 +291,6 @@ Finally finished testing all the components (ie all the unit testing)! I had a p
 
 **Day 93: 28th March 2021**
 I've done all the Jest/Enzyme/React-Testing-Library testing! I don't have 100% coverage, but that's impossible to get because I have some things that they can't test (eg videos). And some of the line numbers it says aren't testing actually are! Everything that hasn't been tested with these three will get tested with Cypress.
+
+**Day 94: 29th March 2021**
+Cypress testing is so strange after Jest/Enzyme/RTL because the way it does assertions has a slightly different language. I'd remember cy.get, but spent all my time looking up the rest. I tested my IntersectionObservers so quickly in there. And started on testing the videos. I'm thinking of things that I couldn't test in Jest/Enzyme/RTL because they don't do e2e testing and will have to look up if they can be tested in Cypress. I feel like everything you can test as a person you can also test with these tools.
