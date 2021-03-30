@@ -294,3 +294,6 @@ I've done all the Jest/Enzyme/React-Testing-Library testing! I don't have 100% c
 
 **Day 94: 29th March 2021**
 Cypress testing is so strange after Jest/Enzyme/RTL because the way it does assertions has a slightly different language. I'd remember cy.get, but spent all my time looking up the rest. I tested my IntersectionObservers so quickly in there. And started on testing the videos. I'm thinking of things that I couldn't test in Jest/Enzyme/RTL because they don't do e2e testing and will have to look up if they can be tested in Cypress. I feel like everything you can test as a person you can also test with these tools.
+
+**Day 95: 30th March 2021**
+Did a whole load more Cypress testing today: of the videos and the links. The only thing I have left is that simulating pressing the Enter key on the videos isn't working and I don't know why. It's so unusual that I can't find anyone else trying it, they're just pressing enter in inputs. But maybe I'll find something tomorrow that tells me why.
