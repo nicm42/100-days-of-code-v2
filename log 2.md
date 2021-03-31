@@ -297,3 +297,6 @@ Cypress testing is so strange after Jest/Enzyme/RTL because the way it does asse
 
 **Day 95: 30th March 2021**
 Did a whole load more Cypress testing today: of the videos and the links. The only thing I have left is that simulating pressing the Enter key on the videos isn't working and I don't know why. It's so unusual that I can't find anyone else trying it, they're just pressing enter in inputs. But maybe I'll find something tomorrow that tells me why.
+
+**Day 96: 31st March 2021**
+Got the Enter keypress sorted - turns out it wanted a keydown. I also added a button role to the video to make it selectable in Cypress - it was already selectable in the browser, oddly. I then got it to run all the tests so it created videos, although they weren't that exciting. I then added in prop types check. I just need to test it in Edge, and probably re-test in other browsers to check I haven't broken anything and it's done. Finally!
