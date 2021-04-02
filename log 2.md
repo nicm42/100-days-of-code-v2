@@ -300,3 +300,6 @@ Did a whole load more Cypress testing today: of the videos and the links. The on
 
 **Day 96: 31st March 2021**
 Got the Enter keypress sorted - turns out it wanted a keydown. I also added a button role to the video to make it selectable in Cypress - it was already selectable in the browser, oddly. I then got it to run all the tests so it created videos, although they weren't that exciting. I then added in prop types check. I just need to test it in Edge, and probably re-test in other browsers to check I haven't broken anything and it's done. Finally!
+
+**Day 97: 2nd April 2021**
+Finally finished The Newport Group website! When checking it I realised it was annoying the way it went to a new page at the same point as the previous page, rather than the top of the page. Turns out there's a fix for that on the React Router docs. So I fixed that. Spent some time trying to test on Edge before I realised that typing localhost won't do it, I actually have to use my computer's IP address. And then I struggled to build it with Netlify. The last time I did it the build command didn't work and I had use a different command. This time the different command didn't work but the build command did. Strange, but at least it's built now.
