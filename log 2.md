@@ -303,3 +303,6 @@ Got the Enter keypress sorted - turns out it wanted a keydown. I also added a bu
 
 **Day 97: 2nd April 2021**
 Finally finished The Newport Group website! When checking it I realised it was annoying the way it went to a new page at the same point as the previous page, rather than the top of the page. Turns out there's a fix for that on the React Router docs. So I fixed that. Spent some time trying to test on Edge before I realised that typing localhost won't do it, I actually have to use my computer's IP address. And then I struggled to build it with Netlify. The last time I did it the build command didn't work and I had use a different command. This time the different command didn't work but the build command did. Strange, but at least it's built now.
+
+**Day 98: 3rd April 2021**
+I updated my portfolio to include The Newport Group. And since I've found a better way to make the computer/phone screenshots I updated all those images. And changed a couple of CSS elements so it looked better. And then had fun because I'd only updated the screenshot image for the readme on the master branch, but since it came up while I was updating, I committed it. And then it got unhappy that it had two images with the same name (that were the same). On the plus side, I've now learnt how to merge into the master branch in GitKraken, which turns out to be really easy.
