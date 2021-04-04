@@ -306,3 +306,6 @@ Finally finished The Newport Group website! When checking it I realised it was a
 
 **Day 98: 3rd April 2021**
 I updated my portfolio to include The Newport Group. And since I've found a better way to make the computer/phone screenshots I updated all those images. And changed a couple of CSS elements so it looked better. And then had fun because I'd only updated the screenshot image for the readme on the master branch, but since it came up while I was updating, I committed it. And then it got unhappy that it had two images with the same name (that were the same). On the plus side, I've now learnt how to merge into the master branch in GitKraken, which turns out to be really easy.
+
+**Day 99: 4th April 2021**
+I completed the first FreeCodeCamp React project. It took me a long time just to work out what I needed to do differently to get things to work in CodePen. But I got there in the end and it was pretty simple. Most people make it look good and add colour changing, like in the example, but since it wasn't required to pass the tests, I didn't bother.
