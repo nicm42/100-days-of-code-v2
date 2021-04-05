@@ -3,13 +3,13 @@ Did the CSS illustration parasol tutorial. It made it seem really simple, but I 
 
 **Day 2: 14th November 2020**
 I went back to the cake illustration. I realised I need to put the elements on top of each other, rather than next to each other, so it'll still work when you change the window size. I did that, but it still looks so flat. I've tried skewing and rotating it and it never seems to look right.
-I have up on that, at least for now, and did the Scrimba weekly dev challenge. Which reminded me how long it's been since I did anything apart from bits. So I went to Frontend Mentor and found a newbie accordion challenge, which should be good because I don't really know how to do an accordion. Especially not using JavaScript! Of course, it took me ages to work out how to set it up in GitKraken and then the project/Gulp set up took a while. I forgot how long all the adminy bits take.
+I gave up on that, at least for now, and did the Scrimba weekly dev challenge. Which reminded me how long it's been since I did anything apart from bits. So I went to Frontend Mentor and found a newbie accordion challenge, which should be good because I don't really know how to do an accordion. Especially not using JavaScript! Of course, it took me ages to work out how to set it up in GitKraken and then the project/Gulp set up took a while. I forgot how long all the adminy bits take.
 
 **Day 3: 15th November 2020**
-Spent some more time on the Frontend Mentor accordion. I'd forgotten how much time it takes to postion everything to match the design. But for now I've just gone for getting everything in because it'll only move once the accordion answers are visible. I looked up CSS only accordion and it uses a hidden input checkbox, which I've used before, so it should definitely be possible.
+Spent some more time on the Frontend Mentor accordion. I'd forgotten how much time it takes to position everything to match the design. But for now I've just gone for getting everything in because it'll only move once the accordion answers are visible. I looked up CSS only accordion and it uses a hidden input checkbox, which I've used before, so it should definitely be possible.
 
 **Day 4: 17th November 2020**
-I discovered there are HTML tags to make the accordion work. I've added that in and it all just works! Very useful. I then finessed bits of the design. I hate the part where you've trying to position everyting and get it all matching up. It's naerly there, just need to work out the sizing (which will affect some of the positioning).
+I discovered there are HTML tags to make the accordion work. I've added that in and it all just works! Very useful. I then finessed bits of the design. I hate the part where you've trying to position everything and get it all matching up. It's nearly there, just need to work out the sizing (which will affect some of the positioning).
 
 **Day 5: 18th November 2020**
 I did today's Scrimba Weekly Web Dev challenge. I'm really liking these for getting me practising some JS and CSS, however far I want to go with it. This one took me a little while to get my head round, but once I did it was fun.
@@ -27,7 +27,7 @@ It is slightly more obvious - slightly being the operative word. I have got all 
 Finally finished the accordion and submitted it! It took forever for a newbie challenge. I can definitely see how the Figma files would be a help, but I'm not sure I can justify a subscription at the moment. Maybe if I did a bigger challenge that was all about the looks.
 
 **Day 10: 27th November 2020**
-I spent some time, after I committed this, playing about with my email address in GitKraken. It wasn't working and now it is and I'm not sure ahy but I'm not going to touch it.
+I spent some time, after I committed this, playing about with my email address in GitKraken. It wasn't working and now it is and I'm not sure why but I'm not going to touch it.
 I made a small change on the accordion, based on feedback, and then look at some others to see how other people did it. I found one person to give some feedback to, but it's hard because unless they ask specific questions, it's hard to tell what level people are at.
 
 **Day 11: 28th November 2020**
@@ -129,7 +129,7 @@ Managed to get Infinite Kittens on Netlify using build. I don't think I'd quite 
 
 **Day 43: 27th January 2021**
 I tested Infinite Cats in Edge and it works, so I declared it done. I went to update my GitHub Profile, discovered it was more up-to-date in GitHub than on my computer because I have a thing in it that's fetching my Hashnode posts. So I discovered how to use Git stash and resolve merge conflicts.
-I then started Wes Bos's React course. The npm installation I had to do twice because so much of it failed the first time - but worked the secod even though I hadn't changed anything. I am glad I already understand what's going on with all of that, as when I tried learning React before I was fine in FreeCodeCamp but as soon as I got outside of it all of the Create React App stuff completely confused me.
+I then started Wes Bos's React course. The npm installation I had to do twice because so much of it failed the first time - but worked the second even though I hadn't changed anything. I am glad I already understand what's going on with all of that, as when I tried learning React before I was fine in FreeCodeCamp but as soon as I got outside of it all of the Create React App stuff completely confused me.
 
 **Day 44: 28th January 2021**
 I did three videos of Wes Bos's course. It all looks familiar and makes sense so far. I am going slowly on it in the hopes that doing a bit each day will help me remember it, as I'll be doing some React every day for a while.
@@ -309,3 +309,6 @@ I updated my portfolio to include The Newport Group. And since I've found a bett
 
 **Day 99: 4th April 2021**
 I completed the first FreeCodeCamp React project. It took me a long time just to work out what I needed to do differently to get things to work in CodePen. But I got there in the end and it was pretty simple. Most people make it look good and add colour changing, like in the example, but since it wasn't required to pass the tests, I didn't bother.
+
+**Day 100: 5th April 2021**
+Completed two FreeCodeCamp React projects today: markdown previewer and the drum kit. Neither of them were too bad once I got my head round how to do them. The next one is a calculator, which has a lot going on (and a lot of tests) so that's going to take a bit longer.
