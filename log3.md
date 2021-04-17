@@ -28,3 +28,6 @@ Today I did a tutorial on the FreeCodeCamp news page about creating a book manag
 
 **Day 10: 16th April 2021**
 I did a tutorial on React Router. Most of it I knew, then when it came on to the bits I didn't it stopped being a tutorial and ended up being more of something to read. Based on what I know so far it's not something I immediately need to know, so it might just be a case of knowing it exists and then reading more about it when I come to use it.
+
+**Day 11: 17th April 2021**
+I went back to the PluralSight course. Although it looks like there are some useful things coming up I'm not learning anything from it. I'm just finding that nothing he's doing is really explained - I'm just typing some things and I don't know why. So I'm going to give up on that.
