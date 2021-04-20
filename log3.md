@@ -34,3 +34,7 @@ I went back to the PluralSight course. Although it looks like there are some use
 
 **Day 12: 19th April 2021**
 I pointed GitHub Pages to my domain name. Which worried me for a bit, because there was a period of time when going to my GitHub Pages page sent me to my domain name... which then gave a blank page. It turned out I had to add some A records and give it some time. But while doing it I found something not looking quite right in Chrome. So I fixed that - and found that something had gone mad in my folder and some of my images in the old folder had been copied in the main folder. So I fixed all that. But the update hasn't (yet) shown up on the web. And GitHub is complaining that I haven't done the CNAME bit. It does say that it can take 48 hours, so I will give it some time and see if it works. And wait to move anything else. 
+
+**Day 13: 20th April 2021**
+I worked out what GitHub's problem was and got rid of the error message for my domain. I still can't get it to show the latest change, but I will save it for tomorrow, in case it works it out in the meantime. I've tried a load of things from StackOverflow and none of it worked.
+I started on a StyledComponents tutorial, but he didn't explain anything and I could barely see what he was typing. So I started on a longer one instead, which looks like it will be better. But I've only got as far as doing the set up - create react app takes so long to install.
