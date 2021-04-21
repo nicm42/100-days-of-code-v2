@@ -37,4 +37,8 @@ I pointed GitHub Pages to my domain name. Which worried me for a bit, because th
 
 **Day 13: 20th April 2021**
 I worked out what GitHub's problem was and got rid of the error message for my domain. I still can't get it to show the latest change, but I will save it for tomorrow, in case it works it out in the meantime. I've tried a load of things from StackOverflow and none of it worked.
-I started on a StyledComponents tutorial, but he didn't explain anything and I could barely see what he was typing. So I started on a longer one instead, which looks like it will be better. But I've only got as far as doing the set up - create react app takes so long to install.
+I started on a Styled Components tutorial, but he didn't explain anything and I could barely see what he was typing. So I started on a longer one instead, which looks like it will be better. But I've only got as far as doing the set up - create react app takes so long to install.
+
+**Day 14: 21st April 2021**
+I did the Styled Components tutorial and I get the basics. Which is enough for now - I'll learn anything more complicated as I do it. Especially as it'll make more sense when I'm doing my own things and transferring my thinking from SCSS to Styled Components.
+I looked at my portfolio and realised the problem was that for some for reason the CSS hadn't updated. I'm sure that when I changed it I ran Gulp and checked it offline, but maybe I didn't. But it is fixed now.
