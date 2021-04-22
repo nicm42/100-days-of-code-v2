@@ -42,3 +42,7 @@ I started on a Styled Components tutorial, but he didn't explain anything and I 
 **Day 14: 21st April 2021**
 I did the Styled Components tutorial and I get the basics. Which is enough for now - I'll learn anything more complicated as I do it. Especially as it'll make more sense when I'm doing my own things and transferring my thinking from SCSS to Styled Components.
 I looked at my portfolio and realised the problem was that for some for reason the CSS hadn't updated. I'm sure that when I changed it I ran Gulp and checked it offline, but maybe I didn't. But it is fixed now.
+
+**Day 15: 22nd April 2021**
+I looked at the thread tracker (with a proper fork this time) and now I've learnt Styled Components it all made so much more sense. It was so quick to make the change that I couldn't help thinking I'd done something wrong! It took me longer to fill in the details on the pull request.
+And then I found a new issue, so that might be a job for tomorrow!
