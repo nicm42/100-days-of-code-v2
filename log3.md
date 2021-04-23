@@ -46,3 +46,6 @@ I looked at my portfolio and realised the problem was that for some for reason t
 **Day 15: 22nd April 2021**
 I looked at the thread tracker (with a proper fork this time) and now I've learnt Styled Components it all made so much more sense. It was so quick to make the change that I couldn't help thinking I'd done something wrong! It took me longer to fill in the details on the pull request.
 And then I found a new issue, so that might be a job for tomorrow!
+
+**Day 16: 23rd April 2021**
+I made a requested change on the thread tracker, that was simple. I spent quite a bit of time investigating the issue I opened to try and narrow down if the problem is Linux, Linux Mint or just my computer. I then set up everything for the Bookfinder project. I thought Create React App took ages to install everything when I did it for tutorials. But when I timed it it only took 7 minutes, which isn't bad when my computer is getting old and slow.
