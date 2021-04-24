@@ -49,3 +49,6 @@ And then I found a new issue, so that might be a job for tomorrow!
 
 **Day 16: 23rd April 2021**
 I made a requested change on the thread tracker, that was simple. I spent quite a bit of time investigating the issue I opened to try and narrow down if the problem is Linux, Linux Mint or just my computer. I then set up everything for the Bookfinder project. I thought Create React App took ages to install everything when I did it for tutorials. But when I timed it it only took 7 minutes, which isn't bad when my computer is getting old and slow.
+
+**Day 17: 24th April 2021**
+I did the fix on the thread tracker - it turned out to be simpler than I thought. It took less time to fix than it did to test in all the browsers on Linux and Windows! I then pointed my Hashnode blog to my domain and the projects I have on Netlify in my portfolio. I had second thoughts about my avatar on my portfolio, so I changed it to my logo - which took a while because I didn't have one big enough or in the right shade of red, and then I discovered I didn't have the font either, so I had to find it and re-download it.
