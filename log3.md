@@ -52,3 +52,6 @@ I made a requested change on the thread tracker, that was simple. I spent quite 
 
 **Day 17: 24th April 2021**
 I did the fix on the thread tracker - it turned out to be simpler than I thought. It took less time to fix than it did to test in all the browsers on Linux and Windows! I then pointed my Hashnode blog to my domain and the projects I have on Netlify in my portfolio. I had second thoughts about my avatar on my portfolio, so I changed it to my logo - which took a while because I didn't have one big enough or in the right shade of red, and then I discovered I didn't have the font either, so I had to find it and re-download it.
+
+**Day 18: 25th April 2021**
+I went through SEO stuff and added some meta tags, robots.txt and sitemap to my portfolio. Some of that is overkill, but some of that should mean that the featured bit in LinkedIn should now pick up a decent image (or any image at all, in the case of The Newport Group).
