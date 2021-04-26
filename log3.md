@@ -55,3 +55,6 @@ I did the fix on the thread tracker - it turned out to be simpler than I thought
 
 **Day 18: 25th April 2021**
 I went through SEO stuff and added some meta tags, robots.txt and sitemap to my portfolio. Some of that is overkill, but some of that should mean that the featured bit in LinkedIn should now pick up a decent image (or any image at all, in the case of The Newport Group).
+
+**Day 19: 26th April 2021**
+I started the bookfinder project. It's so going as I thought I knew this stuff, but it's harder, starting from scratch! I'm trying to do TDD at the same time, so trying to think about what to do, then write the test, then write something that will pass it. And at least set things up in styled components, even if I'm not doing any of the CSS yet.
