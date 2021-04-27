@@ -58,3 +58,6 @@ I went through SEO stuff and added some meta tags, robots.txt and sitemap to my 
 
 **Day 19: 26th April 2021**
 I started the bookfinder project. It's so going as I thought I knew this stuff, but it's harder, starting from scratch! I'm trying to do TDD at the same time, so trying to think about what to do, then write the test, then write something that will pass it. And at least set things up in styled components, even if I'm not doing any of the CSS yet.
+
+**Day 20: 27th April 2021**
+It still feels like slow progress on the bookfinder project. I set it up to have space for the information and set up the function to do something when the button is clicked. Next I need to sort out the API so I can make a call to it.
