@@ -61,3 +61,6 @@ I started the bookfinder project. It's so going as I thought I knew this stuff, 
 
 **Day 20: 27th April 2021**
 It still feels like slow progress on the bookfinder project. I set it up to have space for the information and set up the function to do something when the button is clicked. Next I need to sort out the API so I can make a call to it.
+
+**Day 21: 28th April 2021**
+I looked up how to hide your API key and places said you need to put in Node in the backend. So I went through FreeCodeCamp's basic Node and Express module, but I only vaguely understood it and it didn't help me work out how to integrate it into my project. So I went looking for videos and found one about using Netlify functions and how to have your APi key on your Netlify project, but still hidden. So I will try following that.
