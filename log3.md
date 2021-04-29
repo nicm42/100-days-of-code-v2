@@ -64,3 +64,6 @@ It still feels like slow progress on the bookfinder project. I set it up to have
 
 **Day 21: 28th April 2021**
 I looked up how to hide your API key and places said you need to put in Node in the backend. So I went through FreeCodeCamp's basic Node and Express module, but I only vaguely understood it and it didn't help me work out how to integrate it into my project. So I went looking for videos and found one about using Netlify functions and how to have your APi key on your Netlify project, but still hidden. So I will try following that.
+
+**Day 22: 29th April 2021**
+I didn't have the brain for the bookfinder project today, but on my to do list is finishing Scrimba courses I've started. So I did the coding part of the Web Dev tips. It started with things I knew, but then there was an introduction to TypeScript. It has been on my list of things to learn, but having seen that bit I'm thinking that the best way to learn it would be to take something I've already created in JS and convert it to TS. That might be (optimistically) a weekend project. There was also a lesson on optional function execution using &&. Which I've never quite got the hang of, so haven't used - although if I tried using it I'd probably get the hang of it. It was good to have a lesson on and try using a bit of it.
