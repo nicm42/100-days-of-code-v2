@@ -70,3 +70,6 @@ I didn't have the brain for the bookfinder project today, but on my to do list i
 
 **Day 23: 30th April 2021**
 I went through Scrimba's TypeScript course, which was basically all about types. I guess that's where the name comes from. I then had a look at a couple of videos about installing it and using it on your project. had a look at Guess the Number and it's not long, so I think it shouldn't take too long to translate to TypeScript. Although it is a bit old, so I'll need to split the JS files and update the SASS splitting. And probably update some of the stuff I've got installed too. And, since it's the first thing I wrote with TDD, have a look at the testing to see if there's anything I can add/improve. So all that might take longer than the TypeScript part!
+
+**Day 24: 1st May 2021**
+I started on converting Guess the Number to TypeScript. By which I mean I opened it, realised my Jest tests were terrible, so spent the day splitting the JavaScript into separate files and then trying to get the tests all working. I eventually managed to sort it out and get 100% coverage. I was so used to testing React that testing JavaScript was suddenly quite weird. Having looked at the game quite a bit I can find some other things to improve, but one thing at a time!
