@@ -73,3 +73,6 @@ I went through Scrimba's TypeScript course, which was basically all about types.
 
 **Day 24: 1st May 2021**
 I started on converting Guess the Number to TypeScript. By which I mean I opened it, realised my Jest tests were terrible, so spent the day splitting the JavaScript into separate files and then trying to get the tests all working. I eventually managed to sort it out and get 100% coverage. I was so used to testing React that testing JavaScript was suddenly quite weird. Having looked at the game quite a bit I can find some other things to improve, but one thing at a time!
+
+**Day 25: 2nd May 2021**
+Converting to TypeScript didn't take long. Although I discovered there's things you have to do to deal with DOM elements, which weren't mentioned in the Scrimba course. I then tidied up the HTML and JS, and updated SASS to use @use instead of @import. And added some tests in Cypress. I think it's done now, I just need to come back to it with a fresh brain tomorrow to double check and see if I can build it in Netlify, rather than including the dist folder on GitHub.
