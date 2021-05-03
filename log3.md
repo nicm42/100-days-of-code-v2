@@ -76,3 +76,6 @@ I started on converting Guess the Number to TypeScript. By which I mean I opened
 
 **Day 25: 2nd May 2021**
 Converting to TypeScript didn't take long. Although I discovered there's things you have to do to deal with DOM elements, which weren't mentioned in the Scrimba course. I then tidied up the HTML and JS, and updated SASS to use @use instead of @import. And added some tests in Cypress. I think it's done now, I just need to come back to it with a fresh brain tomorrow to double check and see if I can build it in Netlify, rather than including the dist folder on GitHub.
+
+**Day 26: 3rd May 2021**
+Checked Guess the Number, and it was fine, but it didn't build. I had to update a dependency. That took longer than I thought it would. But I then gave some feedback on a couple of Frontend Mentor projects. Going back to the Bookfinder project, I thought I'd better look at Google Books API. And I found that it doesn't need a key. All that research on how to hide it will come in useful, just not yet.
