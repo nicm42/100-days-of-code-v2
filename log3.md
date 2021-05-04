@@ -79,3 +79,6 @@ Converting to TypeScript didn't take long. Although I discovered there's things 
 
 **Day 26: 3rd May 2021**
 Checked Guess the Number, and it was fine, but it didn't build. I had to update a dependency. That took longer than I thought it would. But I then gave some feedback on a couple of Frontend Mentor projects. Going back to the Bookfinder project, I thought I'd better look at Google Books API. And I found that it doesn't need a key. All that research on how to hide it will come in useful, just not yet.
+
+**Day 27: 4th May 2021**
+I added the API call - which took a little while because I first put it in a separate function, which then ran when the page was rendered. I then got the relevant bits of info so I can at least mock up some cards. I realised that the input and button need to be in a form, so you can submit by typing then pressing enter. I installed TypeScript and then discovered the whole thing is more complicated than I thought, so I need to read some stuff on writing TypeScript in React.
