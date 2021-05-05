@@ -82,3 +82,6 @@ Checked Guess the Number, and it was fine, but it didn't build. I had to update 
 
 **Day 27: 4th May 2021**
 I added the API call - which took a little while because I first put it in a separate function, which then ran when the page was rendered. I then got the relevant bits of info so I can at least mock up some cards. I realised that the input and button need to be in a form, so you can submit by typing then pressing enter. I installed TypeScript and then discovered the whole thing is more complicated than I thought, so I need to read some stuff on writing TypeScript in React.
+
+**Day 28: 5th May 2021**
+I converted everything to TypeScript and it all went ok. And then I updated ESLint and spent the rest of the time sorting that out. And now Prettier is being a pain and the API call isn't working any more. So not the most productive day ever. Hopefully it won't take long to sort out tomorrow.
