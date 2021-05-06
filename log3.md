@@ -85,3 +85,6 @@ I added the API call - which took a little while because I first put it in a sep
 
 **Day 28: 5th May 2021**
 I converted everything to TypeScript and it all went ok. And then I updated ESLint and spent the rest of the time sorting that out. And now Prettier is being a pain and the API call isn't working any more. So not the most productive day ever. Hopefully it won't take long to sort out tomorrow.
+
+**Day 29: 6th May 2021**
+I finally discovered that ESLint was using CRA's rules and not mine and it would have been better all round if I hadn't touched anything. But now I have, I have got it to use my rules (on top of its own). At the moment I have things on warn so I can decide what I want to do with that rule later. And I'd managed to delete the = out of the API call, which is why it wasn't working. I then updated the tests to use dummy card data. Hopefully I've finished fiddling with TypeScript and ESLint and can work on getting the API's results into the cards.
