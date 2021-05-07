@@ -88,3 +88,6 @@ I converted everything to TypeScript and it all went ok. And then I updated ESLi
 
 **Day 29: 6th May 2021**
 I finally discovered that ESLint was using CRA's rules and not mine and it would have been better all round if I hadn't touched anything. But now I have, I have got it to use my rules (on top of its own). At the moment I have things on warn so I can decide what I want to do with that rule later. And I'd managed to delete the = out of the API call, which is why it wasn't working. I then updated the tests to use dummy card data. Hopefully I've finished fiddling with TypeScript and ESLint and can work on getting the API's results into the cards.
+
+**Day 30: 7th May 2021**
+I realised that rather than mapping through my card data and adding the information into Card, I instead need to have one Card component and I map through, adding that however many times it's needed. Which sounds simple, but I realised I didn't know how to pass the props down, and I definitely didn't know how to do it in TypeScript! I got there in the end and now I understand how to do it. I ran out of time to fix the tests accordingly, since I moved things and renamed things, but sorting those out will have to wait for another day - I couldn't do them first, as you should in TDD, as I wasn't sure what I was doing!
