@@ -94,3 +94,6 @@ I realised that rather than mapping through my card data and adding the informat
 
 **Day 31: 8th May 2021**
 I was going to sort out the tests today, so I did the card one and then struggled dealing with dummy data. And then realised that the real thing will use API data, rather than dummy data, so I would need to do it a different way anyway. So I instead sorted out how to get the API data from the Search component to the Card component - I went via a state hook on the parent component and passed it down. Which took a while to work out how to do in TypeScript. After spending ages trying to get the data to update all the relevant bits, I realised I can just shove the data array in there and pick out the bits I need in the Card.
+
+**Day 32: 9th May 2021**
+I managed to add a test for axios running on button click, but couldn't get it to work for axios failing, even though it definitely works in the real thing. I spent a lot of time trying things, and have had a lot of different error messages, but nothing that worked.
