@@ -97,3 +97,4 @@ I was going to sort out the tests today, so I did the card one and then struggle
 
 **Day 32: 9th May 2021**
 I managed to add a test for axios running on button click, but couldn't get it to work for axios failing, even though it definitely works in the real thing. I spent a lot of time trying things, and have had a lot of different error messages, but nothing that worked.
+I thought I was done for the day, feeling terrible that I didn't achieve much. I went back to this, immediately found the answer, and realised I had another couple of things I needed to test. I now have 100% coverage (in Jest) for the Search component! It feels like I'm getting somewhere now.
