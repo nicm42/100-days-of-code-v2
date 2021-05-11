@@ -101,3 +101,6 @@ I thought I was done for the day, feeling terrible that I didn't achieve much. I
 
 **Day 33: 10th May 2021**
 I looked up how to exclude index from the test coverage report, so it looks a little better. I spent ages on the app test. I realised that I don't need to mock my card component because it's either not there if there's no data yet, or is there if there is. But I've yet to work out how to get it to mock having some data to map through without getting errors.
+
+**Day 34: 11th May 2021**
+I didn't have much time today, plus I've been stressing out over getting that test to work (although I have some ideas now, just not enough time to test them). So I did three of the Weekly Web Dev Challenges on Scrimba. It was good to do something simple and try and remember how to write JavaScript, after spending time with React!
