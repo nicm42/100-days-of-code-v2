@@ -104,3 +104,6 @@ I looked up how to exclude index from the test coverage report, so it looks a li
 
 **Day 34: 11th May 2021**
 I didn't have much time today, plus I've been stressing out over getting that test to work (although I have some ideas now, just not enough time to test them). So I did three of the Weekly Web Dev Challenges on Scrimba. It was good to do something simple and try and remember how to write JavaScript, after spending time with React!
+
+**Day 35: 12th May 2021**
+Today really exemplified the idea of stopping when you're stuck. I implemented my solution to the problem I was stuck on on Monday and it was all sorted in about five minutes. And then finished off the rest of the testing. Annoyingly, the code coverage says I'm not covering one line, but I am so I don't know why. I have got some notes of other functionality I need to add in, so it's not something to worry about now because that could change.
