@@ -107,3 +107,6 @@ I didn't have much time today, plus I've been stressing out over getting that te
 
 **Day 35: 12th May 2021**
 Today really exemplified the idea of stopping when you're stuck. I implemented my solution to the problem I was stuck on on Monday and it was all sorted in about five minutes. And then finished off the rest of the testing. Annoyingly, the code coverage says I'm not covering one line, but I am so I don't know why. I have got some notes of other functionality I need to add in, so it's not something to worry about now because that could change.
+
+**Day 36: 14th May 2021**
+A day's break really helped, plus setting myself a deadline. I converted my tests to TypeScript. One was fine, which I didn't expect. One of the errors I found a solution for easily. I had two other errors that I searched for alternately, which helped. They were both obvious when I found the answer, I was just overcomplicating things!
