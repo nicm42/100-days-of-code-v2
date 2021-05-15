@@ -110,3 +110,6 @@ Today really exemplified the idea of stopping when you're stuck. I implemented m
 
 **Day 36: 14th May 2021**
 A day's break really helped, plus setting myself a deadline. I converted my tests to TypeScript. One was fine, which I didn't expect. One of the errors I found a solution for easily. I had two other errors that I searched for alternately, which helped. They were both obvious when I found the answer, I was just overcomplicating things!
+
+**Day 37: 15th May 2021**
+I got loads done today. I added a PropTypes check - it needed everything that I was using, so that took a while just to type out! I then added testing for if any information is missing (apart from the book ID, which I assume it must have) and added a way to test it in the browser without needing to use the API. And added a loading element. Which is more complicated than any tutorials, as they assume the API will be loaded when you load the page. So I had to do some more state passing.
