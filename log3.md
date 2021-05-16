@@ -113,3 +113,6 @@ A day's break really helped, plus setting myself a deadline. I converted my test
 
 **Day 37: 15th May 2021**
 I got loads done today. I added a PropTypes check - it needed everything that I was using, so that took a while just to type out! I then added testing for if any information is missing (apart from the book ID, which I assume it must have) and added a way to test it in the browser without needing to use the API. And added a loading element. Which is more complicated than any tutorials, as they assume the API will be loaded when you load the page. So I had to do some more state passing.
+
+**Day 38: 16th May 2021**
+I added an element if there's an error. Which all works ok, but the test thinks it worked even before I added it and it complains about me updating a state in the catch. I think I need to mock the Search component when doing App tests. Which is a problem for another day.
