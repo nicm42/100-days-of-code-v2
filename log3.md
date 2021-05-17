@@ -116,3 +116,6 @@ I got loads done today. I added a PropTypes check - it needed everything that I 
 
 **Day 38: 16th May 2021**
 I added an element if there's an error. Which all works ok, but the test thinks it worked even before I added it and it complains about me updating a state in the catch. I think I need to mock the Search component when doing App tests. Which is a problem for another day.
+
+**Day 39: 17th May 2021**
+I went on the Scrimba discord to ask about whether it was a good idea to move getData to App and there was an answer to someone else asking something similar! So I moved it and then played with httpstat.us to test out error messages when the API errors. Despite adding more tests for those, Jest coverage still says a I have a few lines not tested - even though I'm definitely testing them, in one case I'm finding it based on the text, so it's definitely covered!
