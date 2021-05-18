@@ -119,3 +119,6 @@ I added an element if there's an error. Which all works ok, but the test thinks 
 
 **Day 39: 17th May 2021**
 I went on the Scrimba discord to ask about whether it was a good idea to move getData to App and there was an answer to someone else asking something similar! So I moved it and then played with httpstat.us to test out error messages when the API errors. Despite adding more tests for those, Jest coverage still says a I have a few lines not tested - even though I'm definitely testing them, in one case I'm finding it based on the text, so it's definitely covered!
+
+**Day 40: 18th May 2021**
+Some googling and playing with the API meant I found how to search by title or author (but you can't search by both). I adddd that into the app, and also a dropdown so you can say which you're searching by. A load of tests need adding to test the API is including them, but that's for another day.
