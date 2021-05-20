@@ -125,3 +125,6 @@ Some googling and playing with the API meant I found how to search by title or a
 
 **Day 41: 19th May 2021**
 I had a load of error messages on my axios tests, so I started one from scratch and managed to get rid of the error. And the other one that came up complaining about act(). But my tests are passing when they shouldn't be and going to the catch, which is probably related. But that will be a problem for another day.
+
+**Day 42: 20th May 2021**
+Not much time today, so I did the Scrimba Weekly Web Dev challenge. This week's one as well! I just have a whole load of older ones to catch up on some time.
