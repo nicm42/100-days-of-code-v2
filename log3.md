@@ -128,3 +128,6 @@ I had a load of error messages on my axios tests, so I started one from scratch 
 
 **Day 42: 20th May 2021**
 Not much time today, so I did the Scrimba Weekly Web Dev challenge. This week's one as well! I just have a whole load of older ones to catch up on some time.
+
+**Day 43: 21st May 2021**
+I was so stuck on the axios testing again, until I came across someone saying that you have to mock the test before you render. And all of a sudden it worked! I did then get some errors because I realised I set my dummy data up wrong and it wasn't quite like what you get back from the API. But once I fixed that I could then test other things. Which I will be saving for tomorrow.
