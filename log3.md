@@ -134,3 +134,6 @@ I was so stuck on the axios testing again, until I came across someone saying th
 
 **Day 44: 22nd May 2021**
 I finally have 100% code coverage! The reason I didn't before is that the axios testing that I thought was working, wasn't. I have sorted out the rest of the axios testing, made the dropdown required and cleared it on submit, and formatted the authors, if there's more than one. The main thing left to do that's not CSS is adding pages and getting more data, which I haven't decided how to do yet.
+
+**Day 45: 23rd May 2021**
+I realised I wasn't showing a message if no books were found, so I added that. I had to keysmash to get no results from the API! I then did some stuff with searching the API x times, so you can get all of the books. Currently it just searches 10, then you can search the next 10 etc, but can't go back or skip 10. That requires more thought (not least about whether it's worth doing). I did a couple of Weekly Web Dev challenges. I watched a video where they mentioned leetcode, which I thought I'd done before, but either I haven't, or it's changed a lot since then. I did a couple of easy challenges, and it took me a while to see exactly what was being tested - codewars is a lot easier to see in that respect.
