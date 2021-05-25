@@ -140,3 +140,6 @@ I realised I wasn't showing a message if no books were found, so I added that. I
 
 **Day 46: 24th May 2021**
 I got the bookfine project to go back 10 books. Which was tricky because it seemed like the only way to do it was to update states based on other states, but only if going backwards... I managed to find a way round it. And then discovered I needed to add more books to the tests, so it could test what happened if there were 10 books on a page going both forwards and backwards. I did another easy leetcode thing and an easy Weekly Web Dev Challenge.
+
+**Day 47: 25th May 2021**
+I abandoned leetcode because I just got annoyed with it - it's just so hard to tell what's going on in your code. I did a CSS-y Weekly Web Dev challenge and then did some CSS on the bookfinder project. Which involved choosing some colours and then checking how to do global styles. At some point I need to decide what everything should actually look like.
