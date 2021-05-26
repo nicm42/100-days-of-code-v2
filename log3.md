@@ -143,3 +143,7 @@ I got the bookfine project to go back 10 books. Which was tricky because it seem
 
 **Day 47: 25th May 2021**
 I abandoned leetcode because I just got annoyed with it - it's just so hard to tell what's going on in your code. I did a CSS-y Weekly Web Dev challenge and then did some CSS on the bookfinder project. Which involved choosing some colours and then checking how to do global styles. At some point I need to decide what everything should actually look like.
+
+**Day 48: 26th May 2021**
+I did a load of CSS today, so it's all done for the mobile view. Just the desktop/tablet etc view to go. Which I need to look up how to do. I also need to do some more looking up about how to do it more efficiently and not just have the same code in different place. I'm really missing classes to be able to style all similar things at once!
+I then did the Weekly Web Dev challenge. After thinking about no classes and SCSS like CSS, it was hard to get used to plain CSS again! The challenge was to create a clone of a Netflix film card. Everything that was on the picture was fine, but the stretch goal was to have more information pop up when you click the drop down. All I could really add was 'more information goes here' because I have no idea what it might say on Netflix.
