@@ -147,3 +147,6 @@ I abandoned leetcode because I just got annoyed with it - it's just so hard to t
 **Day 48: 26th May 2021**
 I did a load of CSS today, so it's all done for the mobile view. Just the desktop/tablet etc view to go. Which I need to look up how to do. I also need to do some more looking up about how to do it more efficiently and not just have the same code in different place. I'm really missing classes to be able to style all similar things at once!
 I then did the Weekly Web Dev challenge. After thinking about no classes and SCSS like CSS, it was hard to get used to plain CSS again! The challenge was to create a clone of a Netflix film card. Everything that was on the picture was fine, but the stretch goal was to have more information pop up when you click the drop down. All I could really add was 'more information goes here' because I have no idea what it might say on Netflix.
+
+**Day 49: 27th May 2021**
+I did a Weekly Web Dev challenge that was about CSS. I then did the media queries part of the CSS for the bookfinder project, which was all fine. But then testing it with real data I found a whole load of JS things I need to fix...
