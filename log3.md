@@ -150,3 +150,6 @@ I then did the Weekly Web Dev challenge. After thinking about no classes and SCS
 
 **Day 49: 27th May 2021**
 I did a Weekly Web Dev challenge that was about CSS. I then did the media queries part of the CSS for the bookfinder project, which was all fine. But then testing it with real data I found a whole load of JS things I need to fix...
+
+**Day 50: 28th May 2021**
+I did a couple of bits from my list, which were simple. But for one of them, the tests should tell me if it worked. But when I discovered that duplicating the previous and next buttons broke all the tests involving them. I fixed those bits, but now it's gone a bit weird with the API calling - I think I need to change the dummy data and tests, but I need to look at all those with a fresh eye.
