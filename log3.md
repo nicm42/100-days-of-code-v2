@@ -153,3 +153,6 @@ I did a Weekly Web Dev challenge that was about CSS. I then did the media querie
 
 **Day 50: 28th May 2021**
 I did a couple of bits from my list, which were simple. But for one of them, the tests should tell me if it worked. But when I discovered that duplicating the previous and next buttons broke all the tests involving them. I fixed those bits, but now it's gone a bit weird with the API calling - I think I need to change the dummy data and tests, but I need to look at all those with a fresh eye.
+
+**Day 51: 29th May 2021**
+Another Weekly Web Dev challenge, doing animations on button hover. I fixed a few things on the bookfinder project - I'm down to one error on the app test that I can't see why it's erroring, but hopefully a bit of time and it will become obvious.
