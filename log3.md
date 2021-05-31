@@ -156,3 +156,9 @@ I did a couple of bits from my list, which were simple. But for one of them, the
 
 **Day 51: 29th May 2021**
 Another Weekly Web Dev challenge, doing animations on button hover. I fixed a few things on the bookfinder project - I'm down to one error on the app test that I can't see why it's erroring, but hopefully a bit of time and it will become obvious.
+
+**Day 52: 30th May 2021**
+Decided to do some CSS today. So I added my own dropdown arrow to the select, so it looks the same in Firefox as it does in Chrome. I then fixed the CSS to improve it, so there weren't the same things all over the place. And installed React Helmet, so I could link the Google Font, and I can then use it to do the SEO, once I get to that.
+
+**Day 53: 31st May 2021**
+Fixed this to get the results from the array rather than the API, if you press next. And then I discovered I hadn't set up Helmet quite right - once I moved it from App to index it was better. It fits better on there too. I then discovered, upon googling, that Google Books totalItems isn't always correct, which explains a lot. So I removed the total book count and then found a new way to work out the end number of books.
