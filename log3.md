@@ -162,3 +162,6 @@ Decided to do some CSS today. So I added my own dropdown arrow to the select, so
 
 **Day 53: 31st May 2021**
 Fixed this to get the results from the array rather than the API, if you press next. And then I discovered I hadn't set up Helmet quite right - once I moved it from App to index it was better. It fits better on there too. I then discovered, upon googling, that Google Books totalItems isn't always correct, which explains a lot. So I removed the total book count and then found a new way to work out the end number of books.
+
+**Day 54: 3rd June 2021**
+I took a couple of days to catch up with videos and reading and discovered a few things. So it turns out I don't need Helmet, that's only for dynamic stuff and I only have one page. There's an index.html in the public, which Webpack uses as a base. So that simplified a lot. I also found why you might not want to use state on the input and select and the alternative without using ref. Which then took a long time to get both TypeScript and Jest/React Testing Library to be happy with. I then investigated props in Styled Components, so I could style disabled buttons. And then I made a start on this week's Weekly Web Dev Challenge.
