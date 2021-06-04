@@ -165,3 +165,6 @@ Fixed this to get the results from the array rather than the API, if you press n
 
 **Day 54: 3rd June 2021**
 I took a couple of days to catch up with videos and reading and discovered a few things. So it turns out I don't need Helmet, that's only for dynamic stuff and I only have one page. There's an index.html in the public, which Webpack uses as a base. So that simplified a lot. I also found why you might not want to use state on the input and select and the alternative without using ref. Which then took a long time to get both TypeScript and Jest/React Testing Library to be happy with. I then investigated props in Styled Components, so I could style disabled buttons. And then I made a start on this week's Weekly Web Dev Challenge.
+
+**Day 55: 4th June 2021**
+I finished off the Weekly Web Dev challenge. I just had the tricky bits to do, so I'm very glad I chose a course with circles in the background, rather than strange shapes that would have been more of a pain to create.
