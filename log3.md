@@ -168,3 +168,6 @@ I took a couple of days to catch up with videos and reading and discovered a few
 
 **Day 55: 4th June 2021**
 I finished off the Weekly Web Dev challenge. I just had the tricky bits to do, so I'm very glad I chose a course with circles in the background, rather than strange shapes that would have been more of a pain to create.
+
+**Day 56: 5th June 2021**
+I was watching something in React that was interesting, but then they used props in Styled Components in the way I want to use them, rather than the way they use them in the docs. So I updated the Previous and Next buttons in the bookfinder project and now it's much easier to read.
