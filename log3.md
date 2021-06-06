@@ -171,3 +171,6 @@ I finished off the Weekly Web Dev challenge. I just had the tricky bits to do, s
 
 **Day 56: 5th June 2021**
 I was watching something in React that was interesting, but then they used props in Styled Components in the way I want to use them, rather than the way they use them in the docs. So I updated the Previous and Next buttons in the bookfinder project and now it's much easier to read.
+
+**Day 57: 6th June 2021**
+I'd been putting off a Lighthouse review of my portfolio for a while. I noticed the favicon wasn't working, so I fixed that and then worked through the Lighthouse bits. I've gone from a score of 89 to 94, which is a improvement (it's in the green now). The bits that are left either make such a small difference and/or are related to the server, which I don't think I can do anything about.
