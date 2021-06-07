@@ -174,3 +174,6 @@ I was watching something in React that was interesting, but then they used props
 
 **Day 57: 6th June 2021**
 I'd been putting off a Lighthouse review of my portfolio for a while. I noticed the favicon wasn't working, so I fixed that and then worked through the Lighthouse bits. I've gone from a score of 89 to 94, which is a improvement (it's in the green now). The bits that are left either make such a small difference and/or are related to the server, which I don't think I can do anything about.
+
+**Day 58: 7th June 2021**
+I played about with adding an image. I tried a background image below the form, which looked fine as a form background, but odd looking at the whole page. I tried adding it as an image next to the form if there's enough space, but I'm not sure about that either.
