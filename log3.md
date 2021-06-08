@@ -177,3 +177,6 @@ I'd been putting off a Lighthouse review of my portfolio for a while. I noticed 
 
 **Day 58: 7th June 2021**
 I played about with adding an image. I tried a background image below the form, which looked fine as a form background, but odd looking at the whole page. I tried adding it as an image next to the form if there's enough space, but I'm not sure about that either.
+
+**Day 59: 8th June 2021**
+I finally made a decision about the image, but then I had to fiddle around with ways of adding it to get it to do what I wanted. It looks good now though.
