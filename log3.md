@@ -180,3 +180,6 @@ I played about with adding an image. I tried a background image below the form, 
 
 **Day 59: 8th June 2021**
 I finally made a decision about the image, but then I had to fiddle around with ways of adding it to get it to do what I wanted. It looks good now though.
+
+**Day 60: 9th June 2021**
+Did this week's Weekly Web Dev Challenge. Once I remembered what I was doing (you have to tell the eventlistener that you want to listen for a click...) it was easy. So I did the stretch goal. It's annoying that you can't style the radio buttons, but it turns out that creating your own in CSS is really easy.
