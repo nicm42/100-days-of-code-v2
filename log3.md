@@ -183,3 +183,6 @@ I finally made a decision about the image, but then I had to fiddle around with 
 
 **Day 60: 9th June 2021**
 Did this week's Weekly Web Dev Challenge. Once I remembered what I was doing (you have to tell the eventlistener that you want to listen for a click...) it was easy. So I did the stretch goal. It's annoying that you can't style the radio buttons, but it turns out that creating your own in CSS is really easy.
+
+**Day 61: 10th June 2021**
+I discovered at codebar that if you do a search and press Next, then do another search, it gets confused about the buttons being disabled. I fixed that - it's because it's all looking at state hooks, so they definitely need looking at, although I have sorted it using constants. I also moved the buttons into their own component, so they're not in App twice. I put Loading in its own component and made it bigger.
