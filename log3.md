@@ -186,3 +186,6 @@ Did this week's Weekly Web Dev Challenge. Once I remembered what I was doing (yo
 
 **Day 61: 10th June 2021**
 I discovered at codebar that if you do a search and press Next, then do another search, it gets confused about the buttons being disabled. I fixed that - it's because it's all looking at state hooks, so they definitely need looking at, although I have sorted it using constants. I also moved the buttons into their own component, so they're not in App twice. I put Loading in its own component and made it bigger.
+
+**Day 62: 12th June 2021**
+I did a lot of little things today. I centred the logo vertically in the space remaining, moved the error and books messages to their own files. I looked at the HTML structure that improved that (I had a lot of divs, I realised). And then since I was on a11y I did some wave and aXe testing. Next up is some Cypress testing, I think, which requires me not to be listening to the tennis at the same time, so a job for tomorrow morning.
