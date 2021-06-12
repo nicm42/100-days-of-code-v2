@@ -189,3 +189,6 @@ I discovered at codebar that if you do a search and press Next, then do another 
 
 **Day 62: 12th June 2021**
 I did a lot of little things today. I centred the logo vertically in the space remaining, moved the error and books messages to their own files. I looked at the HTML structure that improved that (I had a lot of divs, I realised). And then since I was on a11y I did some wave and aXe testing. Next up is some Cypress testing, I think, which requires me not to be listening to the tennis at the same time, so a job for tomorrow morning.
+
+**Day 63: 13th June 2021**
+I installed Cypress and then it turned into a pain, giving me errors. I eventually tracked it down to my babel file - I just needed to delete targets. Which I don't think I needed in there anyway. Lots of time spent installing stuff, but I now have it basically working. I just need to write some tests.
