@@ -192,3 +192,6 @@ I did a lot of little things today. I centred the logo vertically in the space r
 
 **Day 63: 13th June 2021**
 I installed Cypress and then it turned into a pain, giving me errors. I eventually tracked it down to my babel file - I just needed to delete targets. Which I don't think I needed in there anyway. Lots of time spent installing stuff, but I now have it basically working. I just need to write some tests.
+
+**Day 64: 14th June 2021**
+I discovered Cypress Testing Library. So there's one Testing Library which works for different languages and allows you to use eg getByRole. I installed that, at which point TypeScript was unhappy with both Jest and Cypress. I did some playing and then understood what was going on, so fixed that. I then updated my ternary operators in Card to make them variables, so it's all easier to read (hopefully). I then started on my Cypress tests. It took me a little while to understand how the API mocking worked, but it turns out it's really simple.
