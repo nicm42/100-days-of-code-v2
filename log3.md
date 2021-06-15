@@ -195,3 +195,6 @@ I installed Cypress and then it turned into a pain, giving me errors. I eventual
 
 **Day 64: 14th June 2021**
 I discovered Cypress Testing Library. So there's one Testing Library which works for different languages and allows you to use eg getByRole. I installed that, at which point TypeScript was unhappy with both Jest and Cypress. I did some playing and then understood what was going on, so fixed that. I then updated my ternary operators in Card to make them variables, so it's all easier to read (hopefully). I then started on my Cypress tests. It took me a little while to understand how the API mocking worked, but it turns out it's really simple.
+
+**Day 65: 15th June 2021**
+Added all the Cypress tests. They were pretty quick because I'd already thought about what to test when doing the Jest testing. Annoyingly I don't quite have 100% coverage on the Cypress tests because it thinks I'm not testing the book end count when going back, but I am, so not quite sure how to convince it.
