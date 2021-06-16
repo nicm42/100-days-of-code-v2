@@ -198,3 +198,6 @@ I discovered Cypress Testing Library. So there's one Testing Library which works
 
 **Day 65: 15th June 2021**
 Added all the Cypress tests. They were pretty quick because I'd already thought about what to test when doing the Jest testing. Annoyingly I don't quite have 100% coverage on the Cypress tests because it thinks I'm not testing the book end count when going back, but I am, so not quite sure how to convince it.
+
+**Day 66: 16th June 2021**
+I added keyboard and accessibility tests in Jest and Cypress. Which took a while, trying to establish what worked in which testing software... I also fixed the card's link alternative text so it was at the bottom of the card, made the page background lighter and added snapshot tests in Jest.
