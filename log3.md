@@ -201,3 +201,6 @@ Added all the Cypress tests. They were pretty quick because I'd already thought 
 
 **Day 66: 16th June 2021**
 I added keyboard and accessibility tests in Jest and Cypress. Which took a while, trying to establish what worked in which testing software... I also fixed the card's link alternative text so it was at the bottom of the card, made the page background lighter and added snapshot tests in Jest.
+
+**Day 67: 17th June 2021**
+I finally solved the Cypress problem of it erroring when pressing enter on the Previous button. Then discovered the loading spinner wasn't vertically centred any more, so I fixed that. I did some SEO, although it includes the site address, so I have to gt that right when I upload it! I tested on some other browsers and devices, found iOS really rounds the input, so it looks terrible. When I googled it the links were purple, so I've encountered that before. So I fixed that. I watched some videos on React useReducer, Context and Query. I now understand what they're for and how they work, so I just need to see if they are of any use in making this the bookfinder app easier to read.
