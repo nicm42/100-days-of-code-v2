@@ -204,3 +204,6 @@ I added keyboard and accessibility tests in Jest and Cypress. Which took a while
 
 **Day 67: 17th June 2021**
 I finally solved the Cypress problem of it erroring when pressing enter on the Previous button. Then discovered the loading spinner wasn't vertically centred any more, so I fixed that. I did some SEO, although it includes the site address, so I have to gt that right when I upload it! I tested on some other browsers and devices, found iOS really rounds the input, so it looks terrible. When I googled it the links were purple, so I've encountered that before. So I fixed that. I watched some videos on React useReducer, Context and Query. I now understand what they're for and how they work, so I just need to see if they are of any use in making this the bookfinder app easier to read.
+
+**Day 68: 18th June 2021**
+I started off thinking I'd use React Query, but then I found that a custom hook would be simpler. I wrote one and it works to fetch books. I also used used the Context API to update state there, rather than passing it down to components. Those all worked well, but then I found that updating the state that's on the context from the custom hook doesn't work. Not even when I came up with a far simpler example. Hopefully I'll be able to find a solution after a break.
