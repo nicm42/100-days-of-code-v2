@@ -207,3 +207,6 @@ I finally solved the Cypress problem of it erroring when pressing enter on the P
 
 **Day 68: 18th June 2021**
 I started off thinking I'd use React Query, but then I found that a custom hook would be simpler. I wrote one and it works to fetch books. I also used used the Context API to update state there, rather than passing it down to components. Those all worked well, but then I found that updating the state that's on the context from the custom hook doesn't work. Not even when I came up with a far simpler example. Hopefully I'll be able to find a solution after a break.
+
+**Day 69: 19th June 2021**
+I had an idea, tried it, it didn't work. I read some React articles and they were interesting and helpful for my general refactoring, but not for this specific problem. I had a break today to do a video on Python crash course. It was all about the basics of Python you need in order to write anything in it. I liked it and I can see why it's suggested for newbies because it feels very English.
