@@ -210,3 +210,6 @@ I started off thinking I'd use React Query, but then I found that a custom hook 
 
 **Day 69: 19th June 2021**
 I had an idea, tried it, it didn't work. I read some React articles and they were interesting and helpful for my general refactoring, but not for this specific problem. I had a break today to do a video on Python crash course. It was all about the basics of Python you need in order to write anything in it. I liked it and I can see why it's suggested for newbies because it feels very English.
+
+**Day 70: 20th June 2021**
+I finally solved the problem I was having. And discovered how useful CodeSandbox is. Of course now I have a new problem: my state hooks not using context are not updating in the custom hook. Hopefully a break and some more playing around in Code Sandbox will help fix that. Although I haven't done everything yet, it's looking so much better from my refactoring.
