@@ -213,3 +213,6 @@ I had an idea, tried it, it didn't work. I read some React articles and they wer
 
 **Day 70: 20th June 2021**
 I finally solved the problem I was having. And discovered how useful CodeSandbox is. Of course now I have a new problem: my state hooks not using context are not updating in the custom hook. Hopefully a break and some more playing around in Code Sandbox will help fix that. Although I haven't done everything yet, it's looking so much better from my refactoring.
+
+**Day 71: 21st June 2021**
+I solved the problem - you need to declare everything from the custom hook in one place, then pass it down. So I fixed that. I then went onto sort out the buttons, but of course I now have a problem on those. But that was right at the end, so I haven't had much time to look at it. Hopefully it won't be too hard to fix.
