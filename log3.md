@@ -216,3 +216,6 @@ I finally solved the problem I was having. And discovered how useful CodeSandbox
 
 **Day 71: 21st June 2021**
 I solved the problem - you need to declare everything from the custom hook in one place, then pass it down. So I fixed that. I then went onto sort out the buttons, but of course I now have a problem on those. But that was right at the end, so I haven't had much time to look at it. Hopefully it won't be too hard to fix.
+
+**Day 72: 22nd June 2021**
+I now have the bookfinder refactored and working as before! At least when I try it in the browser. I need to update all the tests since I'm passing different things in different places, but hopefully they'll pass...
