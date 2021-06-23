@@ -219,3 +219,6 @@ I solved the problem - you need to declare everything from the custom hook in on
 
 **Day 72: 22nd June 2021**
 I now have the bookfinder refactored and working as before! At least when I try it in the browser. I need to update all the tests since I'm passing different things in different places, but hopefully they'll pass...
+
+**Day 73: 23rd June 2021**
+I thought adapting the tests to the refactoring would be simpler than I thought. Most of it was ok - I learnt that if you're using context you have to wrap your component with it in the render, which makes sense. It's just the integration tests where it's using it in the child that's proving trickier. I haven't even looked at the Cypress tests yet, but they should be ok since it's just going to the page, same as a person does.
