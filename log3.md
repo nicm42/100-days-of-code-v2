@@ -222,3 +222,9 @@ I now have the bookfinder refactored and working as before! At least when I try 
 
 **Day 73: 23rd June 2021**
 I thought adapting the tests to the refactoring would be simpler than I thought. Most of it was ok - I learnt that if you're using context you have to wrap your component with it in the render, which makes sense. It's just the integration tests where it's using it in the child that's proving trickier. I haven't even looked at the Cypress tests yet, but they should be ok since it's just going to the page, same as a person does.
+
+**Day 74: 24th June 2021**
+I finally sorted out the remaining App tests. It turns out that Context is a pain - you have to set the variables at the start of the test, which is fine for one little unit test, but a pain when you're trying a big integration test. I ended up having to split out my tests some more, so I could fix the constants. But actually, that was a good thing, as each tests does fewer things. The Cypress tests all still work, so it means I definitely didn't break anything, I just need to update the Jest tests. (just snapshot to go and hopefully that'll be a quick win tomorrow...)
+
+**Day 75: 25th June 2021**
+The snapshots turned out to be easy to fix. Annoyingly my Jest coverage report says that some lines aren't covered but they are. I don't know if there's some context-related reason why it can't. Even if those lines aren't being tested in Jest (which they are), they're (also) definitely being tested in Cypress.
