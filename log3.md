@@ -228,3 +228,9 @@ I finally sorted out the remaining App tests. It turns out that Context is a pai
 
 **Day 75: 25th June 2021**
 The snapshots turned out to be easy to fix. Annoyingly my Jest coverage report says that some lines aren't covered but they are. I don't know if there's some context-related reason why it can't. Even if those lines aren't being tested in Jest (which they are), they're (also) definitely being tested in Cypress.
+
+**Day 76: 26th June 2021**
+Forgot to fill this in on Saturday, but I did write a blog post about what I did instead! I did some Python tutorials: a Pong game (using Turtle), making an API (using Flask & SQL) and web scraping (using Beautiful Soup). Since the latter two were more of an introduction, I did enjoy the game more, because by the end I had a finished game, which was pretty cool. It has given me an idea of what Python can do, which was the point of the exercise.
+
+**Day 77: 28th June 2021**
+I built the app, which worked fine, then pushed to main and played about with GitHub Actions for running tests on push or PR. I'd tried this with Jest tests before and hadn't been able to get it to work. I intended to try the tutorial, to see if that works, but I couldn't find the one I'd used before. So I did Cypress first, since that had docs on it, but it didn't work. But I found the video I found on it before and discovered I just had to add a line to package.json and it worked. And then after some Googling I found that Jest was really simple to do. I could watch them run when I made a PR, which was very exciting! I still have to put the site somewhere and then add it to my portfolio, but that's for another day - I didn't expect to get that far today!
