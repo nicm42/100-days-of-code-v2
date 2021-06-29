@@ -234,3 +234,6 @@ Forgot to fill this in on Saturday, but I did write a blog post about what I did
 
 **Day 77: 28th June 2021**
 I built the app, which worked fine, then pushed to main and played about with GitHub Actions for running tests on push or PR. I'd tried this with Jest tests before and hadn't been able to get it to work. I intended to try the tutorial, to see if that works, but I couldn't find the one I'd used before. So I did Cypress first, since that had docs on it, but it didn't work. But I found the video I found on it before and discovered I just had to add a line to package.json and it worked. And then after some Googling I found that Jest was really simple to do. I could watch them run when I made a PR, which was very exciting! I still have to put the site somewhere and then add it to my portfolio, but that's for another day - I didn't expect to get that far today!
+
+**Day 78: 29th June 2021**
+I deployed the bookfinder to Netlify, submitted it to Chingu and added it to my portfolio. I might try and catch up on some coding videos and the Weekly Web Dev challenges before I start on a new project (just have to decide which to do next!)
