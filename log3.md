@@ -237,3 +237,6 @@ I built the app, which worked fine, then pushed to main and played about with Gi
 
 **Day 78: 29th June 2021**
 I deployed the bookfinder to Netlify, submitted it to Chingu and added it to my portfolio. I might try and catch up on some coding videos and the Weekly Web Dev challenges before I start on a new project (just have to decide which to do next!)
+
+**Day 79: 30th June 2021**
+Watched some coding videos today. It feels like loads to get through, but if I can reduce that number to 0, then I should be able to keep up with newly released ones.
