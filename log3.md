@@ -240,3 +240,6 @@ I deployed the bookfinder to Netlify, submitted it to Chingu and added it to my 
 
 **Day 79: 30th June 2021**
 Watched some coding videos today. It feels like loads to get through, but if I can reduce that number to 0, then I should be able to keep up with newly released ones.
+
+**Day 80: 1st July 2021**
+I might well wait until the end of Wimbledon to start a new project, as by then I won't know what to do with myself, with no tennis on for around 12 hours a day. Today I watched some more videos - I am getting through the list, slowly.
