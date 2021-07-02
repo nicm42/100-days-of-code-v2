@@ -243,3 +243,6 @@ Watched some coding videos today. It feels like loads to get through, but if I c
 
 **Day 80: 1st July 2021**
 I might well wait until the end of Wimbledon to start a new project, as by then I won't know what to do with myself, with no tennis on for around 12 hours a day. Today I watched some more videos - I am getting through the list, slowly.
+
+**Day 81: 2nd July 2021**
+More videos. I realised some of the ones on my list have been on there for such a long time because I don't really want to watch them, I just feel like I should because they might come in useful in the future. So I took them off the list, because if I need them in the future, I can go and find them then.
