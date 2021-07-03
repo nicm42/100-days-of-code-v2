@@ -246,3 +246,6 @@ I might well wait until the end of Wimbledon to start a new project, as by then 
 
 **Day 81: 2nd July 2021**
 More videos. I realised some of the ones on my list have been on there for such a long time because I don't really want to watch them, I just feel like I should because they might come in useful in the future. So I took them off the list, because if I need them in the future, I can go and find them then.
+
+**Day 82: 3rd July 2021**
+Today was my learning something different tutorial day. I ended up doing Go. Like with Python, the Traversy Media crash course was all about how to use the language, then next week I'll do a tutorial to make something. Overall I found it to be a bit like JS and a bit like Python. I think some things are just universal.
