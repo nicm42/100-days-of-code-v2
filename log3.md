@@ -249,3 +249,6 @@ More videos. I realised some of the ones on my list have been on there for such 
 
 **Day 82: 3rd July 2021**
 Today was my learning something different tutorial day. I ended up doing Go. Like with Python, the Traversy Media crash course was all about how to use the language, then next week I'll do a tutorial to make something. Overall I found it to be a bit like JS and a bit like Python. I think some things are just universal.
+
+**Day 83: 4th July 2021**
+Today I did Traversy Media's crash courses on Node and Express, which was a lot. I've done freeCodeCamp's basic Node & Express, but really didn't understand what was going on with them. Splitting them out helped, so now I see what was going on. I need to look back at the videos I saw using an API and creating an API with Node/Express and see if I now understand what is going on with them.
