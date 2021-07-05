@@ -252,3 +252,6 @@ Today was my learning something different tutorial day. I ended up doing Go. Lik
 
 **Day 83: 4th July 2021**
 Today I did Traversy Media's crash courses on Node and Express, which was a lot. I've done freeCodeCamp's basic Node & Express, but really didn't understand what was going on with them. Splitting them out helped, so now I see what was going on. I need to look back at the videos I saw using an API and creating an API with Node/Express and see if I now understand what is going on with them.
+
+**Day 84: 5th July 2021**
+I did a video and a half today, which came to an hour. But I added another half hour to the watch list, so it's not really gone down much...
