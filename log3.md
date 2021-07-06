@@ -255,3 +255,6 @@ Today I did Traversy Media's crash courses on Node and Express, which was a lot.
 
 **Day 84: 5th July 2021**
 I did a video and a half today, which came to an hour. But I added another half hour to the watch list, so it's not really gone down much...
+
+**Day 85: 6th July 2021**
+The watch list has now gone down a lot. I realised the one I started yesterday was just watching someone follow documentation and I got the idea. So I watched one about TypeScript with Node and Express. Which gave me the gist and I'll have to check specifics for what I want to do when I come to use it.
