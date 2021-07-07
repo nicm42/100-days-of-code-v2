@@ -258,3 +258,6 @@ I did a video and a half today, which came to an hour. But I added another half 
 
 **Day 85: 6th July 2021**
 The watch list has now gone down a lot. I realised the one I started yesterday was just watching someone follow documentation and I got the idea. So I watched one about TypeScript with Node and Express. Which gave me the gist and I'll have to check specifics for what I want to do when I come to use it.
+
+**Day 86: 7th July 2021**
+I've finally finished my watch list! The final one was about testing in React, but I was pleased to find out that I knew all of that. So I think I am finally getting Jest and Testing Library after all! I also discovered that GitKraken doesn't work with private repos in the free version. Since I need to learn Git on command line anyway, I tried it in there. And got into trouble because it eventually turned out that my private SSH key had the wrong permissions. And when I fixed it I couldn't remember my password, so I had to set up new keys. The weird thing is that GitKraken says it's not using SSH, but GitHub says that GitKraken has used SSH recently. Although if it had, I'd have thought it would have complained about the permissions too. So I don't know. It works, so I'm not touching it.
