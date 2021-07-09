@@ -264,3 +264,6 @@ I've finally finished my watch list! The final one was about testing in React, b
 
 **Day 87: 8th July 2021**
 Having spent some time yesterday researching and installing things (and fighting with ssh) I started coding on an assignment. I realised I've done so much React lately that I forgot vanilla JS doesn't work quite the same way! It took me a little while to remember what I was doing. It says something about how much I've learnt React. (But I still can't answer Scrimba's poll from the other week as to whether I prefer JS or React). In the end I got it all working and loaded some data. I only have one thing to do and I've fulfilled the very basics of the brief, which is a good feeling.
+
+**Day 88: 9th July 2021**
+I did the one bit of the assignment I had left. And then decided to convert the js file to ts, which meant I then needed a build tool. And found Gulp wasn't happy with TypeScript or Dart Sass. Rather than messing around with it, I considered Webpack, since it would allow me to import things, but I remembered it had problems with Cypress. I didn't want to spend my time messing around with that either, so I ended up with Parcel. Which it turns out allows imports too! I should have just started with that.
