@@ -267,3 +267,9 @@ Having spent some time yesterday researching and installing things (and fighting
 
 **Day 88: 9th July 2021**
 I did the one bit of the assignment I had left. And then decided to convert the js file to ts, which meant I then needed a build tool. And found Gulp wasn't happy with TypeScript or Dart Sass. Rather than messing around with it, I considered Webpack, since it would allow me to import things, but I remembered it had problems with Cypress. I didn't want to spend my time messing around with that either, so I ended up with Parcel. Which it turns out allows imports too! I should have just started with that.
+
+**Day 89: 10th July 2021**
+Today was Golang tutorial today and I ended up doing a Traversy Media one on creating an API. Which seemed a lot more complicated than in Express, but that's partly because Express is JS so already understand a lot of it, plus it used an external module and reading the docs for that might have helped. I also did a lot on the assignment, refining things, creating tests, doing all the CSS.
+
+**Day 90: 11th July 2021**
+I fixed some bugs on the assignment that I'd introduced. I added a caption, for accessibility, then spent ages playing around trying to get the keyboard to navigate on the chart and the screenreader to not read the things that are not useful for it to read, without succcess.
