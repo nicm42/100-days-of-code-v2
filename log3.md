@@ -273,3 +273,6 @@ Today was Golang tutorial today and I ended up doing a Traversy Media one on cre
 
 **Day 90: 11th July 2021**
 I fixed some bugs on the assignment that I'd introduced. I added a caption, for accessibility, then spent ages playing around trying to get the keyboard to navigate on the chart and the screenreader to not read the things that are not useful for it to read, without succcess.
+
+**Day 91: 12th July 2021**
+I finished the assignment! I'm very glad I downloaded it from GitHub to follow the instructions I gave because I included some files in gitignore that were actually needed... Anyway, it's done now. Before starting a new project I'm going to do some Frontend Mentor feedback, as it's been a while since I've done any of that.
