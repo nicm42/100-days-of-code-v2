@@ -276,3 +276,6 @@ I fixed some bugs on the assignment that I'd introduced. I added a caption, for 
 
 **Day 91: 12th July 2021**
 I finished the assignment! I'm very glad I downloaded it from GitHub to follow the instructions I gave because I included some files in gitignore that were actually needed... Anyway, it's done now. Before starting a new project I'm going to do some Frontend Mentor feedback, as it's been a while since I've done any of that.
+
+**Day 92: 14th July 2021**
+I caught up on the Weekly Web Dev challenges, having missed last week's. And caught up on my to watch list (people keep putting more videos out...). I kind of miss having a project on, but I'm also liking the relaxed coding time spent on doing lots of little things.
