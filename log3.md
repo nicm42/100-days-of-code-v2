@@ -272,10 +272,13 @@ I did the one bit of the assignment I had left. And then decided to convert the 
 Today was Golang tutorial today and I ended up doing a Traversy Media one on creating an API. Which seemed a lot more complicated than in Express, but that's partly because Express is JS so already understand a lot of it, plus it used an external module and reading the docs for that might have helped. I also did a lot on the assignment, refining things, creating tests, doing all the CSS.
 
 **Day 90: 11th July 2021**
-I fixed some bugs on the assignment that I'd introduced. I added a caption, for accessibility, then spent ages playing around trying to get the keyboard to navigate on the chart and the screenreader to not read the things that are not useful for it to read, without succcess.
+I fixed some bugs on the assignment that I'd introduced. I added a caption, for accessibility, then spent ages playing around trying to get the keyboard to navigate on the chart and the screenreader to not read the things that are not useful for it to read, without success.
 
 **Day 91: 12th July 2021**
 I finished the assignment! I'm very glad I downloaded it from GitHub to follow the instructions I gave because I included some files in gitignore that were actually needed... Anyway, it's done now. Before starting a new project I'm going to do some Frontend Mentor feedback, as it's been a while since I've done any of that.
 
 **Day 92: 14th July 2021**
 I caught up on the Weekly Web Dev challenges, having missed last week's. And caught up on my to watch list (people keep putting more videos out...). I kind of miss having a project on, but I'm also liking the relaxed coding time spent on doing lots of little things.
+
+**Day 93: 15th July 2021**
+I did some Frontend Mentor feedback. I really should do it little and often rather than less often and getting through fewer than I think I can. The Newbie challenges are always easier to read, but I also really like helping the very new juniors
