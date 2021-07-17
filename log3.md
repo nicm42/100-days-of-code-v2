@@ -285,3 +285,6 @@ I did some Frontend Mentor feedback. I really should do it little and often rath
 
 **Day 94: 16th July 2021**
 I was going to start a project today, but then it was hot. And I remembered I had a load of things bookmarked to read that I just hadn't got to this week, so I worked through those. And watched Kevin Powell's latest video on scroll-timeline, which is very cool - so much less code than an Intersection Observer. The only trouble with it is waiting until it's actually released.
+
+**Day 95: 17th July 2021**
+Today I did bits of tutorials on PHP. It was hard because it was hot and I kept finding tutorials that assumed you knew nothing and therefore having to skip bits. I realised in the end that it doesn't have to be all YouTube videos. I could get a lot of the basics from reading things, because a lot of it is like JavaScript.
