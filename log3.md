@@ -288,3 +288,6 @@ I was going to start a project today, but then it was hot. And I remembered I ha
 
 **Day 95: 17th July 2021**
 Today I did bits of tutorials on PHP. It was hard because it was hot and I kept finding tutorials that assumed you knew nothing and therefore having to skip bits. I realised in the end that it doesn't have to be all YouTube videos. I could get a lot of the basics from reading things, because a lot of it is like JavaScript.
+
+**Day 96: 18th July 2021**
+I finally started a new project! Getting posts from a wordpress.com site and displaying them. Which I thought would be a nice, simple thing to do. Getting the API data was, but I decided to use Bootstrap and it was a complete pain. I eventually discovered why every example of the accordion I could find, except for the one on React Bootstrap's page used collapse and toggle. It's because the type definitions for everything else weren't imported into the Accordion definition - and even once I'd fixed that, the component just wouldn't import into App properly. At least it's working now, although it doesn't look that exciting - half the point of Bootstrap is not having to make styles. I'm wondering if it's worth using just Bootstrap, rather than React Bootstrap. Or using something else, like Material UI.
