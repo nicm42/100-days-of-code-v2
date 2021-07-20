@@ -296,3 +296,6 @@ I finally started a new project! Getting posts from a wordpress.com site and dis
 I realised the problem with the Accordion was that I was looking at the documentation for a newer version of React Bootstrap than was installed. So I installed the version for the documentation I was looking at and then the original implementation of the Accordion works. It is beta, but the Accordion looks so much better.
 I then added a loading spinner, toast and error message, just so I could use more Bootstrap components. And added some classes to make stuff look a bit prettier.
 I decided to add some images to my posts and rather than adding them in Wordpress, I'd add a random one with unsplash. The API needs an API key, so it's an excellent opportunity to use Express to hide my API key on the server. It took me a while, but I managed to get the data on the server. I just need to get it into the client side and then display it. And do it for different image queries depending on the post.
+
+**Day 98: 20th July 2021**
+I discovered that getting the data on the client side required a proxy to go from one localhost to another, since they have different numbers. Once I found that, notes about it were suddenly everywhere, or so it seemed. I then got the image to load into the post, and add some error checking and a loading spinner.
