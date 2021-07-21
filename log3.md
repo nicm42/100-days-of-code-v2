@@ -299,3 +299,6 @@ I decided to add some images to my posts and rather than adding them in Wordpres
 
 **Day 98: 20th July 2021**
 I discovered that getting the data on the client side required a proxy to go from one localhost to another, since they have different numbers. Once I found that, notes about it were suddenly everywhere, or so it seemed. I then got the image to load into the post, and add some error checking and a loading spinner.
+
+**Day 99: 21st July 2021**
+I finished the CSS - there wasn't much to do, just some spacing around everything, making the text not too long so it's hard to read and I floated the image. I added routes for the rest of the posts. And then I updated the Express JS file to TypeScript, which wasn't too bad to do.
