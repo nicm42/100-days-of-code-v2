@@ -302,3 +302,6 @@ I discovered that getting the data on the client side required a proxy to go fro
 
 **Day 99: 21st July 2021**
 I finished the CSS - there wasn't much to do, just some spacing around everything, making the text not too long so it's hard to read and I floated the image. I added routes for the rest of the posts. And then I updated the Express JS file to TypeScript, which wasn't too bad to do.
+
+**Day 100: 22nd July 2021**
+Day 100! I did a few little things on the project: updating the favicon and page title, setting up ready for doing testing in Jest and Cypress. I also thought that alternating the sides the images are on each post would be better, so I did that, and learnt how to do dynamic class names.
