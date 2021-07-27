@@ -7,3 +7,6 @@ But I also got to spend some of my day having fun with PHP. I did a tutorial on 
 
 **Day 3: 26th July 2021**
 I finally got the API mocking sorted by using Axios. I then got most of the testing done in Jest, I just have a few errors I can't fix that will hopefully become obvious, and the Express bits to test.
+
+**Day 4: 27th July 2021**
+I finally got all the Jest tests working! It says I'm not covering a couple of lines in one of the files, but I am. I split the Express bits into separate files, then got stuck in a loop with node-ts and it was only happy when it was all in one file. So it's staying like that, because getting errors every time I ran the server was annoying. And all I could find online was other people who were also stuck in the loop.
