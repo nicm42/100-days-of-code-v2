@@ -14,3 +14,6 @@ I finally got all the Jest tests working! It says I'm not covering a couple of l
 **Day 5: 28th July 2021**
 I got loads done today. I was planning to do the Cypress testing, which I did, and it was a bit of a pain before I worked out what was going on. But not too much to do because there's not much going on and I already thought about what to test when doing the Jest testing. I then dealt with the deploying parts.
 For the server I just had to add a couple of lines so it would load the React app from there. The most useful instruction I found is about copying everything into a new folder so I could have both a GitHub git, and a Heroku git. It then took me a while to relate the instructions to my app to get it on Heroku, but it worked in the end! And I had time to update my Portfolio with it.
+
+**Day 6: 29th July 2021**
+I had a quiet day today, catching up on the Weekly Web Dev challenges and then doing a few CSS Battles.
