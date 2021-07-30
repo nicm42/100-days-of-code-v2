@@ -17,3 +17,6 @@ For the server I just had to add a couple of lines so it would load the React ap
 
 **Day 6: 29th July 2021**
 I had a quiet day today, catching up on the Weekly Web Dev challenges and then doing a few CSS Battles.
+
+**Day 7: 30th July 2021**
+I updated my Portfolio and Github Profile to make my Frontend Mentor projects more clear. I gave some Frontend Mentor feedback. I also did a couple of CSS Battles.
