@@ -20,3 +20,6 @@ I had a quiet day today, catching up on the Weekly Web Dev challenges and then d
 
 **Day 7: 30th July 2021**
 I updated my Portfolio and Github Profile to make my Frontend Mentor projects more clear. I gave some Frontend Mentor feedback. I also did a couple of CSS Battles.
+
+**Day 8: 31st July 2021**
+Today I did a Flutter tutorial. I liked it - I can see how it would be easy to learn, since it's a lot like React. Although technically what I learnt was Dart. I think. I'm not 100% clear on which is which and what does what.
