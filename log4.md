@@ -23,3 +23,6 @@ I updated my Portfolio and Github Profile to make my Frontend Mentor projects mo
 
 **Day 8: 31st July 2021**
 Today I did a Flutter tutorial. I liked it - I can see how it would be easy to learn, since it's a lot like React. Although technically what I learnt was Dart. I think. I'm not 100% clear on which is which and what does what.
+
+**Day 9: 1st August 2021**
+I started a Frontend Mentor project. I picked a newbie one and than plan is to do it all normally, using CSS logical properties. Then do an RTL version and if I've done the CSS right, it will look the same, just backwards. I also decided to try out another bundler, and chose Rollup. There was some useful posts on dev.to about it, and some Stack Overflow stuff, so although it took a while, I got it doing what I needed to do in the end.
