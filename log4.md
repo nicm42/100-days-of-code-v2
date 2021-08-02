@@ -26,3 +26,6 @@ Today I did a Flutter tutorial. I liked it - I can see how it would be easy to l
 
 **Day 9: 1st August 2021**
 I started a Frontend Mentor project. I picked a newbie one and than plan is to do it all normally, using CSS logical properties. Then do an RTL version and if I've done the CSS right, it will look the same, just backwards. I also decided to try out another bundler, and chose Rollup. There was some useful posts on dev.to about it, and some Stack Overflow stuff, so although it took a while, I got it doing what I needed to do in the end.
+
+**Day 10: 2nd August 2021**
+I started on the CSS and I've done the mobile view, not exactly and minus the active states. Although I thought this would be a good one to test out logical properties in RTL, so far I've not used a lot.
