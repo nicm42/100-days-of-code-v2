@@ -29,3 +29,6 @@ I started a Frontend Mentor project. I picked a newbie one and than plan is to d
 
 **Day 10: 2nd August 2021**
 I started on the CSS and I've done the mobile view, not exactly and minus the active states. Although I thought this would be a good one to test out logical properties in RTL, so far I've not used a lot.
+
+**Day 11: 3rd August 2021**
+I did the desktop view, which didn't involve changing too much. And added the box shadow, which is such a pain to work out if it looks the same, just from looking at an image. And then I started on the active state, which is a pain. I got it mostly done for the mobile view, but it's totally different on the desktop view.
