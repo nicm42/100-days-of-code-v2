@@ -35,3 +35,6 @@ I did the desktop view, which didn't involve changing too much. And added the bo
 
 **Day 12: 4th August 2021**
 I did the active desktop state, which was a bit of a pain. I feel like I've hacked it to get it in the right position and it might need a re-think - once I've thought about how best to get it to work for both mobile and desktop. I think I also need to get the pro subscription, even if just for a month, because looking at things based on the jpg is driving me a bit mad and it would be so useful to see the exact sizes of things.
+
+**Day 13: 5th August 2021**
+I added some JavaScript to make the active state show and hide on button click, and added transitions. I realised that since it gives images for sharing, that in a real app they would be buttons, so I made them buttons.
