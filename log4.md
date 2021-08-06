@@ -38,3 +38,6 @@ I did the active desktop state, which was a bit of a pain. I feel like I've hack
 
 **Day 13: 5th August 2021**
 I added some JavaScript to make the active state show and hide on button click, and added transitions. I realised that since it gives images for sharing, that in a real app they would be buttons, so I made them buttons.
+
+**Day 14: 6th August 2021**
+I realised I needed to do some hover states for the buttons - focus was provided by the browser and actually is really visible in both Firefox and Chrome, for once. So I did the hover states. And changed the images to be inline svg so I could change the fill colour. Then I added some radio buttons and script to change the text direction to test the logical properties and it worked! Everything was mirrored. I just need to make them into a toggle and then it's just a case of finishing off the layout to get it looking closer to the design.
