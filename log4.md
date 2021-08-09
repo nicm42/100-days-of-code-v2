@@ -41,3 +41,9 @@ I added some JavaScript to make the active state show and hide on button click, 
 
 **Day 14: 6th August 2021**
 I realised I needed to do some hover states for the buttons - focus was provided by the browser and actually is really visible in both Firefox and Chrome, for once. So I did the hover states. And changed the images to be inline svg so I could change the fill colour. Then I added some radio buttons and script to change the text direction to test the logical properties and it worked! Everything was mirrored. I just need to make them into a toggle and then it's just a case of finishing off the layout to get it looking closer to the design.
+
+**Day 15: 7th August 2021**
+Forgot to fill this in! Today I did a Java tutorial. I was a bit put off at the start by putting everything in classed and all the public static void stuff. But once you've done those bits, you don't have to worry about it if everything is in main. Which it probably wouldn't be normally, but when doing a beginner's tutorial it's fine. I found one for making a text adventure game, which I really enjoyed - it was fun to play and easy to see how it all worked.
+
+**Day 16: 9th August 2021**
+I did the styling on the radio buttons. Everytime they were in RTL they confused me, but putting the label below the buttons really helped with that. Now I just need to refine the CSS so it's closer to the design and test it on all the browsers.
