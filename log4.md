@@ -47,3 +47,6 @@ Forgot to fill this in! Today I did a Java tutorial. I was a bit put off at the 
 
 **Day 16: 9th August 2021**
 I did the styling on the radio buttons. Everytime they were in RTL they confused me, but putting the label below the buttons really helped with that. Now I just need to refine the CSS so it's closer to the design and test it on all the browsers.
+
+**Day 17: 10th August 2021**
+I played Knights of the Flexbox table. Although it's about Flexbox, it's mostly about Tailwind classes, and I'm not that sold on Tailwind. As I played it I kept thinking it would just be much easier to write it in CSS... I also did this week's Scrimba Weekly Web Dev Challenge, which was really simple. Some of them are but then I end up not sure if I've missed something.
