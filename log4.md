@@ -50,3 +50,6 @@ I did the styling on the radio buttons. Everytime they were in RTL they confused
 
 **Day 17: 10th August 2021**
 I played Knights of the Flexbox table. Although it's about Flexbox, it's mostly about Tailwind classes, and I'm not that sold on Tailwind. As I played it I kept thinking it would just be much easier to write it in CSS... I also did this week's Scrimba Weekly Web Dev Challenge, which was really simple. Some of them are but then I end up not sure if I've missed something.
+
+**Day 18: 11th August 2021**
+Today's coding time was while I was mostly waiting for things after I'd supposedly finished work, so I decided to install Drupal locally. I knew it would be a pain and things would go wrong because that's always what happens and I was right. But I got there in the end and have a working local installation of Drupal! Very exciting.
