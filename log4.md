@@ -56,3 +56,9 @@ Today's coding time was while I was mostly waiting for things after I'd supposed
 
 **Day 19: 12th August 2021**
 I went back to Drupal and spent a while trying to work out how to get Docker to run. I knew yesterday that not following every single installation step would come back to bite me. Once I got into Drupal I read some of the user guide, but decided I'm not sure it's going to help much and following a tutorial will be better. But I did find it needed updating (already) so I had to look up how to do that. And that was pretty much my coding time.
+
+**Day 20: 13th August 2021**
+Added Cypress tests to the Frontend Mentor project, so it's testing clicking the button to open and close the share menu, and also the radio buttons for text direction. That's all the JS that's going on in there.
+
+**Day 21: 14th August 2021**
+I did Traversy Media's crash course on Ruby on Rails. As with everything, it was installing it that took the time. I generally found it complicated with all the folders going on and where you put everything. But I can see how it's quite English, with added colons.
