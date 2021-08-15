@@ -62,3 +62,6 @@ Added Cypress tests to the Frontend Mentor project, so it's testing clicking the
 
 **Day 21: 14th August 2021**
 I did Traversy Media's crash course on Ruby on Rails. As with everything, it was installing it that took the time. I generally found it complicated with all the folders going on and where you put everything. But I can see how it's quite English, with added colons.
+
+**Day 22: 15th August 2021**
+I finally bought a Pro membership to Frontend Mentor, so I could finish the design from the Figma files. Which was sometimes annoying because I could see mine matched but didn't quite look the same, so still took a bit of fiddling. But overall, much easier than trying to match to an image.
