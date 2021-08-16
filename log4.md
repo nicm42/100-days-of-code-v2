@@ -65,3 +65,6 @@ I did Traversy Media's crash course on Ruby on Rails. As with everything, it was
 
 **Day 22: 15th August 2021**
 I finally bought a Pro membership to Frontend Mentor, so I could finish the design from the Figma files. Which was sometimes annoying because I could see mine matched but didn't quite look the same, so still took a bit of fiddling. But overall, much easier than trying to match to an image.
+
+**Day 23: 16th August 2021**
+Getting the Frontend Mentor project on Vercel was a complete nightmare. It just kept giving me errors, which I don't get on my computer, but the only fixes I could find were related to my computer (and didn't help). Netlify was just as bad, so there's something going on there. In the end I just took the dist folder out of gitignore so it didn't have to do the build step, but I don't know what it's problem was. After spending all that time on it, adding it to Frontend Mentor and updating the readme will have to wait until tomorrow.
