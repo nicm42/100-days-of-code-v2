@@ -71,3 +71,6 @@ Getting the Frontend Mentor project on Vercel was a complete nightmare. It just 
 
 **Day 24: 17th August 2021**
 I updated the readme for the FEM project. But couldn't submit the solution. The page either refreshed to give me the filling in option or just thought about it for ages. Having tried in two browsers, I gave up. Something is obviously wrong at their end. I'll try again tomorrow, but if it doesn't work then, then it'll just have to remain unsubmitted.
+
+**Day 25: 18th August 2021**
+I started the Drupal tutorial. I'm glad I did because there's a lot going on in Drupal that I had no idea about it, so this is a good introduction. But he installed it a different way, so when I'm done, I'll have to go back and try his installation to see how it works.
