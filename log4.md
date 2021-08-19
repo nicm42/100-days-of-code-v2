@@ -74,3 +74,6 @@ I updated the readme for the FEM project. But couldn't submit the solution. The 
 
 **Day 25: 18th August 2021**
 I started the Drupal tutorial. I'm glad I did because there's a lot going on in Drupal that I had no idea about it, so this is a good introduction. But he installed it a different way, so when I'm done, I'll have to go back and try his installation to see how it works.
+
+**Day 26: 19th August 2021**
+More of the Drupal tutorial today. It's slow going because he chats abut various Drupal things while doing something related, so I have to keep pausing it. I am enjoying it and I can see how it's a really useful tool.
