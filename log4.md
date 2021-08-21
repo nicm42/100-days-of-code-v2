@@ -80,3 +80,6 @@ More of the Drupal tutorial today. It's slow going because he chats abut various
 
 **Day 27: 20th August 2021**
 Now I've properly learnt Drupal - I broke it. I was following the tutorial for a theme, but should have copied the file from GitHub rather than typing it in because that went wrong. And I had to modify a file just so it would tell me what was wrong. But I got it fixed and finished the tutorial. What I need is to find a more detailed tutorial on creating a theme. I could work things out by inspecting them and changing things, but I need a decent overview of what goes where, what you can do and how you tell it what you've done.
+
+**Day 28: 21st August 2021**
+Today I did a Fortran tutorial, which was fun. Right at the start when it talked about compiling it, I remembered that. I remember later coming to languages that you don't need to compile which felt strange to me. I remembered subroutines being a thing. But the rest I had no memory of at all.
