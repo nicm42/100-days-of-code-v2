@@ -83,3 +83,6 @@ Now I've properly learnt Drupal - I broke it. I was following the tutorial for a
 
 **Day 28: 21st August 2021**
 Today I did a Fortran tutorial, which was fun. Right at the start when it talked about compiling it, I remembered that. I remember later coming to languages that you don't need to compile which felt strange to me. I remembered subroutines being a thing. But the rest I had no memory of at all.
+
+**Day 29: 2nd August 2021**
+I started a tutorial series on Drupal theming. Mostly I just learnt how themes work in Drupal - I didn't need to know so much about how they need to be responsive... Next up in the tutorial is creating a theme, so that'll be interesting.
