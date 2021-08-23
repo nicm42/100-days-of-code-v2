@@ -78,7 +78,7 @@ I started the Drupal tutorial. I'm glad I did because there's a lot going on in 
 **Day 26: 19th August 2021**
 More of the Drupal tutorial today. It's slow going because he chats abut various Drupal things while doing something related, so I have to keep pausing it. I am enjoying it and I can see how it's a really useful tool.
 
-**Day 27: 20th August 2021**
+**Day 27: 20th August 2021**2929
 Now I've properly learnt Drupal - I broke it. I was following the tutorial for a theme, but should have copied the file from GitHub rather than typing it in because that went wrong. And I had to modify a file just so it would tell me what was wrong. But I got it fixed and finished the tutorial. What I need is to find a more detailed tutorial on creating a theme. I could work things out by inspecting them and changing things, but I need a decent overview of what goes where, what you can do and how you tell it what you've done.
 
 **Day 28: 21st August 2021**
@@ -86,3 +86,6 @@ Today I did a Fortran tutorial, which was fun. Right at the start when it talked
 
 **Day 29: 2nd August 2021**
 I started a tutorial series on Drupal theming. Mostly I just learnt how themes work in Drupal - I didn't need to know so much about how they need to be responsive... Next up in the tutorial is creating a theme, so that'll be interesting.
+
+**Day 30: 2nd August 2021**
+I did the part of the tutorial that involved creating a theme. Not so much the CSS, as those files were provided, but how to tell Drupal about them. Which has made sense of the yml files I saw before. But I can tell there's so much going on. And after the tutorial I will have to go and look up more because at the moment I've only seen themes with css and js (and haven't looked at the js yet).
