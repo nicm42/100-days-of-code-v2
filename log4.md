@@ -84,8 +84,11 @@ Now I've properly learnt Drupal - I broke it. I was following the tutorial for a
 **Day 28: 21st August 2021**
 Today I did a Fortran tutorial, which was fun. Right at the start when it talked about compiling it, I remembered that. I remember later coming to languages that you don't need to compile which felt strange to me. I remembered subroutines being a thing. But the rest I had no memory of at all.
 
-**Day 29: 2nd August 2021**
+**Day 29: 22nd August 2021**
 I started a tutorial series on Drupal theming. Mostly I just learnt how themes work in Drupal - I didn't need to know so much about how they need to be responsive... Next up in the tutorial is creating a theme, so that'll be interesting.
 
-**Day 30: 2nd August 2021**
+**Day 30: 23rd August 2021**
 I did the part of the tutorial that involved creating a theme. Not so much the CSS, as those files were provided, but how to tell Drupal about them. Which has made sense of the yml files I saw before. But I can tell there's so much going on. And after the tutorial I will have to go and look up more because at the moment I've only seen themes with css and js (and haven't looked at the js yet).
+
+**Day 31: 24th August 2021**
+Today was some stuff about twig and regions - a basic introduction. I've got the idea, it's going to be a case of reading the documentation and looking at what other themes have done.
