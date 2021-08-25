@@ -92,3 +92,6 @@ I did the part of the tutorial that involved creating a theme. Not so much the C
 
 **Day 31: 24th August 2021**
 Today was some stuff about twig and regions - a basic introduction. I've got the idea, it's going to be a case of reading the documentation and looking at what other themes have done.
+
+**Day 32: 25th August 2021**
+The tutorial finally go to the point where we're creating a sub-theme based on a design. I was wondering how you had more than one thing on a page and this will answer the question. When I get to that part of the tutorial (the end, presumably). But I've left myself something to look forward to tomorrow.
