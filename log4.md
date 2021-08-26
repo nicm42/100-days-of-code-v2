@@ -95,3 +95,6 @@ Today was some stuff about twig and regions - a basic introduction. I've got the
 
 **Day 32: 25th August 2021**
 The tutorial finally go to the point where we're creating a sub-theme based on a design. I was wondering how you had more than one thing on a page and this will answer the question. When I get to that part of the tutorial (the end, presumably). But I've left myself something to look forward to tomorrow.
+
+**Day 33: 26th August 2021**
+Finished the Drupal theming tutorial! Most of it was about blocks and views, the CSS just make it look pretty and moved some things around. Although one bit wasn't in the right place, but it turns out that's due to the CSS. And it's all floats and I didn't want to go there. I can see all the possibilities, but there's so much in there you can do. Next I need to read some documentation and try making a simple site myself.
