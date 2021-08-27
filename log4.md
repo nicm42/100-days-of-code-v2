@@ -98,3 +98,6 @@ The tutorial finally go to the point where we're creating a sub-theme based on a
 
 **Day 33: 26th August 2021**
 Finished the Drupal theming tutorial! Most of it was about blocks and views, the CSS just make it look pretty and moved some things around. Although one bit wasn't in the right place, but it turns out that's due to the CSS. And it's all floats and I didn't want to go there. I can see all the possibilities, but there's so much in there you can do. Next I need to read some documentation and try making a simple site myself.
+
+**Day 34: 27th August 2021**
+I took a break from Drupal to do Traversy Media's Svelte Crash Course, which was only 30 minutes long. And I can see why everyone loves Svelte. It is really simple. It uses Rollup for a bundler, so it's handy I just tried it out on my last project! It's so fast - running create react app takes 7 minutes (I timed it once); I'm not sure this even took as long as 7 seconds.
