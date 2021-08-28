@@ -101,3 +101,6 @@ Finished the Drupal theming tutorial! Most of it was about blocks and views, the
 
 **Day 34: 27th August 2021**
 I took a break from Drupal to do Traversy Media's Svelte Crash Course, which was only 30 minutes long. And I can see why everyone loves Svelte. It is really simple. It uses Rollup for a bundler, so it's handy I just tried it out on my last project! It's so fast - running create react app takes 7 minutes (I timed it once); I'm not sure this even took as long as 7 seconds.
+
+**Day 35: 28th August 2021**
+Today I learnt Rust. Which is hard. Most of the languages I've done on my Saturday series I've liked or loved. But this one I would happily never use again. I'm sure if I learnt it properly and used it a lot I'd get used to it, but given a choice, I'd rather not.
