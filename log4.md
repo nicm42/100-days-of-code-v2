@@ -104,3 +104,6 @@ I took a break from Drupal to do Traversy Media's Svelte Crash Course, which was
 
 **Day 35: 28th August 2021**
 Today I learnt Rust. Which is hard. Most of the languages I've done on my Saturday series I've liked or loved. But this one I would happily never use again. I'm sure if I learnt it properly and used it a lot I'd get used to it, but given a choice, I'd rather not.
+
+**Day 36: 29th August 2021**
+I set up Click the Dot with Svelte and included TypeScript in it. I need to look up how to include Sass in it. I then tried installing Drupal not using ddev, but I think it needs to be in var/www/html, which is a crazy place to put it because I need to be root to change any files in there. Maybe ddev installation is better, I don't know. I need to look into it more tomorrow.
