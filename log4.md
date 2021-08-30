@@ -107,3 +107,6 @@ Today I learnt Rust. Which is hard. Most of the languages I've done on my Saturd
 
 **Day 36: 29th August 2021**
 I set up Click the Dot with Svelte and included TypeScript in it. I need to look up how to include Sass in it. I then tried installing Drupal not using ddev, but I think it needs to be in var/www/html, which is a crazy place to put it because I need to be root to change any files in there. Maybe ddev installation is better, I don't know. I need to look into it more tomorrow.
+
+**Day 37: 30th August 2021**
+It turned out all I needed to do was to run the server and then I had a Drupal site. So it's all working now and on Git, I just need to work out how best to add the content - once that's in it'll be easier to see how to theme it. I also set up Click the Shape in Svelte. Hopefully it won't be too much work to convert it from jQuery, then make changes and add things. I also set up a Frontend Mentor project in Snowpack, so I can try that out. It took me a little while to work out what I was doing with Snowpack, but I got there in the end - and it was simple to set up.
