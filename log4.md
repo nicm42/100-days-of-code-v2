@@ -110,3 +110,6 @@ I set up Click the Dot with Svelte and included TypeScript in it. I need to look
 
 **Day 37: 30th August 2021**
 It turned out all I needed to do was to run the server and then I had a Drupal site. So it's all working now and on Git, I just need to work out how best to add the content - once that's in it'll be easier to see how to theme it. I also set up Click the Shape in Svelte. Hopefully it won't be too much work to convert it from jQuery, then make changes and add things. I also set up a Frontend Mentor project in Snowpack, so I can try that out. It took me a little while to work out what I was doing with Snowpack, but I got there in the end - and it was simple to set up.
+
+**Day 38: 31st August 2021**
+I did the header part of the Frontend Mentor project for mobile. It took me a while to work out where to put all the scss files and still have Snowpack be able to find the css file. I haven't done this for a bit, so it was hard to start, but I was all right once I got into it. There are quite a few complex things in each section, which is why I chose this layout, so it is going to take me a while. But there's plenty of days of Paralympics left to work to.
