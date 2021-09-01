@@ -113,3 +113,6 @@ It turned out all I needed to do was to run the server and then I had a Drupal s
 
 **Day 38: 31st August 2021**
 I did the header part of the Frontend Mentor project for mobile. It took me a while to work out where to put all the scss files and still have Snowpack be able to find the css file. I haven't done this for a bit, so it was hard to start, but I was all right once I got into it. There are quite a few complex things in each section, which is why I chose this layout, so it is going to take me a while. But there's plenty of days of Paralympics left to work to.
+
+**Day 38: 1st September 2021**
+I did the header for desktop - which involved fixing the things it turned out I broke when doing mobile... The next section was pretty short. But for some reason Figma said that the text was black and font-weight 400 - the font only has 400 so that's fine. But it didn't look black, I don't know why. I changed it to be a grey and it was more like the design - although I then made it a darker grey so it's actually contrasting against the white background.
