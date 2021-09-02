@@ -116,3 +116,6 @@ I did the header part of the Frontend Mentor project for mobile. It took me a wh
 
 **Day 38: 1st September 2021**
 I did the header for desktop - which involved fixing the things it turned out I broke when doing mobile... The next section was pretty short. But for some reason Figma said that the text was black and font-weight 400 - the font only has 400 so that's fine. But it didn't look black, I don't know why. I changed it to be a grey and it was more like the design - although I then made it a darker grey so it's actually contrasting against the white background.
+
+**Day 39: 2nd September 2021**
+I finished off the creations section. I had to re-do the way I'd done the images gradient with a before element, so that it could have a white overlay on hover. It took me a little while to work out why it wouldn't work with after - because a elements have an after and all the images are as. Once I got that sorted, then the desktop version of the grid wasn't too bad. I had to change my flex to a grid to position the button in different places in each. I then started on the footer section - just sorting out the HTML and inserting the images and doing a few CSS bits to make it all visible.
