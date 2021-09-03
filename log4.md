@@ -119,3 +119,6 @@ I did the header for desktop - which involved fixing the things it turned out I 
 
 **Day 39: 2nd September 2021**
 I finished off the creations section. I had to re-do the way I'd done the images gradient with a before element, so that it could have a white overlay on hover. It took me a little while to work out why it wouldn't work with after - because a elements have an after and all the images are as. Once I got that sorted, then the desktop version of the grid wasn't too bad. I had to change my flex to a grid to position the button in different places in each. I then started on the footer section - just sorting out the HTML and inserting the images and doing a few CSS bits to make it all visible.
+
+**Day 40: 3rd September 2021**
+I finished off the footer, which didn't take long. And then needed to work out at what point to change everything from mobile to desktop and how it should look in between. Which took longer. I still have a few things that aren't quite right, but they'll be easier to fix tomorrow
