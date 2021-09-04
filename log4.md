@@ -114,11 +114,14 @@ It turned out all I needed to do was to run the server and then I had a Drupal s
 **Day 38: 31st August 2021**
 I did the header part of the Frontend Mentor project for mobile. It took me a while to work out where to put all the scss files and still have Snowpack be able to find the css file. I haven't done this for a bit, so it was hard to start, but I was all right once I got into it. There are quite a few complex things in each section, which is why I chose this layout, so it is going to take me a while. But there's plenty of days of Paralympics left to work to.
 
-**Day 38: 1st September 2021**
+**Day 39: 1st September 2021**
 I did the header for desktop - which involved fixing the things it turned out I broke when doing mobile... The next section was pretty short. But for some reason Figma said that the text was black and font-weight 400 - the font only has 400 so that's fine. But it didn't look black, I don't know why. I changed it to be a grey and it was more like the design - although I then made it a darker grey so it's actually contrasting against the white background.
 
-**Day 39: 2nd September 2021**
+**Day 40: 2nd September 2021**
 I finished off the creations section. I had to re-do the way I'd done the images gradient with a before element, so that it could have a white overlay on hover. It took me a little while to work out why it wouldn't work with after - because a elements have an after and all the images are as. Once I got that sorted, then the desktop version of the grid wasn't too bad. I had to change my flex to a grid to position the button in different places in each. I then started on the footer section - just sorting out the HTML and inserting the images and doing a few CSS bits to make it all visible.
 
-**Day 40: 3rd September 2021**
+**Day 41: 3rd September 2021**
 I finished off the footer, which didn't take long. And then needed to work out at what point to change everything from mobile to desktop and how it should look in between. Which took longer. I still have a few things that aren't quite right, but they'll be easier to fix tomorrow
+
+**Day 42: 4th September 2021**
+They were easier to fix today! I got it done and uploaded. I found when I built it that the background images didn't show up. I changed the links to them to match the build folder and they still work in dev, which is confusing. I got it built in Vercel in two tries (I realised the first time I hadn't told it the name of the build folder). And then all uploaded onto Frontend Mentor, so now it's all done and I can't put off Drupal any longer...
