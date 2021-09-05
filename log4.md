@@ -125,3 +125,6 @@ I finished off the footer, which didn't take long. And then needed to work out a
 
 **Day 42: 4th September 2021**
 They were easier to fix today! I got it done and uploaded. I found when I built it that the background images didn't show up. I changed the links to them to match the build folder and they still work in dev, which is confusing. I got it built in Vercel in two tries (I realised the first time I hadn't told it the name of the build folder). And then all uploaded onto Frontend Mentor, so now it's all done and I can't put off Drupal any longer...
+
+**Day 43: 5th September 2021**
+I added content to the Drupal site. Which wasn't as complicated as I thought it would be. It's going to be organising and CSSing it that's going to take longer, I think.
