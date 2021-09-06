@@ -128,3 +128,6 @@ They were easier to fix today! I got it done and uploaded. I found when I built 
 
 **Day 43: 5th September 2021**
 I added content to the Drupal site. Which wasn't as complicated as I thought it would be. It's going to be organising and CSSing it that's going to take longer, I think.
+
+**Day 44: 6th September 2021**
+I started on Click the Shape in Svelte. I spent some time remembering what I was doing and reading the docs and getting Prettier to work with Svelte files. But I also added in the select with a list from an array and when one is selected the instructions text updates. Which is pretty cool. And pretty simple in the end.
