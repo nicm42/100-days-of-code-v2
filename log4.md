@@ -131,3 +131,6 @@ I added content to the Drupal site. Which wasn't as complicated as I thought it 
 
 **Day 44: 6th September 2021**
 I started on Click the Shape in Svelte. I spent some time remembering what I was doing and reading the docs and getting Prettier to work with Svelte files. But I also added in the select with a list from an array and when one is selected the instructions text updates. Which is pretty cool. And pretty simple in the end.
+
+**Day 45: 7th September 2021**
+It was too hot today and I didn't have a lot of time, so I did two week's ago's Weekly Web Dev. That was simple. I tried last week's, but got stuck. I think I need to re-think the way I've done it, but I don't have the energy, so will come back to that another day.
