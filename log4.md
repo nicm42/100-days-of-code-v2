@@ -134,3 +134,6 @@ I started on Click the Shape in Svelte. I spent some time remembering what I was
 
 **Day 45: 7th September 2021**
 It was too hot today and I didn't have a lot of time, so I did two week's ago's Weekly Web Dev. That was simple. I tried last week's, but got stuck. I think I need to re-think the way I've done it, but I don't have the energy, so will come back to that another day.
+
+**Day 46: 8th September 2021**
+Another hot day, so I did a bit on Click the Shape, adding the shapes and the closest scores. I'm still setting up the shapes twice (which is at least an improvement on three times) but fixing that will be for another (less hot) day.
