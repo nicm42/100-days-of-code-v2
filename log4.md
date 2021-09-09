@@ -137,3 +137,6 @@ It was too hot today and I didn't have a lot of time, so I did two week's ago's 
 
 **Day 46: 8th September 2021**
 Another hot day, so I did a bit on Click the Shape, adding the shapes and the closest scores. I'm still setting up the shapes twice (which is at least an improvement on three times) but fixing that will be for another (less hot) day.
+
+**Day 47: 9th September 2021**
+I started on the Drupal theme by creating the yml file. And finding the theming documentation. I at am now reassured that I know how to start and what I need to do next.
