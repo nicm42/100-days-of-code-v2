@@ -140,3 +140,6 @@ Another hot day, so I did a bit on Click the Shape, adding the shapes and the cl
 
 **Day 47: 9th September 2021**
 I started on the Drupal theme by creating the yml file. And finding the theming documentation. I at am now reassured that I know how to start and what I need to do next.
+
+**Day 48: 10th September 2021**
+I thought I'd add the SCSS file from the previous Click the Shape into this one and it would just all work. Wrong! I ended up having to add the bits into the components, which I haven't decided is what I want to do yet. And it's currently ignoring the media queries. I think I will need to find a repo or tutorial using SCSS to see how they've done it.
