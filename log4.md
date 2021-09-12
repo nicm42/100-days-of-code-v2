@@ -143,3 +143,9 @@ I started on the Drupal theme by creating the yml file. And finding the theming 
 
 **Day 48: 10th September 2021**
 I thought I'd add the SCSS file from the previous Click the Shape into this one and it would just all work. Wrong! I ended up having to add the bits into the components, which I haven't decided is what I want to do yet. And it's currently ignoring the media queries. I think I will need to find a repo or tutorial using SCSS to see how they've done it.
+
+**Day 49: 11th September 2021**
+Forgot to fill this in yesterday, but wrote the blog post. I did Traversy Media's crash course on MySQL. Which all made sense, and I'm glad it included how to use it in Node, as it turns out to be easy. The hard part was re-setting my root password because I didn't know it, and every step I took I got errors. At least I gave the Spaceship Store's database its own user, so it's not been affected by any of that.
+
+**Day 50: 12th September 2021**
+Halfway through! I worked out what Drupal regions I wanted by trial and error (very much error when things disappeared...). And then added a Google Font, which took a while as I hadn't considered that I needed to tell it I wanted to use said font. I think I need to do some CSS now to get it looking how I want. And then remind myself how to use the breakpoints.
