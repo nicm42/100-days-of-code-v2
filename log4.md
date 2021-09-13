@@ -136,7 +136,7 @@ I started on Click the Shape in Svelte. I spent some time remembering what I was
 It was too hot today and I didn't have a lot of time, so I did two week's ago's Weekly Web Dev. That was simple. I tried last week's, but got stuck. I think I need to re-think the way I've done it, but I don't have the energy, so will come back to that another day.
 
 **Day 46: 8th September 2021**
-Another hot day, so I did a bit on Click the Shape, adding the shapes and the closest scores. I'm still setting up the shapes twice (which is at least an improvement on three times) but fixing that will be for another (less hot) day.
+Another hot day, so I did a bit on Click the Shape, adding the shapes and the closest scores. I'm still setting up the shapes twice (which is at least an improvement on three  times) but fixing that will be for another (less hot) day.
 
 **Day 47: 9th September 2021**
 I started on the Drupal theme by creating the yml file. And finding the theming documentation. I at am now reassured that I know how to start and what I need to do next.
@@ -149,3 +149,7 @@ Forgot to fill this in yesterday, but wrote the blog post. I did Traversy Media'
 
 **Day 50: 12th September 2021**
 Halfway through! I worked out what Drupal regions I wanted by trial and error (very much error when things disappeared...). And then added a Google Font, which took a while as I hadn't considered that I needed to tell it I wanted to use said font. I think I need to do some CSS now to get it looking how I want. And then remind myself how to use the breakpoints.
+
+**Day 51: 13th September 2021**
+Back on Click the Shape, I added the results section. I wondered why it wasn't showing, was convinced it wasn't using the mixins and then eventually discovered it was because the button was hidden. For some reason the layout is all messed up on bigger than mobile screens, but since the CSS all needs re-writing anyway, I'll save that for later. As long as it all shows up that's good enough to get it working.
+I then looked at growing the shape when you click on it. I did it the old-fashioned way, then discovered Svelte has some stuff to help. I used transition but it's for making things visible and invisible (which I'll have use for later). Tween turned out to be the one I wanted. And it works well. Next up will be working out how to stop it on another click.
