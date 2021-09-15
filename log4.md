@@ -156,3 +156,6 @@ I then looked at growing the shape when you click on it. I did it the old-fashio
 
 **Day 52: 14th September 2021**
 I didn't like the five ships in a row grid, so I added a new one, so it can be two rows of three ships. Since I used a website to remove the background on the new one, I did the same on the other images, so they look better than with my previous dodgy background removal. I then set it to re-size the images so they're not too big. And realised that the grid layout in the View is crap - there's tables in there and it's not responsive, so I unticked the box for the default classes and added a grid myself. It still needs some formatting - and it will need some breakpoints, but at least everything's not right up against each other.
+
+**Day 53: 15th September 2021**
+I discovered Svelte's docs have a pausable tween, so I added that in, so now the shape stops growing on a second click. I then made the helper show, which took a little while to work out how to do. I ended up adding a class to change it from display none to display block. And then used the same idea to take the hand shaped cursor off the shape once it's stopped.
