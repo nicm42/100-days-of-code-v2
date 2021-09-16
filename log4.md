@@ -159,3 +159,6 @@ I didn't like the five ships in a row grid, so I added a new one, so it can be t
 
 **Day 53: 15th September 2021**
 I discovered Svelte's docs have a pausable tween, so I added that in, so now the shape stops growing on a second click. I then made the helper show, which took a little while to work out how to do. I ended up adding a class to change it from display none to display block. And then used the same idea to take the hand shaped cursor off the shape once it's stopped.
+
+**Day 54: 16th September 2021**
+I spent a while today trying to work out how to get the contact form on the same page as the rest of the about elements. In the end I found a module that turned the contact form into a block, so it's on the same page, if not where I want it. But I'm going to style them with a grid anyway, so I can rearrange them. Then I installed a module that does carousels. There were no instructions on how to use it, but I found a tutorial. However, it's still got them one below the other, just with the addition of previous and next buttons. There are a lot of options, so it could take a while to find the solution. But that's for another day.
