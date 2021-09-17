@@ -162,3 +162,6 @@ I discovered Svelte's docs have a pausable tween, so I added that in, so now the
 
 **Day 54: 16th September 2021**
 I spent a while today trying to work out how to get the contact form on the same page as the rest of the about elements. In the end I found a module that turned the contact form into a block, so it's on the same page, if not where I want it. But I'm going to style them with a grid anyway, so I can rearrange them. Then I installed a module that does carousels. There were no instructions on how to use it, but I found a tutorial. However, it's still got them one below the other, just with the addition of previous and next buttons. There are a lot of options, so it could take a while to find the solution. But that's for another day.
+
+**Day 55: 17th September 2021**
+Back on Click the Shape today. I realised I needed to do all the finishing bits when the tween finished. I found a mention of being able to do something when it's complete, but nothing that actually told me how to do that. So I ended up doing it with a timer. I may try looking that up again another day because I don't like that solution. I then added the text to the results section and made it show at the end. And added the closest scores to local storage and display them on page load.
