@@ -171,3 +171,4 @@ Forgot to fill this in again, but I learnt some Swift. Just the basics of how to
 
 **Day 57: 19th September 2021**
 Fought with the Slick carousel in Drupal. After trying lots of things I discovered all the errors in the console. For some reason it couldn't find the CSS and complained about Blazy. I changed the theme back to Bartik and now it's complaining that it doesn't like the CSS and complained about Blazy even more. So that's sort of progress...
+Later: I had a bit of time so I looked into the carousel some more. I found that the error message in Bartik was because it couldn't find the CSS. I found something that told me I'd put it in the wrong place - I put it in the right place and magically, it worked! It's still complaining about Blazy, even though I don't think I'm using it, so I'll need to look into that. It also looks terrible, which I need to use a combination of options and CSS to fix.
