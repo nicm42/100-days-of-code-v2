@@ -165,3 +165,9 @@ I spent a while today trying to work out how to get the contact form on the same
 
 **Day 55: 17th September 2021**
 Back on Click the Shape today. I realised I needed to do all the finishing bits when the tween finished. I found a mention of being able to do something when it's complete, but nothing that actually told me how to do that. So I ended up doing it with a timer. I may try looking that up again another day because I don't like that solution. I then added the text to the results section and made it show at the end. And added the closest scores to local storage and display them on page load.
+
+**Day 56: 18th September 2021**
+Forgot to fill this in again, but I learnt some Swift. Just the basics of how to write it, because doing anything requires more exciting requires a Mac.
+
+**Day 57: 19th September 2021**
+Fought with the Slick carousel in Drupal. After trying lots of things I discovered all the errors in the console. For some reason it couldn't find the CSS and complained about Blazy. I changed the theme back to Bartik and now it's complaining that it doesn't like the CSS and complained about Blazy even more. So that's sort of progress...
