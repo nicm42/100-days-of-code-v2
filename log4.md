@@ -175,3 +175,6 @@ Later: I had a bit of time so I looked into the carousel some more. I found that
 
 **Day 58: 20th September 2021**
 I deleted some of the crap hanging around from trying to get the Slick carousel to work. Then decided to start on the ships page. For some reason, setting Grid in the views made my columns all really narrow. So I turned that off and just went with CSS Grid instead, which works much better. It was pretty cool that in the view I could stop the title from being a link, but then add one to to the bottom. The CSS is at least easier since I know it, although using CSS rather than SASS takes a bit of thought. And it all takes a while because I have to look at the class names, try it in the browser, then do it, then wait ages for drush to clear the cache.
+
+**Day 59: 21st September 2021**
+I finished the ships page! Including adding media queries to the grid so it shows an even number based on the space the ships take up. I know you still need a breakpoints file (maybe?) but I can't remember what it does, so I will have to look that up. I discovered that it does pick up the changed CSS without needing to clear the cache every time, so that will save a lot of time when I come to do the other pages.
