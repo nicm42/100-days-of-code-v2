@@ -178,3 +178,6 @@ I deleted some of the crap hanging around from trying to get the Slick carousel 
 
 **Day 59: 21st September 2021**
 I finished the ships page! Including adding media queries to the grid so it shows an even number based on the space the ships take up. I know you still need a breakpoints file (maybe?) but I can't remember what it does, so I will have to look that up. I discovered that it does pick up the changed CSS without needing to clear the cache every time, so that will save a lot of time when I come to do the other pages.
+
+**Day 60: 22nd September 2021**
+A frustrating day today. I discovered some of the changes I'd made to the ships page affected the other pages too. The solution is to use twig, which I am all for because I haven't done a lot with it. However, none of the options for showing the twig files used worked. Not in Firefox or in Chrome. I have no idea why. I ended up finding a class that was unique to the page and adding that to the beginning of all the classes. And then I started on the about page, but I think that's going to be a problem because the contact block is in a separate div from the rest, so I can't just put a display flex on the page.
