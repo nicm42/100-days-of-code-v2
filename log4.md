@@ -181,3 +181,6 @@ I finished the ships page! Including adding media queries to the grid so it show
 
 **Day 60: 22nd September 2021**
 A frustrating day today. I discovered some of the changes I'd made to the ships page affected the other pages too. The solution is to use twig, which I am all for because I haven't done a lot with it. However, none of the options for showing the twig files used worked. Not in Firefox or in Chrome. I have no idea why. I ended up finding a class that was unique to the page and adding that to the beginning of all the classes. And then I started on the about page, but I think that's going to be a problem because the contact block is in a separate div from the rest, so I can't just put a display flex on the page.
+
+**Day 61: 23rd September 2021**
+Another search for styling a specific page in Drupal told me that there's a body class that tells you what the page is. I could have saved so much time last night. I've now got that all over the place in each file. I finished styling the About page. I couldn't get it in the same order as the original, but I could at least get them all in a row when there was enough space. I started on the carousel, which is hard to do anything on because it keeps moving!
