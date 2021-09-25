@@ -187,3 +187,6 @@ Another search for styling a specific page in Drupal told me that there's a body
 
 **Day 62: 24th September 2021**
 I did Saturday's language learning today, so that I could spend the whole weekend on a Frontend Mentor project. Which I'm hoping I can fit into a weekend. I learnt the basics of Perl, which was pretty similar to JavaScript and other languages. But when it was different it was really different.
+
+**Day 63: 25th September 2021**
+The answer to the question of whether I can program a Frontend Mentor project in a weekend is yes, because I've nearly finished it in a day. I just have to do some more testing and refine the SCSS a bit, then it's done. Now I've written that down that could well take a day, depending on what I find, but it should be done tomorrow anyway.
