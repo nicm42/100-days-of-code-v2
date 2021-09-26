@@ -190,3 +190,6 @@ I did Saturday's language learning today, so that I could spend the whole weeken
 
 **Day 63: 25th September 2021**
 The answer to the question of whether I can program a Frontend Mentor project in a weekend is yes, because I've nearly finished it in a day. I just have to do some more testing and refine the SCSS a bit, then it's done. Now I've written that down that could well take a day, depending on what I find, but it should be done tomorrow anyway.
+
+**Day 64: 26th September 2021**
+I finished the Frontend Mentor project. When uploading it I found all the HTML and accessibility issues. I'd just been thinking about getting it done and got a bit div-happy. So that was some fun last-minute fixes... It is all done now, though, and tomorrow I need to give some feedback, since I've been meaning to for ages.
