@@ -193,3 +193,6 @@ The answer to the question of whether I can program a Frontend Mentor project in
 
 **Day 64: 26th September 2021**
 I finished the Frontend Mentor project. When uploading it I found all the HTML and accessibility issues. I'd just been thinking about getting it done and got a bit div-happy. So that was some fun last-minute fixes... It is all done now, though, and tomorrow I need to give some feedback, since I've been meaning to for ages.
+
+**Day 65: 27th September 2021**
+I finally did some Frontend Mentor feedback. I started off with challenges I'd done, but then went to anyone who had a query I could answer. Every time I do it I think how rewarding it is and how I should do it more often and then end up putting it off. I also went back to Click the Shape. It took me a while to think about how to reset the shape, but I got that done eventually. And then just a couple of randomisations and it's up to where the previous version was (albeit with layout problems and a strange bug, but they are for another day).
