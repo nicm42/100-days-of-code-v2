@@ -196,3 +196,6 @@ I finished the Frontend Mentor project. When uploading it I found all the HTML a
 
 **Day 65: 27th September 2021**
 I finally did some Frontend Mentor feedback. I started off with challenges I'd done, but then went to anyone who had a query I could answer. Every time I do it I think how rewarding it is and how I should do it more often and then end up putting it off. I also went back to Click the Shape. It took me a while to think about how to reset the shape, but I got that done eventually. And then just a couple of randomisations and it's up to where the previous version was (albeit with layout problems and a strange bug, but they are for another day).
+
+**Day 66: 28th September 2021**
+Back to Drupal today, before I forget what I'm doing. The carousel is now nearly done, it's just moving the title and body fields on top of the image that's left. When I tried using a position absolute, like I did with the arrows and dots it just made the image small. Investigating that will be for another day. I got as far as stopping the carousel from autoplaying because it was driving me mad trying to see anything when I inspected it.
