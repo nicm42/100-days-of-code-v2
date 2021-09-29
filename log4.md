@@ -199,3 +199,6 @@ I finally did some Frontend Mentor feedback. I started off with challenges I'd d
 
 **Day 66: 28th September 2021**
 Back to Drupal today, before I forget what I'm doing. The carousel is now nearly done, it's just moving the title and body fields on top of the image that's left. When I tried using a position absolute, like I did with the arrows and dots it just made the image small. Investigating that will be for another day. I got as far as stopping the carousel from autoplaying because it was driving me mad trying to see anything when I inspected it.
+
+**Day 67: 29th September 2021**
+I finished off the carousel, which involved going into Views and putting an HTML tag around the title, so then I could absolutely position it. I then did the nav, which was pretty simple, and added a favicon. And the realised that some of the text on the carousel isn't visible against some of the images, so I'll have to darken them tomorrow.
