@@ -205,3 +205,6 @@ I finished off the carousel, which involved going into Views and putting an HTML
 
 **Day 68: 30th September 2021**
 Very nearly finished off the Drupal site! Just a couple of small things to look at (at least I think they're small) and sort out the readme and it's done. Since I'm not putting it online, it will need a lot of screenshots.
+
+**Day 69: 1st October 2021**
+I Investigated the breakpoints file and I don't think I need it, but I added one anyway for the sake of completeness. I then spent ages taking screenshots of every page, since I'm not uploading it anywhere. And the Drupal Spaceship Store is done!
