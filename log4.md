@@ -208,3 +208,6 @@ Very nearly finished off the Drupal site! Just a couple of small things to look 
 
 **Day 69: 1st October 2021**
 I Investigated the breakpoints file and I don't think I need it, but I added one anyway for the sake of completeness. I then spent ages taking screenshots of every page, since I'm not uploading it anywhere. And the Drupal Spaceship Store is done!
+
+**Day 70: 2nd October 2021**
+Today was F#, which looked simple to get it to work on Linux, but it just wouldn't install .NET. Or at least it didn't look like it did, but VS Code now thinks it did. I ended up in Replit, which made things a lot easier. I looked at the languages they supported and there's loads in there I've never heard of, so I'm not going to run out of languages to try for a while.
