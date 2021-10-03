@@ -211,3 +211,6 @@ I Investigated the breakpoints file and I don't think I need it, but I added one
 
 **Day 70: 2nd October 2021**
 Today was F#, which looked simple to get it to work on Linux, but it just wouldn't install .NET. Or at least it didn't look like it did, but VS Code now thinks it did. I ended up in Replit, which made things a lot easier. I looked at the languages they supported and there's loads in there I've never heard of, so I'm not going to run out of languages to try for a while.
+
+**Day 71: 3rd October 2021**
+I started testing Click the Shape. It started slowly as I worked out what was going on, but now I've got the hang of it I've done some simple tests - mostly just that text is there. A lot of it changes things in other components, so I'll stick to checking the text for now, and then check that one thing changes when you change another thing. I imagine the testing will take a while, because it always does, just working out what's going on.
