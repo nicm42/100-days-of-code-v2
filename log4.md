@@ -214,3 +214,6 @@ Today was F#, which looked simple to get it to work on Linux, but it just wouldn
 
 **Day 71: 3rd October 2021**
 I started testing Click the Shape. It started slowly as I worked out what was going on, but now I've got the hang of it I've done some simple tests - mostly just that text is there. A lot of it changes things in other components, so I'll stick to checking the text for now, and then check that one thing changes when you change another thing. I imagine the testing will take a while, because it always does, just working out what's going on.
+
+**Day 72: 4th October 2021**
+More testing. I've pretty much done all the simple bits and got onto some local storage testing. I still have most of the interactivity to go, but it's taking ages because the tests just took ages to run. If they fail they take longer.
