@@ -217,3 +217,6 @@ I started testing Click the Shape. It started slowly as I worked out what was go
 
 **Day 72: 4th October 2021**
 More testing. I've pretty much done all the simple bits and got onto some local storage testing. I still have most of the interactivity to go, but it's taking ages because the tests just took ages to run. If they fail they take longer.
+
+**Day 73: 5th October 2021**
+I have nearly done all the unit tests. Except through them I found a bug. And then found two more... And can't see how to fix them, but there was something weird going on where it also wouldn't live reload, so I don't know if that has something to do with it. Hopefully it'll be more obvious tomorrow...
