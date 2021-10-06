@@ -220,3 +220,6 @@ More testing. I've pretty much done all the simple bits and got onto some local 
 
 **Day 73: 5th October 2021**
 I have nearly done all the unit tests. Except through them I found a bug. And then found two more... And can't see how to fix them, but there was something weird going on where it also wouldn't live reload, so I don't know if that has something to do with it. Hopefully it'll be more obvious tomorrow...
+
+**Day 74: 6th October 2021**
+I discovered what I was doing wrong yesterday was running npm start, when I should have run npm run dev. Running the right thing helped a lot... It then turned out that my fix for clearing the scores did work, so that was something. I then finished the Jest tests! My coverage is not 100%, but as always, the bits it says I haven't covered, I have in fact in the tests. So I won't worry about that. I just have an annoying bug that doesn't always happen to fix now...
