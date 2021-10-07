@@ -223,3 +223,6 @@ I have nearly done all the unit tests. Except through them I found a bug. And th
 
 **Day 74: 6th October 2021**
 I discovered what I was doing wrong yesterday was running npm start, when I should have run npm run dev. Running the right thing helped a lot... It then turned out that my fix for clearing the scores did work, so that was something. I then finished the Jest tests! My coverage is not 100%, but as always, the bits it says I haven't covered, I have in fact in the tests. So I won't worry about that. I just have an annoying bug that doesn't always happen to fix now...
+
+**Day 75: 7th October 2021**
+I had an idea about the bug and it turned out to be right - I think. It's hard to be sure because it didn't happen all the time. But it was because I was running the finished growing function on a timer, and I changed it to watch for grow becoming a 3 (pretty cool that you can do that!). I then did some styling - I removed a load of divs and elements that had classes that weren't used anywhere.
