@@ -226,3 +226,6 @@ I discovered what I was doing wrong yesterday was running npm start, when I shou
 
 **Day 75: 7th October 2021**
 I had an idea about the bug and it turned out to be right - I think. It's hard to be sure because it didn't happen all the time. But it was because I was running the finished growing function on a timer, and I changed it to watch for grow becoming a 3 (pretty cool that you can do that!). I then did some styling - I removed a load of divs and elements that had classes that weren't used anywhere.
+
+**Day 76: 8th October 2021**
+I finished off the SCSS. After fiddling with the closest scores, I found the easiest option was to just put them in a table, that way they'll always be lined up. I did the layout for desktop, although I'm not sure about it. It makes sense to use more horizontal space, but there's not much going on. I can't think of anything I'd like better, so I might have to live with it for a while and then see if I come up with a better idea. I then played with the clear scores button, making sure it's disabled when there are no scores to clear. A reactive variable came in very handy to do it with. It just took me a while to realise it was working and you couldn't click it, because it still changed colour on hover and had a hand cursor.
