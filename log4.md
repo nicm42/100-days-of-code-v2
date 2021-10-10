@@ -232,3 +232,6 @@ I finished off the SCSS. After fiddling with the closest scores, I found the eas
 
 **Day 77: 9th October 2021**
 Last week when I decided to try Lua, found tutorials making games with Lua/Love2D I thought it would be fun. And I was right, I loved it. I followed a tutorial to make a really simple game, and loved it so much I extended it once I'd finished the tutorial. I am definitely going to learn more about Lua and Love2D. I like the idea of making games as a side project, since it'll be different to what I do at work. And since I like making websites, which I'll be doing at work, and like making games, I can do that at home.
+
+**Day 78: 10th October 2021**
+I got loads done today. I did all the Cypress testing and updated my Jest tests to TypeScript (which wasn't too bad). I then added in the functionality to use spacebar rather than clicking, so then needed to update the text and all the tests. I felt guilt about using a load of awaits in my Jest testing, so I changed them to waitFor, which all worked perfectly. I then did a bit of aXe and Wave testing and fixed a few things those brought up that I had forgotten about/hadn't considered. After all the fuss I had with the closest scores and making it a table, it works perfectly well as a grid. I'm not sure why I hadn't done that in the first place.
