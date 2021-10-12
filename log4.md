@@ -238,3 +238,6 @@ I got loads done today. I did all the Cypress testing and updated my Jest tests 
 
 **Day 79: 11th October 2021**
 I added three more shapes, which I thought would be simple, but finding them was hard. Once I had them I discovered that the closest grid wants to fill everything in in order, so if there's a ratio missing, it'll fill that space with an icon. Which is probably why I didn't use a grid in the first place. And also, for some of the shapes the helper doesn't look centred. I thought this was true for the triangle before, but assumed it was just a trick of the shape, but it's not, it's because the shape doesn't completely fill the viewbox in all directions. I think. Anyway those are tomorrow's problems.
+
+**Day 80: 12th October 2021**
+I got more done than I thought today. I realised last night how to fix the closest grid - so instead of only rendering the scores if it's there, make it invisible if the score isn't there. I then played about with shapes - once they're centred within the box, they're fine. And updating all the tests was quick and easy. I then started on adding a count of the number of tries at clicking on a shape to get 2.0. I thought it was easy, tested it and found I'd not thought it through. So that's something for tomorrow.
