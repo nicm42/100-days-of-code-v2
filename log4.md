@@ -241,3 +241,6 @@ I added three more shapes, which I thought would be simple, but finding them was
 
 **Day 80: 12th October 2021**
 I got more done than I thought today. I realised last night how to fix the closest grid - so instead of only rendering the scores if it's there, make it invisible if the score isn't there. I then played about with shapes - once they're centred within the box, they're fine. And updating all the tests was quick and easy. I then started on adding a count of the number of tries at clicking on a shape to get 2.0. I thought it was easy, tested it and found I'd not thought it through. So that's something for tomorrow.
+
+**Day 81: 13th October 2021**
+I fixed the number of tries problem easily. And then started on MongoDB. I found a tutorial on NetNinja, which was good and although I found some websites that say what to put in, he explained why it was there and what was going on. So I am all set up with connecting to the database, I just need to work out how to connect it to my Svelte files, which the tutorial doesn't cover, since it's all back end. But looking at the project I did before using Express, I should be able to figure it out, with some Googling for tutorials. At least knowing React means I can look up React tutorials and understand how to apply them to Svelte.
