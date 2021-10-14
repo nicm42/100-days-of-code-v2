@@ -244,3 +244,6 @@ I got more done than I thought today. I realised last night how to fix the close
 
 **Day 81: 13th October 2021**
 I fixed the number of tries problem easily. And then started on MongoDB. I found a tutorial on NetNinja, which was good and although I found some websites that say what to put in, he explained why it was there and what was going on. So I am all set up with connecting to the database, I just need to work out how to connect it to my Svelte files, which the tutorial doesn't cover, since it's all back end. But looking at the project I did before using Express, I should be able to figure it out, with some Googling for tutorials. At least knowing React means I can look up React tutorials and understand how to apply them to Svelte.
+
+**Day 82: 14th October 2021**
+I thought connecting up the front and back end would be easy, but it wasn't. I added a proxy, but it needs Webpack (or CRA) so I ended up putting the whole link in there. And it turned out it didn't like Axios. So I took that out and just fetched it instead, and it finally worked. So that was pretty much all of my time. I did add routes and models for each shape, but now I'm thinking that I should just have one database and pick out the shape that's needed from the data, as otherwise adding new shapes involves a lot of work.
