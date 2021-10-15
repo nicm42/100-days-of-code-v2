@@ -247,3 +247,6 @@ I fixed the number of tries problem easily. And then started on MongoDB. I found
 
 **Day 82: 14th October 2021**
 I thought connecting up the front and back end would be easy, but it wasn't. I added a proxy, but it needs Webpack (or CRA) so I ended up putting the whole link in there. And it turned out it didn't like Axios. So I took that out and just fetched it instead, and it finally worked. So that was pretty much all of my time. I did add routes and models for each shape, but now I'm thinking that I should just have one database and pick out the shape that's needed from the data, as otherwise adding new shapes involves a lot of work.
+
+**Day 83: 15th October 2021**
+I changed the database to include scores. And realised when I did it that I'd set it up wrong before anyway, with my dummy data, as I had name as the key, not a key-value pair. I then filtered the data to get the data just for the current shape. Then added a new component which pops up a div with the names and scores in it. I just need to add more text to it and make it look nice. And then go onto posting data.
