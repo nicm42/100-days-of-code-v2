@@ -250,3 +250,6 @@ I thought connecting up the front and back end would be easy, but it wasn't. I a
 
 **Day 83: 15th October 2021**
 I changed the database to include scores. And realised when I did it that I'd set it up wrong before anyway, with my dummy data, as I had name as the key, not a key-value pair. I then filtered the data to get the data just for the current shape. Then added a new component which pops up a div with the names and scores in it. I just need to add more text to it and make it look nice. And then go onto posting data.
+
+**Day 84: 16th October 2021**
+Got a load done with the high scores component. I made it look good, which took a while. Then I realised I needed a button to open it. And also a message if there's no scores or an error or when it's loading. So I found out Svelte's way of doing that an added that in. But now it's all done, it just needs changing to only open when the ratio is 2.0, but it's easier to keep it doing it when you click a shape for testing.
