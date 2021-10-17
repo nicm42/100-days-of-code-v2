@@ -253,3 +253,6 @@ I changed the database to include scores. And realised when I did it that I'd se
 
 **Day 84: 16th October 2021**
 Got a load done with the high scores component. I made it look good, which took a while. Then I realised I needed a button to open it. And also a message if there's no scores or an error or when it's loading. So I found out Svelte's way of doing that an added that in. But now it's all done, it just needs changing to only open when the ratio is 2.0, but it's easier to keep it doing it when you click a shape for testing.
+
+**Day 85: 17th October 2021**
+Today was about posting scores to the database. I spent a while on the form and figuring out the Svelte way of doing things. Then wasn't at all sure about posting, but it turns out that you just change get to post and find to save in Express, then in JS tell it the method is post and it's done. So that was easy. It then took me a while to work out how to close the component and update the highscores table. I had to get the data back from the database again, but I can't see how to do it without changing from the Svelte way of doing things. Which I want to do, for the sake of learning how things are different in Svelte.
