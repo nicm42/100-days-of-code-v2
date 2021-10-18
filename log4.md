@@ -256,3 +256,6 @@ Got a load done with the high scores component. I made it look good, which took 
 
 **Day 85: 17th October 2021**
 Today was about posting scores to the database. I spent a while on the form and figuring out the Svelte way of doing things. Then wasn't at all sure about posting, but it turns out that you just change get to post and find to save in Express, then in JS tell it the method is post and it's done. So that was easy. It then took me a while to work out how to close the component and update the highscores table. I had to get the data back from the database again, but I can't see how to do it without changing from the Svelte way of doing things. Which I want to do, for the sake of learning how things are different in Svelte.
+
+**Day 86: 18th October 2021**
+I updated the code so the highscores only showed when you got a 2.0 ratio. And then found that whenever you click the button to view scores, the opportunity comes to post the scores. Having thought about ways round it, the only thing I could think of was to remove the button. No one will notice it's absence since they'll never know it was there in the first place. I tried it in a couple of browsers and then fiddled with the CSS a bit with the focus states. And then found it can't connect to the database on my phone. I don't know why.
