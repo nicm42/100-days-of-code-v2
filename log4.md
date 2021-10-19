@@ -259,3 +259,6 @@ Today was about posting scores to the database. I spent a while on the form and 
 
 **Day 86: 18th October 2021**
 I updated the code so the highscores only showed when you got a 2.0 ratio. And then found that whenever you click the button to view scores, the opportunity comes to post the scores. Having thought about ways round it, the only thing I could think of was to remove the button. No one will notice it's absence since they'll never know it was there in the first place. I tried it in a couple of browsers and then fiddled with the CSS a bit with the focus states. And then found it can't connect to the database on my phone. I don't know why.
+
+**Day 87: 19th October 2021**
+I fixed a couple of tests that were failing because I'd updated the props on those components. And then started on testing everything I'd added to interact with the database. I added some bits to mock the server, then realised I wasn't sure where to add that or how to test the await block. I ended up doing some testing of the text on the new bits, because I at least knew how to do that. The rest I can look into again tomorrow.
