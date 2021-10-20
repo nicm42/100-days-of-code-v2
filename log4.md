@@ -262,3 +262,6 @@ I updated the code so the highscores only showed when you got a 2.0 ratio. And t
 
 **Day 87: 19th October 2021**
 I fixed a couple of tests that were failing because I'd updated the props on those components. And then started on testing everything I'd added to interact with the database. I added some bits to mock the server, then realised I wasn't sure where to add that or how to test the await block. I ended up doing some testing of the text on the new bits, because I at least knew how to do that. The rest I can look into again tomorrow.
+
+**Day 88: 20th October 2021**
+Brad Traversy put out a video with an Express backend and through that I realised that connecting both doesn't require a proxy, you just tell Express to serve up the index file. Obviously with Svelte that is only going to work once you've built it, so there are some things to change before building, but it works perfectly, no Webpack required. I then uploaded it to Heroku which would have been simple if I'd copied the package.json into the right place and updated it to the right command for start. Of course once I got it working I realised there was a bug, but I am feeling closer to getting it done, now I've at least got the server/front end connection and deployment sorted.
