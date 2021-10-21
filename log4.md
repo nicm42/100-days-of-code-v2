@@ -265,3 +265,6 @@ I fixed a couple of tests that were failing because I'd updated the props on tho
 
 **Day 88: 20th October 2021**
 Brad Traversy put out a video with an Express backend and through that I realised that connecting both doesn't require a proxy, you just tell Express to serve up the index file. Obviously with Svelte that is only going to work once you've built it, so there are some things to change before building, but it works perfectly, no Webpack required. I then uploaded it to Heroku which would have been simple if I'd copied the package.json into the right place and updated it to the right command for start. Of course once I got it working I realised there was a bug, but I am feeling closer to getting it done, now I've at least got the server/front end connection and deployment sorted.
+
+**Day 89: 21st October 2021**
+I though the bug I found yesterday was going to be complicated to fix and involve a lot of of re-writing. Turned out I just had the wrong variable name in one place. So I tidied up some stuff and re-uploaded it and I think it's ready to send round. I still have some automated testing to do - but some of it I can't work out how to do because it's based on having a ratio of 2.0. But I can continue to look at that.
