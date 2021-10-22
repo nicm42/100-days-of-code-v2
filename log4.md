@@ -268,3 +268,6 @@ Brad Traversy put out a video with an Express backend and through that I realise
 
 **Day 89: 21st October 2021**
 I though the bug I found yesterday was going to be complicated to fix and involve a lot of of re-writing. Turned out I just had the wrong variable name in one place. So I tidied up some stuff and re-uploaded it and I think it's ready to send round. I still have some automated testing to do - but some of it I can't work out how to do because it's based on having a ratio of 2.0. But I can continue to look at that.
+
+**Day 90: 22nd October 2021**
+I didn't feel like I had a brain today, so I caught up on some videos and did enough katas on Codewars in Lua to get to 7kyu! Which was really hard to start with as I tried to get my head around how to do write in Lua and what the error messages meant (often that I'd missed the return statement or an end statement). But it was really useful for getting used to writing some very simple code in Lua
