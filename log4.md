@@ -271,3 +271,6 @@ I though the bug I found yesterday was going to be complicated to fix and involv
 
 **Day 90: 22nd October 2021**
 I didn't feel like I had a brain today, so I caught up on some videos and did enough katas on Codewars in Lua to get to 7kyu! Which was really hard to start with as I tried to get my head around how to do write in Lua and what the error messages meant (often that I'd missed the return statement or an end statement). But it was really useful for getting used to writing some very simple code in Lua
+
+**Day 91: 23rd October 2021**
+I did a C# tutorial, which was interesting. Visual Studio has a lot going on. And it felt like it complaining at the lack of semi-colons at the end of lines was a bit much while I was writing that line. But you could build and run your program with one click, which was pretty cool.
