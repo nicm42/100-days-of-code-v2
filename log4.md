@@ -274,3 +274,6 @@ I didn't feel like I had a brain today, so I caught up on some videos and did en
 
 **Day 91: 23rd October 2021**
 I did a C# tutorial, which was interesting. Visual Studio has a lot going on. And it felt like it complaining at the lack of semi-colons at the end of lines was a bit much while I was writing that line. But you could build and run your program with one click, which was pretty cool.
+
+**Day 92: 24th October 2021**
+I updated a bit of wording on the postscores and fixed the tests. Then I declared Click the Shape done. 
