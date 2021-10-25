@@ -277,3 +277,6 @@ I did a C# tutorial, which was interesting. Visual Studio has a lot going on. An
 
 **Day 92: 24th October 2021**
 I updated a bit of wording on the postscores and fixed the tests. Then I declared Click the Shape done. 
+
+**Day 93: 25th October 2021**
+I did Traversy Media's Vue crash course. It was interesting - it's like a mix of React and Svelte. And I think more like Svelte than React. It's definitely simpler than React. Right now my brain hurts, but if I built a project in it, then I'd understand it better.
