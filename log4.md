@@ -280,3 +280,9 @@ I updated a bit of wording on the postscores and fixed the tests. Then I declare
 
 **Day 93: 25th October 2021**
 I did Traversy Media's Vue crash course. It was interesting - it's like a mix of React and Svelte. And I think more like Svelte than React. It's definitely simpler than React. Right now my brain hurts, but if I built a project in it, then I'd understand it better.
+
+**Day 94: 26th October 2021**
+I started the Angular crash course. I'm glad I did the Vue one first, as this is the same project, so I have an idea of what's going on. It definitely needs a more powerful computer, because just creating a component takes a while. At least with React and Vue it's just creating it and starting the server that takes the time, once you're in it's fine.
+
+**Day 95: 27th October 2021**
+I finished the Angular crash course. I just found it a bit mad - you have to put stuff in certain places and do very specific things. If I looked into it it would probably make sense, but at the moment it feels really hard to understand.
