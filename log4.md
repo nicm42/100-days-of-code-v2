@@ -286,3 +286,6 @@ I started the Angular crash course. I'm glad I did the Vue one first, as this is
 
 **Day 95: 27th October 2021**
 I finished the Angular crash course. I just found it a bit mad - you have to put stuff in certain places and do very specific things. If I looked into it it would probably make sense, but at the moment it feels really hard to understand.
+
+**Day 96: 28th October 2021**
+I started on the freeCodeCamp Redux challenges. I get what they're saying but working out how to do them is harder. But that's not unusual - I've often not understood stuff in freeCodeCamp, then done a video and understood them. I was feeling a bit completist about the module, but I will probably go and watch a Redux/React video tomorrow and hopefully that'll all make more sense (now I come to think about it I should watch a video first and then go back to the challenges).
