@@ -289,3 +289,6 @@ I finished the Angular crash course. I just found it a bit mad - you have to put
 
 **Day 96: 28th October 2021**
 I started on the freeCodeCamp Redux challenges. I get what they're saying but working out how to do them is harder. But that's not unusual - I've often not understood stuff in freeCodeCamp, then done a video and understood them. I was feeling a bit completist about the module, but I will probably go and watch a Redux/React video tomorrow and hopefully that'll all make more sense (now I come to think about it I should watch a video first and then go back to the challenges).
+
+**Day 97: 29th October 2021**
+I watched a video on Redux, so I sort of get it a bit better. Although it didn't really help me with the challenges. And when it got to React and Redux I was totally lost because it's been such a long time since I've even seen React without hooks. I had no idea how to write it at all. But I somehow got to the end of them and I have a vague idea of what's going on with Redux, which was my aim.
