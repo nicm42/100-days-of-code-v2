@@ -292,3 +292,6 @@ I started on the freeCodeCamp Redux challenges. I get what they're saying but wo
 
 **Day 97: 29th October 2021**
 I watched a video on Redux, so I sort of get it a bit better. Although it didn't really help me with the challenges. And when it got to React and Redux I was totally lost because it's been such a long time since I've even seen React without hooks. I had no idea how to write it at all. But I somehow got to the end of them and I have a vague idea of what's going on with Redux, which was my aim.
+
+**Day 98: 30th October 2021**
+I did the freeCodeCamp MongDB and Moongoose challenges, which I thought would be fine since I've used both of those. But the challenges used them in a different way, so it took me a while to get my head around them. I then did a C++ tutorial to make a snake game. It wasn't the greatest tutorial, but I learnt a bit about C++ - mostly that it's not the hard language I expected it to be.
