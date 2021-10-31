@@ -295,3 +295,6 @@ I watched a video on Redux, so I sort of get it a bit better. Although it didn't
 
 **Day 98: 30th October 2021**
 I did the freeCodeCamp MongDB and Moongoose challenges, which I thought would be fine since I've used both of those. But the challenges used them in a different way, so it took me a while to get my head around them. I then did a C++ tutorial to make a snake game. It wasn't the greatest tutorial, but I learnt a bit about C++ - mostly that it's not the hard language I expected it to be.
+
+**Day 99: 31st October 2021**
+I did Traversy Media's Next and React Native Crash Courses. I liked Next, it was similar to React. I like how fast i makes everything if you build it to be a static site. I'm not entirely sure what use that is though. React Native was alright - it's React but not using HTML. It's similar to Flutter like that. But I spent an hour trying to get it to work on Android emulator and the best I could manage was a blank screen, which was frustrating. Especially as it slowed my computer down massively.
