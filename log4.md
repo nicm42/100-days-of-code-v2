@@ -298,3 +298,6 @@ I did the freeCodeCamp MongDB and Moongoose challenges, which I thought would be
 
 **Day 99: 31st October 2021**
 I did Traversy Media's Next and React Native Crash Courses. I liked Next, it was similar to React. I like how fast i makes everything if you build it to be a static site. I'm not entirely sure what use that is though. React Native was alright - it's React but not using HTML. It's similar to Flutter like that. But I spent an hour trying to get it to work on Android emulator and the best I could manage was a blank screen, which was frustrating. Especially as it slowed my computer down massively.
+
+**Day 100: 1st November 2021**
+Today was all about the JS games. I did the Kaboom and Phaser tutorials on their website. I used Replit, so I didn't have to spend time installing things, which sped things up. Although the Kaboom tutorial is flappy bird and every time I ran it the bird went off the screen because I had to click into the window to press the spacebar. But that got easier once it was possible to re-start the game. I enjoyed playing both of them and using both tools. I didn't get the excitement I got from using Lua/Love2D, but I am definitely up for following some more game tutorials.
