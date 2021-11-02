@@ -301,3 +301,6 @@ I did Traversy Media's Next and React Native Crash Courses. I liked Next, it was
 
 **Day 100: 1st November 2021**
 Today was all about the JS games. I did the Kaboom and Phaser tutorials on their website. I used Replit, so I didn't have to spend time installing things, which sped things up. Although the Kaboom tutorial is flappy bird and every time I ran it the bird went off the screen because I had to click into the window to press the spacebar. But that got easier once it was possible to re-start the game. I enjoyed playing both of them and using both tools. I didn't get the excitement I got from using Lua/Love2D, but I am definitely up for following some more game tutorials.
+
+**Day 101: 2nd November 2021**
+I gave some Frontend Mentor feedback and also caught up on videos on Firebase Auth and Stripe integration.
